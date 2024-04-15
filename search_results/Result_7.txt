@@ -1,0 +1,8 @@
+Title: Thermoelectric power factor of Bi-Sb-Te and Bi-Te-Se alloys and doping
+  strategy: First-principles study
+URL: http://arxiv.org/abs/1704.01723v1
+Summary: By performing first principles calculations combined with Boltzmann transport
+equations, we calculate the thermoelectric power factor (PF) of Bi-Sb-Te and
+Bi-Te-Se ternary alloys as a function of alloy composition ratio, carrier
+concentration, and temperature. The point defect formation energy calculations
+also perform to search potential n-type dopant candidates in ternaries.

@@ -1,0 +1,24 @@
+Title: BI-REC: Guided Data Analysis for Conversational Business Intelligence
+URL: http://arxiv.org/abs/2105.00467v1
+Summary: Conversational interfaces to Business Intelligence (BI) applications enable
+data analysis using a natural language dialog in small incremental steps. To
+truly unleash the power of conversational BI to democratize access to data, a
+system needs to provide effective and continuous support for data analysis. In
+this paper, we propose BI-REC, a conversational recommendation system for BI
+applications to help users accomplish their data analysis tasks.
+  We define the space of data analysis in terms of BI patterns, augmented with
+rich semantic information extracted from the OLAP cube definition, and use
+graph embeddings learned using GraphSAGE to create a compact representation of
+the analysis state. We propose a two-step approach to explore the search space
+for useful BI pattern recommendations. In the first step, we train a
+multi-class classifier using prior query logs to predict the next high-level
+actions in terms of a BI operation (e.g., {\em Drill-Down} or {\em Roll-up})
+and a measure that the user is interested in. In the second step, the
+high-level actions are further refined into actual BI pattern recommendations
+using collaborative filtering. This two-step approach allows us to not only
+divide and conquer the huge search space, but also requires less training data.
+Our experimental evaluation shows that BI-REC achieves an accuracy of 83% for
+BI pattern recommendations and up to 2X speedup in latency of prediction
+compared to a state-of-the-art baseline. Our user study further shows that
+BI-REC provides recommendations with a precision@3 of 91.90% across several
+different analysis tasks.

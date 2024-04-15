@@ -1,0 +1,21 @@
+Title: Navigating Fairness: Practitioners' Understanding, Challenges, and
+  Strategies in AI/ML Development
+URL: http://arxiv.org/abs/2403.15481v1
+Summary: The rise in the use of AI/ML applications across industries has sparked more
+discussions about the fairness of AI/ML in recent times. While prior research
+on the fairness of AI/ML exists, there is a lack of empirical studies focused
+on understanding the views and experiences of AI practitioners in developing a
+fair AI/ML. Understanding AI practitioners' views and experiences on the
+fairness of AI/ML is important because they are directly involved in its
+development and deployment and their insights can offer valuable real-world
+perspectives on the challenges associated with ensuring fairness in AI/ML. We
+conducted semi-structured interviews with 22 AI practitioners to investigate
+their understanding of what a 'fair AI/ML' is, the challenges they face in
+developing a fair AI/ML, the consequences of developing an unfair AI/ML, and
+the strategies they employ to ensure AI/ML fairness. We developed a framework
+showcasing the relationship between AI practitioners' understanding of 'fair
+AI/ML' and (i) their challenges in its development, (ii) the consequences of
+developing an unfair AI/ML, and (iii) strategies used to ensure AI/ML fairness.
+Additionally, we also identify areas for further investigation and offer
+recommendations to aid AI practitioners and AI companies in navigating
+fairness.

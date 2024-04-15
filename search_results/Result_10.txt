@@ -1,0 +1,22 @@
+Title: Development of 2D Bi-SQUID Arrays with High Linearity
+URL: http://arxiv.org/abs/1301.2163v1
+Summary: We develop a two-dimensional (2D) Superconducting Quantum Interference Filter
+(SQIF) array based on recently introduced high-linearity tri-junction
+bi-SQUIDs. Our bi-SQUID SQIF array design is based on a tight integration of
+individual bi- SQUID cells sharing inductances with adjacent cells. We provide
+extensive computer simulations, analysis and experimental measurements, in
+which we explore the phase dynamics and linearity of the array voltage
+response. The non-uniformity in inductances of the bi-SQUIDs produces a
+pronounced zero-field single antipeak in the voltage response. The anti-peak
+linearity and size can be optimized by varying the critical current of the
+additional junction of each bi-SQUID. The layout implementation of the tight 2D
+array integration leads to a distinct geometrical diamond shape formed by the
+merged dual bi-SQUID cells. Different size 2D arrays are fabricated using
+standard HYPRES niobium 4.5 kA/cm2 fabrication process. The measured linearity,
+power gain, and noise properties will be analyzed for different array sizes and
+the results will be compared with circuit simulations. We will discuss a design
+approach for the electrically small magnetic field antenna and low-noise
+amplifiers with high bandwidth based on these 2D bi-SQUID SQIF arrays. The
+results from this work will be used to design chips densely and completely
+covered in bi-SQUIDs that has optimized parameters such as linearity and power
+gain.

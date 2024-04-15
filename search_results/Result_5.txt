@@ -1,0 +1,10 @@
+Title: Probing dark energy using convergence power spectrum and bi-spectrum
+URL: http://arxiv.org/abs/1705.00657v2
+Summary: Weak lensing convergence statistics is a powerful tool to probe dark energy.
+Dark energy plays an important role to the structure formation and the effects
+can be detected through the convergence power spectrum, bi-spectrum etc. One of
+the most promising and simplest dark energy model is the $ \Lambda $CDM.
+However, it is worth investigating different dark energy models with evolving
+equation of state of the dark energy. In this work, detectability of different
+dark energy models from $ \Lambda $CDM model has been explored through
+convergence power spectrum and bi-spectrum.

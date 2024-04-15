@@ -1,0 +1,10 @@
+Title: The Hadamard Products for bi-periodic Fibonacci and bi-periodic Lucas
+  Generating matrices
+URL: http://arxiv.org/abs/1705.05127v1
+Summary: In this paper, firstly, we define the Qq-generating matrix for bi-periodic
+Fibonacci polynomial. And we give nth power, determinant and some properties of
+the bi-periodic Fibonacci polynomial by considering this matrix representation.
+Also, we introduce the Hadamard products for bi-periodic Fibonacci Qnq
+generating matrix and bi-periodic Lucas Qnl generating matrix of which entries
+is bi-periodic Fibonacci and Lucas numbers. Then, we investigate some
+properties of these products.

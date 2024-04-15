@@ -1,0 +1,14 @@
+Title: Bi-interpretation in weak set theories
+URL: http://arxiv.org/abs/2001.05262v2
+Summary: In contrast to the robust mutual interpretability phenomenon in set theory,
+Ali Enayat proved that bi-interpretation is absent: distinct theories extending
+ZF are never bi-interpretable and models of ZF are bi-interpretable only when
+they are isomorphic. Nevertheless, for natural weaker set theories, we prove,
+including Zermelo-Fraenkel set theory $\text{ZFC}^-$ without power set and
+Zermelo set theory Z, there are nontrivial instances of bi-interpretation.
+Specifically, there are well-founded models of $\text{ZFC}^-$ that are
+bi-interpretable, but not isomorphic---even $\langle H_{\omega_1},\in\rangle$
+and $\langle H_{\omega_2},\in\rangle$ can be bi-interpretable---and there are
+distinct bi-interpretable theories extending $\text{ZFC}^-$. Similarly, using a
+construction of Mathias, we prove that every model of ZF is bi-interpretable
+with a model of Zermelo set theory in which the replacement axiom fails.

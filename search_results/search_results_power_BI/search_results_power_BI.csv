@@ -1,0 +1,963 @@
+Index,Title,URL,Summary
+1,"The Hadamard Products for bi-periodic Fibonacci and bi-periodic Lucas
+  Generating matrices",http://arxiv.org/abs/1705.05127v1,"In this paper, firstly, we define the Qq-generating matrix for bi-periodic
+Fibonacci polynomial. And we give nth power, determinant and some properties of
+the bi-periodic Fibonacci polynomial by considering this matrix representation.
+Also, we introduce the Hadamard products for bi-periodic Fibonacci Qnq
+generating matrix and bi-periodic Lucas Qnl generating matrix of which entries
+is bi-periodic Fibonacci and Lucas numbers. Then, we investigate some
+properties of these products."
+2,"Auto-BI: Automatically Build BI-Models Leveraging Local Join Prediction
+  and Global Schema Graph",http://arxiv.org/abs/2306.12515v1,"Business Intelligence (BI) is crucial in modern enterprises and
+billion-dollar business. Traditionally, technical experts like database
+administrators would manually prepare BI-models (e.g., in star or snowflake
+schemas) that join tables in data warehouses, before less-technical business
+users can run analytics using end-user dashboarding tools. However, the
+popularity of self-service BI (e.g., Tableau and Power-BI) in recent years
+creates a strong demand for less technical end-users to build BI-models
+themselves.
+  We develop an Auto-BI system that can accurately predict BI models given a
+set of input tables, using a principled graph-based optimization problem we
+propose called \textit{k-Min-Cost-Arborescence} (k-MCA), which holistically
+considers both local join prediction and global schema-graph structures,
+leveraging a graph-theoretical structure called \textit{arborescence}. While we
+prove k-MCA is intractable and inapproximate in general, we develop novel
+algorithms that can solve k-MCA optimally, which is shown to be efficient in
+practice with sub-second latency and can scale to the largest BI-models we
+encounter (with close to 100 tables).
+  Auto-BI is rigorously evaluated on a unique dataset with over 100K real BI
+models we harvested, as well as on 4 popular TPC benchmarks. It is shown to be
+both efficient and accurate, achieving over 0.9 F1-score on both real and
+synthetic benchmarks."
+3,"Thermoelectric power of Bi and Bi(1-x)Te(x), x=0.0014,in porous Vycor
+  glass",http://arxiv.org/abs/cond-mat/0311112v1,"Semiconductor quantum wires constitute a promising thermoelectric material
+because of the increase of the electronic density of states in low-dimensional
+materials. We studied the magnetic-field-dependent resistance and Seebeck
+coefficient of a high-density network of 6-nm-diameter wires of Bi and of
+Bi(1-x)Te(x), x=0.0014, in porous Vycor glass. The resistance R increases as
+temperature decreases from 300 K down to 0.3 K for both composites. However, in
+contrast to recent results that demonstrate the semiconducting behavior of the
+resistance and very large enhancements of the thermoelectric power of
+composites containing Bi nanowires with diameters of 9 and 15 nm, we find that
+the resistance is not thermally activated and that the thermoelectric power of
+the composites is of the same order of magnitude as the thermoelectric power of
+bulk Bi. Our results are consistent with the nanowires having carrier density
+that is enhanced by surface effects."
+4,"Thermoelectric power factor of Bi-Sb-Te and Bi-Te-Se alloys and doping
+  strategy: First-principles study",http://arxiv.org/abs/1704.01723v1,"By performing first principles calculations combined with Boltzmann transport
+equations, we calculate the thermoelectric power factor (PF) of Bi-Sb-Te and
+Bi-Te-Se ternary alloys as a function of alloy composition ratio, carrier
+concentration, and temperature. The point defect formation energy calculations
+also perform to search potential n-type dopant candidates in ternaries."
+5,"Effect of Bi-substitution on Structural Stability and Improved
+  Thermoelectric Performance of p-type Half-Heusler TaSbRu: A First-principles
+  Study",http://arxiv.org/abs/2008.12564v1,"Recently, Fang et al. have predicted a high ZT of 1.54 in TaSbRu alloys at
+1200 K from first-principles without considering spin-orbit interaction,
+accurate electronic structure, details of phonon scattering, and
+energy-dependent holes relaxation time. Here, we report the details of
+structural stability and thermoelectric performance of Bi-Substituted p-type
+TaSbRu from first-principles calculations considering theses important
+parameters. This indirect bandgap semiconductor (Eg=0.8 eV by TB-mBJ+SOC) has
+highly dispersive and degenerate valence bands, which lead to a maximum power
+factor, 3.8 mWm-1K-2 at 300K. As Sb-5p has a small contribution to the bandgap
+formation, the substitution of Bi on the Sb site does not cause significant
+change to the electronic structure. Although the Seebeck coefficient increases
+by Bi due to slight changes in the bandgap, electrical conductivity, and hence,
+the power factor reduces to ~3 mW m-1K-2 at 300K (50% Bi). On the other side,
+lattice thermal conductivity drops effectively to 5 from 20 W/m K as Bi
+introduces a significant contribution in the acoustic phonon region and
+intensify phonon scattering. Thus, ZT value is improved through
+Bi-substitution, reaching 1.1 (50% Bi) at 1200 K from 0.45 (pure TaSbRu) only.
+Therefore, the present study suggests how to improve the TE performance of
+Sb-based half-Heusler compounds and TaSbRu (with 50% Bi) is a promising
+material for high-temperature applications."
+6,"Rotatory power reversal induced by magnetic-current in bi-isotropic
+  media",http://arxiv.org/abs/2207.03888v1,"Bi-isotropic media constitute a proper scenario for scrutinizing optical
+effects stemming from magnetoelectric parameters. Chiral magnetic current is a
+macroscopic effect arising from the chiral magnetic effect that enriches the
+phenomenology of a classical dielectric medium. This work examines optical
+aspects of bi-isotropic media in the presence of magnetic conductivity. The
+full isotropic scenario manifests circular birefringence described by a
+dispersive rotatory power that changes sign at a given frequency. For a
+bi-isotropic medium with antisymmetric magnetic conductivity, an intricate
+dispersive rotatory power is attained, supplied with sign reversal as well.
+This scenario also indicates a handedness reversion of the medium, an unusual
+property in dielectrics, which may work as a signature of bi-isotropic media
+supporting chiral magnetic current."
+7,"Navigating the acceptance of implementing business intelligence in
+  organizations: A system dynamics approach",http://arxiv.org/abs/2308.10244v1,"The rise of information technology has transformed the business landscape,
+with organizations increasingly relying on information systems to collect and
+store vast amounts of data. To stay competitive, businesses must harness this
+data to make informed decisions that optimize their actions in response to the
+market. Business intelligence (BI) is an approach that enables organizations to
+leverage data-driven insights for better decision-making, but implementing BI
+comes with its own set of challenges. Accordingly, understanding the key
+factors that contribute to successful implementation is crucial.
+  This study examines the factors affecting the implementation of BI projects
+by analyzing the interactions between these factors using system dynamics
+modeling. The research draws on interviews with five BI experts and a review of
+the background literature to identify effective implementation strategies.
+Specifically, the study compares traditional and self-service implementation
+approaches and simulates their respective impacts on organizational acceptance
+of BI. The results show that the two approaches were equally effective in
+generating organizational acceptance until the twenty-fifth month of
+implementation, after which the self-service strategy generated significantly
+higher levels of acceptance than the traditional strategy. In fact, after 60
+months, the self-service approach was associated with a 30% increase in
+organizational acceptance over the traditional approach. The paper also
+provides recommendations for increasing the acceptance of BI in both
+implementation strategies. Overall, this study underscores the importance of
+identifying and addressing key factors that impact BI implementation success,
+offering practical guidance to organizations seeking to leverage the power of
+BI in today's competitive business environment."
+8,"Fano resonance in two-dimensional optical waveguide arrays with a
+  bi-modal defect",http://arxiv.org/abs/nlin/0508016v1,"We study the two-dimensional extension of the Fano-Anderson model on the
+basis of a two-dimensional optical waveguide array with a bi-modal defect. We
+demonstrate numerically the persistence of the Fano resonance in wavepacket
+scattering process by the defect. An analytical approximation is derived for
+the total scattered light power."
+9,"Strategy for enhanced thermoelectric performance of Bi2S3 nanorods by Bi
+  nanoinclusions",http://arxiv.org/abs/1906.03003v1,"This is the first report on the enhanced thermoelectric (TE) properties of
+novel Bi2S3-Bi nanocomposites synthesized using a one-step polyol method at
+different reaction temperatures (TRe) and time. They are well-characterized as
+nanorod-composites, coexistent with orthorhombic Bi2S3 and rhombohedral Bi
+phases together in which the latter coats the former forming Bi2S3-Bi
+core-shell type structures along with independent Bi nanoparticles (NPs). There
+is a very significant observation of systematic reduction in electri-cal
+resistivity \r{ho} with reaction temperature and time duration increase,
+revealing a promising approach for reduction of \r{ho} in this highly resistive
+Bi2S3 and hence resolving the earlier obstacles for its thermoelectric
+application potentials for the past few decades. Most astonishingly, TE power
+factor at 300 K of highest Bi content nanocomposite pellet, made at 27 oC using
+~900 MPa pressure, is 3 orders of magnitude greater than that of hot-pressed
+Bi2S3, or even 23% better than that of spark plasma-sintered core-shell
+Bi2S3@Bi sample reported earlier (Tarachand et al. Nano Res. 2016, 9, 3291; Ge
+et al. ACS Appl. Mater. Interfaces 2017, 9, 4828). Considering the probable
+greatly reduced thermal conductivity due to their complex nanostructures, the
+significantly improved TE performance potential near 300 K is highly
+anticipated for these toxic- and rare earth element-free TE nanocomposites,
+making the present synthesis method as a pioneering approach for developing
+enhanced thermoelectric properties of Bi2S3-based materials without using extra
+sintering steps."
+10,"Resonant-state expansion for open optical systems: Generalization to
+  magnetic, chiral, and bi-anisotropic materials",http://arxiv.org/abs/1801.08883v1,"The resonant-state expansion, a recently developed powerful method in
+electrodynamics, is generalized here for open optical systems containing
+magnetic, chiral, or bi-anisotropic materials. It is shown that the key matrix
+eigenvalue equation of the method remains the same, but the matrix elements of
+the perturbation now contain variations of the permittivity, permeability, and
+bi-anisotropy tensors. A general normalization of resonant states in terms of
+the electric and magnetic fields is presented."
+11,"Bipartite bi-Cayley graphs over metacyclic groups of odd prime-power
+  order",http://arxiv.org/abs/1707.02790v1,"A graph $\Gamma$ is a bi-Cayley graph over a group $G$ if $G$ is a
+semiregular group of automorphisms of $\Gamma$ having two orbits. Let $G$ be a
+non-abelian metacyclic $p$-group for an odd prime $p$, and let $\Gamma$ be a
+connected bipartite bi-Cayley graph over the group $G$. In this paper, we prove
+that $G$ is normal in the full automorphism group ${\rm Aut}(\Gamma)$ of
+$\Gamma$ when $G$ is a Sylow $p$-subgroup of ${\rm Aut}(\Gamma)$. As an
+application, we classify half-arc-transitive bipartite bi-Cayley graphs over
+the group $G$ of valency less than $2p$. Furthermore, it is shown that there
+are no semisymmetric and no arc-transitive bipartite bi-Cayley graphs over the
+group $G$ of valency less than $p$."
+12,"Bismuth-doped Ga2O3 as candidate for p-type transparent conducting
+  material",http://arxiv.org/abs/1906.00840v1,"Gallium oxide (Ga2O3) is a wide-band-gap semiconductor promising for UV
+sensors and high power transistor applications, with Baliga's figure of merit
+that far exceeds those of GaN and SiC, second only to diamond. Engineering its
+band structure through alloying will broaden its range of applications. Using
+hybrid density functional calculations we study the effects on adding Bi to
+Ga2O3. While in III-V semiconductors, such as GaAs and InAs, Bi tend to
+substitute on the pnictide site, we find that in Ga2O3, Bi prefers to
+substitute on the Ga site, resulting in dilute (Ga_{1-x}Bi_{x})2O3 alloys with
+unique electronic structure properties. Adding a few percent of Bi reduces the
+band gap of Ga2O3 by introducing an intermediate valence band that is
+significantly higher in energy than the valence band of the host material. This
+intermediate valence band is composed mainly of Bi 6s and O 2p orbitals, and it
+is sufficiently high in energy to provide opportunity for p-type doping."
+13,"Devices for Thermal Conductivity Measurements of Electroplated Bi for
+  X-ray TES Absorbers",http://arxiv.org/abs/2111.02503v1,"Electroplated Bismuth (Bi) is commonly used in Transition-Edge Sensors (TESs)
+for X-rays because of its high stopping power and low heat capacity.
+Electroplated Bi is usually grown on top of another metal that acts as seed
+layer, typically gold (Au), making it challenging to extrapolate its
+thermoelectric properties. In this work, we present four-wire resistance
+measurement structures that allow us to measure resistance as a function of
+temperature of electroplated Bi independently of Au. The results show that the
+thermal conductivity of the Bi at 3 K is high enough to guarantee the correct
+thermalization of X-ray photons when used as an absorber for TESs."
+14,"Microstructure analysis of bismuth absorbers for transition-edge sensor
+  X-ray microcalorimeters",http://arxiv.org/abs/1711.02215v1,"Transition-edge sensors (TESs) as microcalorimeters offer high resolving
+power, owning to their sharp response and low operating temperature. In the
+hard X-ray regime and above, the demand for high quantum-efficiency requires
+the use of absorbers. Bismuth (Bi), owing to its low heat carrier density and
+high X-ray stopping power, has been widely used as an absorber material for
+TESs. However, distinct spectral responses have been observed for Bi absorbers
+deposited via evaporation versus electroplating. Evaporated Bi absorbers are
+widely observed to have a non-Gaussian tail on the low energy side of measured
+spectra. In this study, we fabricated Bi absorbers via these two methods, and
+performed microstructure analysis using scanning electron microscopy (SEM) and
+X-ray diffraction microscopy. The two types of material showed the same
+crystallographic structure, but the grain size of the evaporated Bi was about
+40 times smaller than that of the electroplated Bi. This distinction in grain
+size is likely to be the cause of their different spectral responses."
+15,"Reinforcement Learning-Based Cooperative P2P Power Trading between DC
+  Nanogrid Clusters with Wind and PV Energy Resources",http://arxiv.org/abs/2209.07744v2,"In replacing fossil fuels with renewable energy resources for carbon
+neutrality, the unbalanced resource production of intermittent wind and
+photovoltaic (PV) power is a critical issue for peer-to-peer (P2P) power
+trading. To address this issue, a reinforcement learning (RL) technique is
+introduced in this paper. For RL, a graph convolutional network (GCN) and a
+bi-directional long short-term memory (Bi-LSTM) network are jointly applied to
+P2P power trading between nanogrid clusters, based on cooperative game theory.
+The flexible and reliable DC nanogrid is suitable for integrating renewable
+energy for a distribution system. Each local nanogrid cluster takes the
+position of prosumer, focusing on power production and consumption
+simultaneously. For the power management of nanogrid cluster, multi-objective
+optimization is applied to each local nanogrid cluster with the Internet of
+Things (IoT) technology. Charging/discharging of an electric vehicle (EV) is
+executed considering the intermittent characteristics of wind and PV power
+production. RL algorithms, such as GCN- convolutional neural network (CNN)
+layers for deep Q-learning network (DQN), GCN-LSTM layers for deep recurrent
+Q-learning network (DRQN), GCN-Bi-LSTM layers for DRQN, and GCN-Bi-LSTM layers
+for proximal policy optimization (PPO), are used for simulations. Consequently,
+the cooperative P2P power trading system maximizes the profit by considering
+the time of use (ToU) tariff-based electricity cost and the system marginal
+price (SMP), and minimizes the amount of grid power consumption. Power
+management of nanogrid clusters with P2P power trading is simulated on a
+distribution test feeder in real time, and the proposed GCN-Bi-LSTM-PPO
+technique achieving the lowest electricity cost among the RL algorithms used
+for comparison reduces the electricity cost by 36.7%, averaging over nanogrid
+clusters."
+16,"Investigating Phase Transition and Morphology of Bi-Te Thermoelectric
+  System",http://arxiv.org/abs/1909.08613v2,"The optimization of secondary phase in thermoelectric(TE) materials can
+{helps in improvisation of material's efficiency}. Being a potential
+{contender} for lower temperature TE application, bismuth
+telluride(Bi$_2$Te$_3$) nanoparticles were synthesized via different routes and
+profiles to optimize their pure single phase. Systematic characterizations were
+performed with the help of X-ray diffraction (XRD), Rietveld refinement and
+field effect-scanning electron microscopy(FE-SEM) for structural and
+morphological behavior, while TE properties such as Seebeck coefficient,
+electrical conductivity and power-factor were measured for the purest sample
+chosen. Rietveld refinement in the XRD pattern of the samples revealed that
+only a small amount ($\sim$ 1.6\%) of Bi$_2$Te$_3$ was formed in
+co-precipitation method, while the hydrothermal technique increases this phase
+with increment in synthesis duration. This work focused on the phase evolution
+of Bi$_2$Te$_3$ with increasing synthesis duration time at constant temperature
+and vice-versa. XRD and Rietveld refinement revealed that the hydrothermal
+technique (150 $^\circ$C for 48 hours) can synthesize purest samples (84\%
+Bi$_2$Te$_3$ phase in this case). {FE-SEM and Energy Dispersive X-ray analysis
+unveiled that the impure phases in the system {were} quantitatively reduced,
+and it supported by decline in atomic percentage of oxygen from 37\% to 11\%,
+in addition to this, it was also found that particle size was also decreased
+with increase in temperature.} The observed electrical conductivity of the
+chosen sample is $\sim$20 times greater, while Seebeck coefficient is $\sim$3
+times lower than that of pure Bi$_2$Te$_3$ phase. The detailed analysis has
+generalized the growth mechanism in Bi$_2$Te$_3$ phase evolution by the
+diffusion of Bi into Te nanorods to fabricate hexagonal Bi$_2$Te$_3$."
+17,"A Focusing Framework for Testing Bi-Directional Causal Effects with GWAS
+  Summary Data",http://arxiv.org/abs/2203.06887v1,"Mendelian randomization (MR) is a powerful method that uses genetic variants
+as instrumental variables (IVs) to infer the causal effect of a modifiable
+exposure on an outcome. Although recent years have seen many extensions of
+basic MR methods to be robust to certain violations of assumptions, few methods
+were proposed to infer bi-directional causal relationships, especially for
+phenotypes with limited biological understandings. The presence of horizontal
+pleiotropy adds another layer of complexity. In this article, we show that
+assumptions for common MR methods are often impossible or too stringent in the
+existence of bi-directional relationships. We then propose a new focusing
+framework for testing bi-directional causal effects between two traits with
+possibly pleiotropic genetic variants. Our proposal can be coupled with many
+state-of-art MR methods. We provide theoretical guarantees on the Type I error
+and power of the proposed methods. We demonstrate the robustness of the
+proposed methods using several simulated and real datasets."
+18,"Real-Time Bi-directional Electric Vehicle Charging Control with
+  Distribution Grid Implementation",http://arxiv.org/abs/1711.03086v1,"As electric vehicle (EV) adoption is growing year after year, there is no
+doubt that EVs will occupy a significant portion of transporting vehicle in the
+near future. Although EVs have benefits for environment, large amount of
+un-coordinated EV charging will affect the power grid and degrade power
+quality. To alleviate negative effects of EV charging load and turn them to
+opportunities, a decentralized real-time control algorithm is developed in this
+paper to provide optimal scheduling of EV bi-directional charging. To evaluate
+the performance of the proposed algorithm, numerical simulation is performed
+based on real-world EV user data, and power flow analysis is carried out to
+show how the proposed algorithm improve power grid steady state operation. .
+The results show that the implementation of proposed algorithm can effectively
+coordinate bi-directional charging by 30% peak load shaving, more than 2% of
+voltage drop reduction, and 40% transmission line current decrease."
+19,"Hamiltonicity of bi-power of bipartite graphs, for finite and infinite
+  cases",http://arxiv.org/abs/1902.06403v1,"For a graph $G$, the $t$-th power $G^t$ is the graph on $V(G)$ such that two
+vertices are adjacent if and only if they have distance at most $t$ in $G$; and
+the $t$-th bi-power $G_B^t$ is the graph on $V(G)$ such that two vertices are
+adjacent if and only if their distance in $G$ is odd at most $t$. Fleischner's
+theorem states that the square of every 2-connected finite graph has a
+Hamiltonian cycle. Georgakopoulos prove that the square of every 2-connected
+infinite locally finite graph has a Hamiltonian circle. In this paper, we
+consider the Hamiltonicity of the bi-power of bipartite graphs. We show that
+for every connected finite bipartite graph $G$ with a perfect matching, $G_B^3$
+has a Hamiltonian cycle. We also show that if $G$ is a connected infinite
+locally finite bipartite graph with a perfect matching, then $G_B^3$ has a
+Hamiltonian circle."
+20,$V$-universal Hopf algebras (co)acting on $Ω$-algebras,http://arxiv.org/abs/2005.12954v4,"We develop a theory which unifies the universal (co)acting bi/Hopf algebras
+as studied by Sweedler, Manin and Tambara with the recently introduced
+\cite{AGV1} bi/Hopf-algebras that are universal among all support equivalent
+(co)acting bi/Hopf algebras. Our approach uses vector spaces endowed with a
+family of linear maps between tensor powers of $A$, called $\Omega$-algebras.
+This allows us to treat algebras, coalgebras, braided vector spaces and many
+other structures in a unified way. We study $V$-universal measuring coalgebras
+and $V$-universal comeasuring algebras between $\Omega$-algebras $A$ and $B$,
+relative to a fixed subspace $V$ of $\Vect(A,B)$. By considering the case
+$A=B$, we derive the notion of a $V$-universal (co)acting bialgebra (and Hopf
+algebra) for a given algebra $A$. In particular, this leads to a refinement of
+the existence conditions for the Manin--Tambara universal coacting bi/Hopf
+algebras. We establish an isomorphism between the $V$-universal acting bi/Hopf
+algebra and the finite dual of the $V$-universal coacting bi/Hopf algebra under
+certain conditions on $V$ in terms of the finite topology on $\End_F(A)$."
+21,"Ultrafast multi-photon excitation of ScVO$_4$:Bi$^{3+}$ for luminescence
+  thermometry",http://arxiv.org/abs/2112.00010v2,"We demonstrate a multi-photon excitation (MPE) scheme for luminescence
+thermometry using ScVO$_4$:Bi$^{3+}$. MPE is performed using a 37 fs
+Ti:Sapphire laser pulse centred at 800 nm. Log-log plots of the phosphorescence
+intensity versus excitation power show that the 800 nm MPE of
+ScVO$_4$:Bi$^{3+}$ involves a 2- and 3-photon absorption process in comparison
+to a single-photon excitation (SPE) process at 266 nm and 400 nm. Spectroscopic
+investigation shows that with the 800 nm MPE and 266 nm SPE schemes, the
+emission spectra of ScVO$_4$:Bi$^{3+}$ are similarly characterized by emissions
+of the VO$_4^{3-}$ groups and Bi$^{3+}$. The MPE is advantageous to suppress
+fluorescence which interfere with the phosphorescence signal. We demonstrate
+this aspect for a ScVO$_4$:Bi$^{3+}$ coating applied on an alumina substrate.
+The luminescence lifetime is calibrated with temperature over 294-334 K; the
+MPE scheme has an equally impressive temperature sensitivity (3.4-1.7% / K) and
+precision (0.2-0.7K) compared to the SPE schemes. The MPE scheme can be applied
+to a variety of phosphors and is valuable for precise temperature measurements
+even in applications where isolating interfering background emissions is
+challenging."
+22,"Symmetric and antisymmetric constitutive tensors for bi-isotropic and
+  bi-anisotropic media",http://arxiv.org/abs/2204.10460v3,"The Maxwell equations and the constitutive relations describe the classical
+propagation of electromagnetic waves in continuous matter. Here, we investigate
+the effects stemming from extended constitutive relations on the propagation of
+waves in bi-isotropic and bi-anisotropic media using a classical general
+approach based on the evaluation of dispersion relations and refractive
+indices. For the bi-anisotropic media, we specify two classes of
+magnetoelectric parameters represented by symmetric and antisymmetric tensors.
+The three cases examined have provided real and distinct refractive indices for
+two propagating modes, which implies birefringence. The propagating modes were
+also carried out in all cases. The anisotropy or birefringence effect, given by
+the rotatory power or phase difference, was evaluated in terms of the
+magnetoelectric parameters of the theory in each case. The propagation
+orthogonal to the vectors used to parametrize the symmetric and antisymmetric
+magnetoelectric tensors is described by distinct modes, representing a route to
+identify the kind of bi-anisotropic medium examined. The group velocity and
+Poynting vector were also evaluated for all the cases examined to discuss the
+energy propagation in these anisotropic media."
+23,"Graph-based Cyber Security Analysis of State Estimation in Smart Power
+  Grid",http://arxiv.org/abs/1612.05878v1,"Smart power grid enables intelligent automation at all levels of power system
+operation, from electricity generation at power plants to power usage at
+households. The key enabling factor of an efficient smart grid is its built-in
+information and communication technology (ICT) that monitors the real-time
+system operating state and makes control decisions accordingly. As an important
+building block of the ICT system, power system state estimation is of critical
+importance to maintain normal operation of the smart grid, which, however, is
+under mounting threat from potential cyber attacks. In this article, we
+introduce a graph-based framework for performing cyber-security analysis in
+power system state estimation. Compared to conventional arithmetic-based
+security analysis, the graphical characterization of state estimation security
+provides intuitive visualization of some complex problem structures and enables
+efficient graphical solution algorithms, which are useful for both defending
+and attacking the ICT system of smart grid. We also highlight several promising
+future research directions on graph-based security analysis and its
+applications in smart power grid."
+24,"Hybrid Optimal Theory and Predictive Control for Power Management in
+  Hybrid Electric Vehicle",http://arxiv.org/abs/1804.00757v1,"This paper presents a nonlinear-model based hybrid optimal control technique
+to compute a suboptimal power-split strategy for power/energy management in a
+parallel hybrid electric vehicle (PHEV). The power-split strategy is obtained
+as model predictive control solution to the power management control problem
+(PMCP) of the PHEV, i.e., to decide upon the power distribution among the
+internal combustion engine, an electric drive, and other subsystems. A
+hierarchical control structure of the hybrid vehicle, i.e., supervisory level
+and local or subsystem level is assumed in this study. The PMCP consists of a
+dynamical nonlinear model, and a performance index, both of which are
+formulated for power flows at the supervisory level. The model is described as
+a bi-modal switched system, consistent with the operating mode of the electric
+ED. The performance index prescribing the desired behavior penalizes vehicle
+tracking errors, fuel consumption, and frictional losses, as well as sustaining
+the battery state of charge (SOC). The power-split strategy is obtained by
+first creating the embedded optimal control problem (EOCP) from the original
+bi-modal switched system model with the performance index. Direct collocation
+is applied to transform the problem into a nonlinear programming problem. A
+nonlinear predictive control technique (NMPC) in conjunction with a sequential
+quadratic programming solver is used to compute suboptimal numerical solutions
+to the PMCP. Methods for approximating the numerical solution to the EOCP with
+trajectories of the original bi-modal PHEV are also presented in this paper.
+The usefulness of the approach is illustrated via simulation results on several
+case studies."
+25,"The geometry of bi-Perron numbers with real or unimodular Galois
+  conjugates",http://arxiv.org/abs/2009.03647v2,"Among all bi-Perron numbers, we characterise those all of whose Galois
+conjugates are real or unimodular as the ones that admit a power which is the
+stretch factor of a pseudo-Anosov homeomorphism arising from Thurston's
+construction. This is in turn equivalent to admitting a power which is the
+spectral radius of a bipartite Coxeter transformation."
+26,"A VLBI survey of compact broad absorption line quasars with balnicity
+  index BI>0",http://arxiv.org/abs/1507.00998v1,"We performed high resolution radio observations of a new sample of ten BAL
+quasars using both the VLBA and EVN at 5 GHz. All the selected sources have
+balnicity indices (BI) more than 0 and radio flux densities less than 80 mJy at
+1.4 GHz. They are very compact with linear sizes of the order of a few tens of
+parsecs and radio luminosities at 1.4 GHz above the FRI-FRII luminosity
+threshold. Most of the observed objects have been resolved at 5 GHz showing
+one-sided, probably core-jet structures, typical for quasars. We discuss in
+detail their age and orientation based on the radio observations. We then used
+the largest available sample of BAL quasars to study the relationships between
+the radio and optical properties in these objects. We found that (1) the
+strongest absorption (high values of the balnicity index BI) is connected with
+the lower values of the radio-loudness parameter, logR_I<1.5, and thus probably
+with large viewing angles; (2) the large span of the BI values in each bin of
+the radio-loudness parameter indicates that the orientation is only one of the
+factors influencing the measured absorption; (3) most of the radio-loud BAL
+quasars are compact, low luminosity objects with a wide range of jet power
+(although the highest values of BI seem to be associated with the lower values
+of jet power). In addition, we suggest that the short lifetime postulated for
+some compact AGNs could also explain the scarcity of the large-scale radio
+sources among BAL quasars."
+27,"Importance of spin-orbit coupling in power factor calculations for
+  half-Heusler ANiB (A=Ti, Hf, Sc, Y; B=Sn, Sb, Bi)",http://arxiv.org/abs/1512.07710v1,"We investigate the spin-orbit coupling (SOC) effects on the electronic
+structures and semi-classic transport coefficients of half-Heusler
+$\mathrm{ANiB}$ (A=Ti, Hf, Sc, Y; B=Sn, Sb, Bi) by using generalized gradient
+approximation (GGA). Calculated results show that SOC splits the valence bands
+at high symmetry $\Gamma$ point, and modifies the outline of $\Gamma$-centered
+valence bands, which has remarkable effects on the electron transport
+properties. Thermoelectric properties are performed through solving Boltzmann
+transport equations within the constant scattering time approximation. It is
+found that the compounds containing Sn atom have larger power factor in p-type
+doping than ones in n-type doping, and it is just the opposite for compounds
+containing Sb and Bi elements. The SOC has obvious detrimental influence on
+power factor in p-type doping, while has a negligible effect in n-type doping.
+These can be understood by considering the effects of SOC on the valence bands
+and conduction bands. The maximum power factors (MPF) are extracted in n-type
+and p-type doping with GGA and GGA+SOC, and the MPF at 300 K with SOC is
+predicted to be about 4.25\%$\sim$44.13\% smaller than that without SOC in the
+case of p-type doping for $\mathrm{ANiB}$ (A=Ti, Hf, Sc, Y; B=Sn, Sb, Bi).
+Therefore, it is crucial to consider SOC effects for theoretical analysis in
+the case of p-type doping in half-Heusler compounds composed of heavy elements."
+28,"Least Upper Bounds of the Powers Extracted and Scattered by
+  Bi-anisotropic Particles",http://arxiv.org/abs/1402.4726v1,"The least upper bounds of the powers extracted and scattered by
+bi-anisotropic particles are investigated analytically. A rigorous derivation
+for particles having invertible polarizability tensors is presented, and the
+particles with singular polarizability tensors that have been reported in the
+literature are treated explicitly. The analysis concludes that previous upper
+bounds presented for isotropic particles can be extrapolated to bi-anisotropic
+particles. In particular, it is shown that neither nonreciprocal nor
+magnetoelectric coupling phenomena can further increase those upper bounds on
+the extracted and scattered powers. The outcomes are illustrated further with
+approximate circuit model examples of two dipole antennas connected via a
+generic lossless network."
+29,"A Sunyaev-Zel'dovich take on cluster radio haloes -- I. Global scaling
+  and bi-modality using Planck data",http://arxiv.org/abs/1111.2856v3,"Giant radio haloes in galaxy clusters are the primary evidence for the
+existence of relativistic particles (cosmic rays) and magnetic fields over Mpc
+scales. Observational tests for the different theoretical models explaining
+their powering mechanism have so far been obtained through X-ray selection of
+clusters, e.g. by comparing cluster X-ray luminosities with radio halo power.
+Here we present the first global scaling relations between radio halo power and
+integrated Sunyaev-Zel'dovich (SZ) effect measurements, using the Planck
+all-sky cluster catalog and published radio data. The correlation agrees well
+with previous scaling measurements based on X-ray data, and offers a more
+direct probe into the mass dependence inside radio haloes. However, we find no
+strong indication for a bi-modal cluster population split between radio halo
+and radio quiet objects. We discuss the possible causes for this apparent lack
+of bi-modality, and compare the observed slope of the radio-SZ correlation with
+competing theoretical models of radio halo origin."
+30,"Spin-orbit coupling and weak antilocalization in thermoelectric material
+  $β$-K$_{2}$Bi$_{8}$Se$_{13}$",http://arxiv.org/abs/1312.6091v1,"We have studied the effect of spin-orbital coupling (SOC) on electronic
+transport properties of the thermoelectric material
+$\beta$-K$_{2}$Bi$_{8}$Se$_{13}$ via magnetoresistance (MR) measurements. We
+found that the strong SOC in this material results in weak antilocalization
+(WAL) effect, which can be well described by the three-dimensional weak
+localization model. The phase coherence length extracted from theoretical
+fitting exhibits a power-law temperature dependence with an exponent around
+2.1, indicating that the electron phase dephasing is governed by electron -
+transverse phonon interactions. Like in topological insulators, the WAL effect
+in $\beta$-K$_{2}$Bi$_{8}$Se$_{13}$ can be quenched by magnetic impurities (Mn)
+but is robust against non-magnetic impurities (Te). Although our
+magnetotransport studies do not provide any evidences for topological surface
+states, our analyses suggest that SOC plays an important role in determining
+thermoelectric properties of $\beta$-K$_{2}$Bi$_{8}$Se$_{13}$."
+31,"Bi-Objective Nonnegative Matrix Factorization: Linear Versus
+  Kernel-Based Models",http://arxiv.org/abs/1501.05684v1,"Nonnegative matrix factorization (NMF) is a powerful class of feature
+extraction techniques that has been successfully applied in many fields, namely
+in signal and image processing. Current NMF techniques have been limited to a
+single-objective problem in either its linear or nonlinear kernel-based
+formulation. In this paper, we propose to revisit the NMF as a multi-objective
+problem, in particular a bi-objective one, where the objective functions
+defined in both input and feature spaces are taken into account. By taking the
+advantage of the sum-weighted method from the literature of multi-objective
+optimization, the proposed bi-objective NMF determines a set of nondominated,
+Pareto optimal, solutions instead of a single optimal decomposition. Moreover,
+the corresponding Pareto front is studied and approximated. Experimental
+results on unmixing real hyperspectral images confirm the efficiency of the
+proposed bi-objective NMF compared with the state-of-the-art methods."
+32,"Surface roughness analysis of the hydrophilic SiO_2/TiO_2 nano bi-layers
+  by Level crossing approach",http://arxiv.org/abs/1308.4444v1,"The effect of etching time on the statistical properties of the hydrophilic
+surface of SiO_2/TiO_2/Glass nano bi-layer has been studied using Atomic Force
+Microscopy (AFM) and stochastic approach based on the level crossing analysis.
+We have created a rough surface of the hydrophilic SiO_2/TiO_2 nano bi-layer
+system by using 26% Potassium Hydroxide (KOH) solution. Measuring the average
+apparent contact angle assessed the degree of hydrophilicity and the optimum
+condition was determined at 10 min etching time. Level crossing analysis based
+on AF images provided deeper insight into the microscopic details of the
+surface topography. For different etching time, it has been shown that the
+average frequency of visiting a height with positive slope behaves Gaussian for
+heights near the mean value and obeys power law for the heights far away from
+the mean value. Finally, by applying the generalized total number of crossings
+with positive slope, it was found that the both high heights and deep valleys
+of the surface are extremely effective in hydrophilic degree of the
+SiO_2/TiO_2/Glass nano bi-layer investigated system."
+33,"Groove-rolling as an alternative process to fabricate Bi-2212 wires for
+  practical applications",http://arxiv.org/abs/1403.4478v1,"Bi2Sr2CaCu2O8+x (Bi-2212) superconducting long-length wires are mainly
+limited in obtaining high critical currents densities (JC) by the internal gas
+pressure generated during the heat treatment, which expands the wire diameter
+and dedensifies the superconducting filaments. Several ways have been developed
+to increase the density of the superconducting filaments and therefore
+decreasing the bubble density: much higher critical currents have been reached
+always acting on the final as-drawn wires. We here try to pursue the same goal
+of having a denser wire by acting on the deformation technique, through a
+partial use of the groove-rolling at different wire processing stages. Such
+technique has a larger powders compaction power, is straightforwardly adaptable
+to long length samples, and allows the fabrication of samples with round,
+square or rectangular shape depending on the application requirements. In this
+paper we demonstrate the capability of this technique to increase the density
+in Bi-2212 wires which leads to a three-fold increase in Jc with respect to
+drawn wires, making this approach very promising for fabricating Bi-2212 wires
+for high magnetic field magnets, i.e. above 25 T."
+34,"Development of Ferromagnetic Fluctuations in Heavily Overdoped
+  (Bi,Pb)_2_Sr_2_CuO_6+delta_ Copper Oxides",http://arxiv.org/abs/1808.02317v1,"We demonstrate the presence of ferromagnetic (FM) fluctuations in the
+superconducting and non-superconducting heavily overdoped regimes of
+high-temperature superconducting copper oxides, using
+(Bi,Pb)_2_Sr_2_CuO_6+delta_ (Bi-2201) single crystals. Magnetization curves
+exhibit a tendency to be saturated in high magnetic fields at low temperatures
+in the heavily overdoped crystals, which is probably a precursor phenomenon of
+a FM transition at a lower temperature. Muon spin relaxation detects the
+enhancement of spin fluctuations at high temperatures below 200 K.
+Correspondingly, the ab-plane resistivity follows a 4/3 power law in a wide
+temperature range, which is characteristic of metals with two-dimensional FM
+fluctuations due to itinerant electrons. As the Wilson ratio evidences the
+enhancement of spin fluctuations with hole doping in the heavily overdoped
+regime, it is concluded that two-dimensional FM fluctuations reside in the
+heavily overdoped Bi-2201 cuprates, which is probably related to the decrease
+in the superconducting transition temperature in the heavily overdoped
+cuprates."
+35,"Bi-Directional Mission Offloading for Agile Space-Air-Ground Integrated
+  Networks",http://arxiv.org/abs/1902.03774v1,"Space-air-ground integrated networks (SAGIN) provide great strengths in
+extending the capability of ground wireless networks. On the other hand, with
+rich spectrum and computing resources, the ground networks can also assist
+space-air networks to accomplish resource-intensive or power-hungry missions,
+enhancing the capability and sustainability of the space-air networks.
+Therefore, bi-directional mission offloading can make full use of the
+advantages of SAGIN and benefits both space-air and ground networks. In this
+article, we identify the key role of network reconfiguration in coordinating
+heterogeneous resources in SAGIN, and study how network function virtualization
+(NFV) and service function chaining (SFC) enable agile mission offloading. A
+case study validates the performance gain brought by bi-directional mission
+offloading. Future research issues are outlooked as the bi-directional mission
+offloading framework opens a new trail in releasing the full potentials of
+SAGIN."
+36,"Ultra linear magnetic flux-to-voltage conversion in superconducting
+  quantum interference proximity transistors",http://arxiv.org/abs/2207.00339v1,"Superconducting interferometers are quantum devices able to transduce a
+magnetic flux into an electrical output with excellent sensitivity,
+integrability and power consumption. Yet, their voltage response is
+intrinsically non-linear, a limitation which is conventionally circumvented
+through the introduction of compensation inductances or by the construction of
+complex device arrays. Here we propose an intrinsically-linear flux-to-voltage
+mesoscopic transducer, called bi-SQUIPT, based on the superconducting quantum
+interference proximity transistor as fundamental building block. The bi-SQUIPT
+provides a voltage-noise spectral density as low as $\sim10^{-16}$ V/Hz$^{1/2}$
+and, more interestingly, under a proper operation parameter selection, exhibits
+a spur-free dynamic range as large as $\sim60$ dB, a value on par with that
+obtained with state-of-the-art SQUID-based linear flux-to-voltage
+superconducting transducers. Furthermore, thanks to its peculiar measurement
+configuration, the bi-SQUIPT is tolerant to imperfections and non-idealities in
+general. For the above reasons, we believe that the bi-SQUIPT could provide a
+relevant step-beyond in the field of low-dissipation and low-noise current
+amplification with a special emphasis on applications in cryogenic quantum
+electronics."
+37,"Power-Aware Virtual Network Function Placement and Routing using an
+  Abstraction Technique",http://arxiv.org/abs/1807.07876v2,"The Network Function Virtualization (NFV) is very promising for efficient
+provisioning of network services and is attracting a lot of attention. NFV can
+be implemented in commercial off-the-shelf servers or Physical Machines (PMs),
+and many network services can be offered as a sequence of Virtual Network
+Functions (VNFs), known as VNF chains. Furthermore, many existing network
+devices (e.g., switches) and collocated PMs are underutilized or
+over-provisioned, resulting in low power-efficiency. In order to achieve more
+energy efficient systems, this work aims at designing the placement of VNFs
+such that the total power consumption in network nodes and PMs is minimized,
+while meeting the delay and capacity requirements of the foreseen demands.
+Based on existing switch and PM power models, we propose a Integer Linear
+Programming (ILP) formulation to find the optimal solution. We also propose a
+heuristic based on the concept of Blocking Islands (BI), and a baseline
+heuristic based on the Betweenness Centrality (BC) property of the graph. Both
+heuristics and the ILP solutions have been compared in terms of total power
+consumption, delay, demands acceptance rate, and computation time. Our
+simulation results suggest that BI-based heuristic is superior compared with
+the BC-based heuristic, and very close to the optimal solution obtained from
+the ILP in terms of total power consumption and demands acceptance rate.
+Compared to the ILP, the proposed BI-based heuristic is significantly faster
+and results in 22% lower end-to-end delay, with a penalty of consuming 6% more
+power in average."
+38,"Classification of COVID-19 anomalous diffusion driven by mean squared
+  displacement",http://arxiv.org/abs/2107.13517v1,"In this study, we classify the COVID-19 anomalous diffusion in two categories
+of countries based on the mean squared displacement (MSD) of daily new cases,
+which includes the top four countries and four randomly selected countries in
+terms of the total cases. The COVID-19 diffusion is a stochastic process, and
+the daily new cases are regarded as the displacements of diffusive particles.
+The diffusion environment of COVID-19 in each country is heterogeneous, in
+which the underlying dynamic process is anomalous diffusion. The calculated MSD
+is a power law function of time, and the power law exponent is not a constant
+but varies with time. The power law exponents are estimated by using the
+bi-exponential model and the long short-term memory network (LSTM). The
+bi-exponential model frequently use in magnetic resonance imaging (MRI) can
+quantify the power law exponent and make an easy prediction. The LSTM network
+has much better accuracy than the bi-exponential model in predicting the power
+law exponent. The LSTM network is more flexible and preferred to predict the
+power law exponent, which is independent on the unique mathematical formula.
+The diffusion process of COVID-19 can be classified based on the power law
+exponent. More specific evaluation and suggestion can be proposed and submitted
+to the government in order to control the COVID-19 diffusion."
+39,"Thermoelectric calculations of ring-shaped bands in two-dimensional
+  Bi$_2$Te$_3$, Bi$_2$Se$_3$ and Sb$_2$Te$_3$: a comparison of simple
+  scattering approximations",http://arxiv.org/abs/2008.06807v1,"Materials with ring-shaped electronic bands are promising thermoelectric
+candidates, since their unusual dispersion shape is predicted to give large
+power factors. While previous calculations of these materials have relied on
+the assumption of a constant mean-free-path or relaxation time, recent
+first-principles modeling of electron-phonon scattering suggests that the
+scattering rates may be better approximated by the electron density-of-states
+(so-called DOS scattering model). In this work, we use density functional
+theory to investigate single and double quintuple-layer Bi$_2$Te$_3$,
+Bi$_2$Se$_3$ and Sb$_2$Te$_3$, with a focus on understanding how the three
+aforementioned scattering approximations impact thermoelectric performance --
+emphasis is placed on the DOS scattering model. The single quintuple-layer
+materials possess two ring-shaped valence band maxima that provide an abrupt
+increase in conducting channels, which benefits the power factor. Additionally,
+below the band edge a ring-shaped minimum, located between the two maxima, is
+found to further enhance the thermoelectric performance but only with the DOS
+scattering model. This comes from a sharp drop in the DOS, and thus scattering,
+just below the ring-shaped minimum. An analytic octic dispersion model is
+introduced and shown to qualitatively capture the observed features. The double
+quintuple-layer materials display notably worse thermoelectric properties,
+since their dispersions are significantly modified compared to the single
+quintuple-layer case. The benefits of ring-shaped bands are sensitive to the
+alignment of the two ring maxima and to the degree of ring anisotropy. Overall,
+single quintuple-layer Bi$_2$Te$_3$ and Bi$_2$Se$_3$ are most promising, with
+the DOS scattering model giving the highest power factors."
+40,"Thermoelectric Alchemy: Designing A Chemical Analog to PbTe with
+  Intrinsic High Band Degeneracy and Low Lattice Thermal Conductivity",http://arxiv.org/abs/1805.06433v1,"Improving the figure of merit $zT$ of thermoelectric materials requires
+simultaneously a high power factor and low thermal conductivity. An effective
+approach for increasing the power factor is to align the band extremum and
+achieve high band degeneracy ($\geq$ 12) near the Fermi level as realized in
+PbTe [\textcolor{blue}{Pei et. al. \textit{Nature} 473, 66 (2010)}], which
+usually relies on band structure engineering, e.g., chemical doping and strain.
+However, very few materials could achieve such a high band degeneracy without
+heavy doping or suffering impractical strain. By employing state-of-the-art
+first-principles methods with direct computation of phonon and carrier
+lifetime, we demonstrate that two new full-Heusler compounds Li$_2$TlBi and
+Li$_2$InBi, possessing a PbTe-like electronic structure, show exceptionally
+high power factors ($\sim$ 20 mWm$^{-1}$K$^{-2}$ at 300 K) and low lattice
+thermal conductivities (2.36 and 1.55 Wm$^{-1}$K$^{-1}$) at room temperature.
+The Tl$^{+}$Bi$^{3-}$ (In$^{+}$Bi$^{3-}$) sublattice forms a rock-salt
+structure, and the additional two valence electrons from Li atoms essentially
+make these compounds isovalent with Pb$^{2+}$Te$^{2-}$. The larger rock-salt
+sublattice of TlBi (InBi) shifts the valence band maximum from L point to the
+middle of the $\Sigma$ line, increasing the band degeneracy from fourfold to
+twelvefold. On the other hand, resonance bond in the PbTe-like sublattice and
+soft Tl-Bi (In-Bi) bonding interaction is responsible for intrinsic low lattice
+thermal conductivities. Our results present a novel strategy of designing
+high-performance thermoelectric materials."
+41,"Comparative analysis of tunneling magnetoresistance in low-$T_c$
+  Nb/AlAlOx/Nb and high-$T_c$ Bi$_{2-y}$Pb$_y$Sr$_2$CaCu$_2$O$_{8+δ}$
+  intrinsic Josephson junctions",http://arxiv.org/abs/1105.1281v1,"We perform a detailed comparison of magnetotunneling in conventional
+low-$T_c$ Nb/AlAlOx/Nb junctions with that in slightly overdoped
+Bi$_{2-y}$Pb$_y$Sr$_2$CaCu$_2$O$_{8+\delta}$ [Bi(Pb)-2212] intrinsic Josephson
+junctions and with microscopic calculations. It is found that both types of
+junctions behave in a qualitatively similar way. Both magnetic field and
+temperature suppress superconductivity in the state-conserving manner. This
+leads to the characteristic sign-change of tunneling magnetoresistance from the
+negative at the sub-gap to the positive at the sum-gap bias. We derived
+theoretically and verified experimentally scaling laws of magnetotunneling
+characteristics and employ them for accurate extraction of the upper critical
+field $H_{c2}$. For Nb an extended region of surface superconductivity at
+$H_{c2}<H<H_{c3}$ is observed. The parameters of Bi(Pb)-2212 were obtained from
+self-consistent analysis of magnetotunneling data at different levels of bias,
+dissipation powers and for different mesa sizes, which precludes the influence
+of self-heating. It is found that $H_{c2}(0)$ for Bi(Pb)-2212 is $\simeq 70$ T
+and decreases significantly at $T\rightarrow T_c$. The amplitude of sub-gap
+magnetoresistance is suppressed exponentially at $T>T_c/2$, but remains
+negative, although very small, above $T_c$. This may indicate existence of an
+extended fluctuation region, which, however, does not destroy the general
+second-order type of the phase transition at $T_c$."
+42,"Power-Law Decay of Standing Waves on the Surface of Topological
+  Insulators",http://arxiv.org/abs/1105.1957v1,"We propose a general theory on the standing waves (quasiparticle interference
+pattern) caused by the scattering of surface states off step edges in
+topological insulators, in which the extremal points on the constant energy
+contour of surface band play the dominant role. Experimentally we image the
+interference patterns on both Bi$_2$Te$_3$ and Bi$_2$Se$_3$ films by measuring
+the local density of states using a scanning tunneling microscope. The observed
+decay indices of the standing waves agree excellently with the theoretical
+prediction: In Bi$_2$Se$_3$, only a single decay index of -3/2 exists; while in
+Bi$_2$Te$_3$ with strongly warped surface band, it varies from -3/2 to -1/2 and
+finally to -1 as the energy increases. The -1/2 decay indicates that the
+suppression of backscattering due to time-reversal symmetry does not
+necessarily lead to a spatial decay rate faster than that in the conventional
+two-dimensional electron system. Our formalism can also explain the
+characteristic scattering wave vectors of the standing wave caused by
+non-magnetic impurities on Bi$_2$Te$_3$."
+43,"Type Ia Supernovae with Bi-Modal Explosions Are Common -- Possible
+  Smoking Gun for Direct Collisions of White-Dwarfs",http://arxiv.org/abs/1401.3347v2,"We discover clear doubly-peaked line profiles in 3 out of ~20 type Ia
+supernovae (SNe Ia) with high-quality nebular-phase spectra. The profiles are
+consistently present in three well-separated Co/Fe emission features. The two
+peaks are respectively blue-shifted and red-shifted relative to the host
+galaxies and are separated by ~5000 km/s. The doubly-peaked profiles directly
+reflect a bi-modal velocity distribution of the radioactive Ni56 in the ejecta
+that powers the emission of these SNe. Due to their random orientations, only a
+fraction of SNe with intrinsically bi-modal velocity distributions will appear
+as doubly-peaked spectra. Therefore SNe with intrinsic bi-modality are likely
+common, especially among the SNe in the low-luminosity part on the Philips
+relation (\Delta m15(B) >~ 1.3; ~40% of all SNe Ia). Such bi-modality is
+naturally expected from direct collisions of white dwarfs (WDs) due to the
+detonation of both WDs and is demonstrated in a 3D 0.64 M_Sun-0.64 M_Sun WD
+collision simulation. In the future, with a large sample of nebular spectra and
+a comprehensive set of numerical simulations, the collision model can be
+unambiguously tested as the primary channel for type Ia SNe, and the
+distribution of nebular line profiles will either be a smoking gun or rule it
+out."
+44,"Unusual $^{209}$Bi NMR quadrupole effects in topological insulator
+  Bi$_2$Se$_3$",http://arxiv.org/abs/1904.07938v1,"Three-dimensional topological insulators are an important class of modern
+materials, and a strong spin-orbit coupling is involved in making the bulk
+electronic states very different from those near the surface. Bi$_2$Se$_3$ is a
+model compound, and $^{209}$Bi NMR is employed here to investigate the bulk
+properties of the material with focus on the quadrupole splitting. It will be
+shown that this splitting measures the energy band inversion induced by
+spin-orbit coupling in quantitative agreement with first-principle
+calculations. Furthermore, this quadrupole interaction is very unusual as it
+can show essentially no angular dependence, e.g., even at the magic angle the
+first-order splitting remains. Therefore, it is proposed that the magnetic
+field direction is involved in setting the quantization axis for the electrons,
+and that their life time leads to a new electronically driven relaxation
+mechanism, in particular for quadrupolar nuclei like $^{209}$Bi. While a
+quantitative understanding of these effects cannot be given, the results
+implicate that NMR can become a powerful tool for the investigation of such
+systems."
+45,"Influence of Bi substitution with rare-earth elements on the transport
+  properties of BiCuSeO oxyselenides",http://arxiv.org/abs/2104.10509v3,"In this study, we demonstrate that introducing of rare-earth elements, $R$ =
+La or Pr, into the Bi-O charge reservoir layer of BiCuSeO leads to an increase
+of both, the charge carrier concentration and the effective mass. Although the
+charge carrier mobility slightly decreases upon Bi$^{3+}$ to $R^{3+}$
+substitution, the electronic transport properties are significantly improved in
+a broad temperature range from 100 K to 800 K. In particular, the electrical
+resistivity decreases by two times, while the Seebeck coefficient drops from
+323 ${\mu}$V K$^{-1}$ to 238 ${\mu}$V K$^{-1}$ at 800 K. Thus, a power factor
+of nearly 3 ${\mu}$W cm$^{-1}$ K$^{-2}$ is achieved for
+Bi$_{0.92}$La$_{0.08}$CuSeO sample at 800 K. Meanwhile, a noticeable decrease
+of the lattice thermal conductivity is observed for the substituted samples,
+which can be attributed to the enhanced point defect scattering mostly
+originated from atomic mass fluctuations between $R$ and Bi. Ultimately, a
+maximum $zT$ value of nearly 0.34 at 800 K is obtained for the
+Bi$_{0.92}$La$_{0.08}$CuSeO sample, which is ~30% higher than that of pristine
+BiCuSeO."
+46,"Time-Frequency Mask Aware Bi-directional LSTM: A Deep Learning Approach
+  for Underwater Acoustic Signal Separation",http://arxiv.org/abs/2202.04405v1,"The underwater acoustic signals separation is a key technique for the
+underwater communications. The existing methods are mostly model-based, and
+could not accurately characterise the practical underwater acoustic
+communication environment. They are only suitable for binary signal separation,
+but cannot handle multivariate signal separation. On the other hand, the
+recurrent neural network (RNN) shows powerful capability in extracting the
+features of the temporal sequences. Inspired by this, in this paper, we present
+a data-driven approach for underwater acoustic signals separation using deep
+learning technology. We use the Bi-directional Long Short-Term Memory (Bi-LSTM)
+to explore the features of Time-Frequency (T-F) mask, and propose a T-F mask
+aware Bi-LSTM for signal separation. Taking advantage of the sparseness of the
+T-F image, the designed Bi-LSTM network is able to extract the discriminative
+features for separation, which further improves the separation performance. In
+particular, this method breaks through the limitations of the existing methods,
+not only achieves good results in multivariate separation, but also effectively
+separates signals when mixed with 40dB Gaussian noise signals. The experimental
+results show that this method can achieve a $97\%$ guarantee ratio (PSR), and
+the average similarity coefficient of the multivariate signal separation is
+stable above 0.8 under high noise conditions."
+47,"Spin-to-charge conversion by spin pumping in sputtered polycrystalline
+  Bi$_x$Se$_{1-x}$",http://arxiv.org/abs/2212.12697v2,"Topological materials are of high interest due to the promise to obtain low
+power and fast memory devices based on efficient spin-orbit torque switching or
+spin-orbit magnetic state read-out. In particular, sputtered polycrystalline
+Bi$_x$Se$_{1-x}$ is one of the materials with more potential for this purpose
+since it is relatively easy to fabricate and has been reported to have a very
+high spin Hall angle. We study the spin-to-charge conversion in
+Bi$_x$Se$_{1-x}$ using the spin pumping technique coming from the ferromagnetic
+resonance in a contiguous permalloy thin film. We put a special emphasis on the
+interfacial properties of the system. Our results show that the spin Hall angle
+of Bi$_x$Se$_{1-x}$ has an opposite sign to the one of Pt. The charge current
+arising from the spin-to-charge conversion is, in contrast, lower than Pt by
+more than one order of magnitude. We ascribe this to the interdiffusion of
+Bi$_x$Se$_{1-x}$ and permalloy and the changes in chemical composition produced
+by this effect, which is an intrinsic characteristic of the system and is not
+considered in many other studies."
+48,"Wireless Information and Power Transfer in Full-Duplex Communication
+  Systems",http://arxiv.org/abs/1603.02182v1,"This paper considers the problem of maximizing the sum-rate for simultaneous
+wireless information and power transfer (SWIPT) in a full-duplex bi-directional
+communication system subject to energy harvesting and transmit power
+constraints at both nodes. We investigate the optimum design of the receive
+power splitters and transmit powers for SWIPT in full-duplex mode. Exploiting
+rate-split method, an iterative algorithm is derived to solve the non-convex
+problem. The effectiveness of the proposed algorithm is justified through
+numerical simulations."
+49,"Points fattening on P^1 x P^1 and symbolic powers of bi-homogeneous
+  ideals",http://arxiv.org/abs/1304.5775v1,"We study symbolic powers of bi-homogeneous ideals of points in the Cartesian
+product of two projective lines and extend to this setting results on the
+effect of points fattening obtained by Bocci, Chiantini and Dumnicki, Szemberg,
+Tutaj-Gasi\'nska. We prove a Chudnovsky-type theorem for bi-homogeneous ideals
+and apply it to classification of configurations of points with minimal or no
+fattening effect. We hope that the ideas developed in this project will find
+further algebraic and geometric applications e.g. to study similar problems on
+arbitrary surfaces."
+50,"Large-scalable fabrication of improved Bi-Te-based flexible
+  thermoelectric modules using a semiconductor manufacturing process",http://arxiv.org/abs/2004.03068v1,"Among the several flexible thermoelectric modules in existence, sintered
+Bi-Te-based modules represent a viable option because of their high output
+power density and flexibility, which enables the use of arbitrary heat sources.
+We have fabricated Bi-Te-based modules with a large-scalable fabrication
+process and improved their output performance. The reduction in the
+interconnection resistance, using thick electrodes of the flexible printed
+circuit, significantly improves the module's output power to 87 mW/cm$^{2}$ at
+$\Delta T$ = 70 K, which is 1.3-fold higher than a previous prototype module.
+Furthermore, the establishment of the fabrication for the top electrodes by
+using the surface mount technology makes it possible to realize a
+high-throughput manufacturing of the module. Our durability tests reveal that
+there is no significant change in the internal resistance of the module during
+10000 cycles of mechanical bending test and 1000 cycles of thermal stress test."
+51,"Graphical Methods for Defense Against False-data Injection Attacks on
+  Power System State Estimation",http://arxiv.org/abs/1304.4151v4,"The normal operation of power system relies on accurate state estimation that
+faithfully reflects the physical aspects of the electrical power grids.
+However, recent research shows that carefully synthesized false-data injection
+attacks can bypass the security system and introduce arbitrary errors to state
+estimates. In this paper, we use graphical methods to study defending
+mechanisms against false-data injection attacks on power system state
+estimation. By securing carefully selected meter measurements, no false data
+injection attack can be launched to compromise any set of state variables. We
+characterize the optimal protection problem, which protects the state variables
+with minimum number of measurements, as a variant Steiner tree problem in a
+graph. Based on the graphical characterization, we propose both exact and
+reduced-complexity approximation algorithms. In particular, we show that the
+proposed tree-pruning based approximation algorithm significantly reduces
+computational complexity, while yielding negligible performance degradation
+compared with the optimal algorithms. The advantageous performance of the
+proposed defending mechanisms is verified in IEEE standard power system
+testcases."
+52,"Computation Rate Maximization in Wireless Powered MEC with Spread
+  Spectrum Multiple Access",http://arxiv.org/abs/2002.10258v1,"The integration of mobile edge computing (MEC) and wireless power transfer
+(WPT) technologies has recently emerged as an effective solution for extending
+battery life and increasing the computing power of wireless devices. In this
+paper, we study the resource allocation problem of a multi-user wireless
+powered MEC system, where the users share the wireless channel via direct
+sequence code division multiple access (DS-CDMA). In particular, we are
+interested in jointly optimizing the task offloading decisions and resource
+allocation, to maximize the weighted sum computation rate of all the users in
+the network. The optimization problem is formulated as a mixed integer
+non-linear programming (MINLP). For a given offloading user set, we implement
+an efficient Fractional Programming (FP) approach to mitigate the multi-user
+interference in the uplink task offloading. On top of that, we then propose a
+Stochastic Local Search algorithm to optimize the offloading decisions.
+Simulation results show that the proposed method can effectively enhance the
+computing performance of a wireless powered MEC with spread spectrum multiple
+access compared to other representative benchmark methods."
+53,"Compressed Air Energy Storage-Part II: Application to Power System Unit
+  Commitment",http://arxiv.org/abs/1709.08275v2,"Unit commitment (UC) is one of the most important power system operation
+problems. To integrate higher penetration of wind power into power systems,
+more compressed air energy storage (CAES) plants are being built. Existing
+cavern models for the CAES used in power system optimization problems are not
+accurate, which may lead to infeasible solutions, e.g., the air pressure in the
+cavern is outside its operating range. In this regard, an accurate CAES model
+is proposed for the UC problem based on the accurate bi-linear cavern model
+proposed in the first paper of this two-part series. The minimum switch time
+between the charging and discharging processes of CAES is considered. The whole
+model, i.e., the UC model with an accurate CAES model, is a large-scale mixed
+integer bi-linear programming problem. To reduce the complexity of the whole
+model, three strategies are proposed to reduce the number of bi-linear terms
+without sacrificing accuracy. McCormick relaxation and piecewise linearization
+are then used to linearize the whole model. To decrease the solution time, a
+method to obtain an initial solution of the linearized model is proposed. A
+modified RTS-79 system is used to verify the effectiveness of the whole model
+and the solution methodology."
+54,"Sharp inflaton potentials and bi-spectra: Effects of smoothening the
+  discontinuity",http://arxiv.org/abs/1404.6093v2,"Sharp shapes in the inflaton potentials often lead to short departures from
+slow roll which, in turn, result in deviations from scale invariance in the
+scalar power spectrum. Typically, in such situations, the scalar power spectrum
+exhibits a burst of features associated with modes that leave the Hubble radius
+either immediately before or during the epoch of fast roll. Moreover, one also
+finds that the power spectrum turns scale invariant at smaller scales
+corresponding to modes that leave the Hubble radius at later stages, when slow
+roll has been restored. In other words, the imprints of brief departures from
+slow roll, arising out of sharp shapes in the inflaton potential, are usually
+of a finite width in the scalar power spectrum. Intuitively, one may imagine
+that the scalar bi-spectrum too may exhibit a similar behavior, i.e. a
+restoration of scale invariance at small scales, when slow roll has been
+reestablished. However, in the case of the Starobinsky model (viz. the model
+described by a linear inflaton potential with a sudden change in its slope)
+involving the canonical scalar field, it has been found that, a rather sharp,
+though short, departure from slow roll can leave a lasting and significant
+imprint on the bi-spectrum. The bi-spectrum in this case is found to grow
+linearly with the wavenumber at small scales, a behavior which is clearly
+unphysical. In this work, we study the effects of smoothening the discontinuity
+in the Starobinsky model on the scalar bi-spectrum. Focusing on the equilateral
+limit, we analytically show that, for smoother potentials, the bi-spectrum
+indeed turns scale invariant at suitably large wavenumbers. We also confirm the
+analytical results numerically using our newly developed code BINGO. We
+conclude with a few comments on certain related points."
+55,"Interacting spinor and scalar fields in a Bianchi type-I Universe:
+  Oscillatory solutions",http://arxiv.org/abs/gr-qc/0308061v1,"Self-consistent system of spinor, scalar and BI gravitational fields is
+considered. Exact solutions to the field equations in terms of volume scale of
+the BI metric are obtained. Einstein field equations in account of the
+cosmological constant $\Lambda$ and perfect fluid are studied. Oscillatory mode
+of expansion of the universe is obtained. It is shown that for the interaction
+term being a power function of the invariants of bilinear spinor forms and
+$\Lambda > 0$ and given other parameters, e.g., coupling constant, spinor mass
+etc., there exists a finite range of integration constant which generates
+oscillatory mode of evolution."
+56,"Mode conversion in nonlinear waveguides stimulated by the longitudinal
+  bi-harmonic refractive index modulation",http://arxiv.org/abs/1402.5224v1,"We study specific features of resonant mode conversion in nonlinear
+waveguides stimulated by the bi-harmonic longitudinal modulation of its
+parameters, which includes changes of the waveguide depth as well as its
+bending (in the one-dimensional case) or spiraling (in the two-dimensional
+case). We demonstrate the possibility of simultaneous excitation of
+higher-order modes of different parities and topologies with controllable
+energy weights. The output mode composition is highly sensitive to the
+variation in the input power and detuning from the resonant modulation
+frequency."
+57,"The Kuramoto model of coupled oscillators with a bi-harmonic coupling
+  function",http://arxiv.org/abs/1404.7292v1,"We study synchronization in a Kuramoto model of globally coupled phase
+oscillators with a bi-harmonic coupling function, in the thermodynamic limit of
+large populations. We develop a method for an analytic solution of
+self-consistent equations describing uniformly rotating complex order
+parameters, both for single-branch (one possible state of locked oscillators)
+and multi-branch (two possible values of locked phases) entrainment. We show
+that synchronous states coexist with the neutrally linearly stable asynchronous
+regime. The latter has a finite life time for finite ensembles, this time grows
+with the ensemble size as a power law."
+58,"A conditionally integrable Schrödinger potential of a bi-confluent
+  Heun class",http://arxiv.org/abs/1802.07821v1,"We present a bi-confluent Heun potential for the Schr\""odinger equation
+involving inverse fractional powers and a repulsive centrifugal-barrier term
+the strength of which is fixed to a constant. This is an infinite potential
+well defined on the positive half-axis. Each of the fundamental solutions for
+this conditionally integrable potential is written as an irreducible linear
+combination of two Hermite functions of a shifted and scaled argument. We
+present the general solution of the problem, derive the exact energy spectrum
+equation and construct a highly accurate approximation for the bound-state
+energy levels."
+59,"Controlling the long-term dynamics of Brillouin Fiber Lasers using pump
+  modulation: Bi-stable lasing and Hysteresis",http://arxiv.org/abs/1805.06034v1,"The long-term lasing dynamics of Brillouin Fiber Lasers was recently shown to
+be governed by an intrinsic thermal feedback which stabilizes the lasing
+frequency at the lower half of the gain line. We show that this feedback can be
+utilized by means of pump modulation to greatly control this dynamics.
+Specifically, we demonstrate experimentally a bi-stable fiber laser where
+switching between lasing modes is possible by either controlling the cavity
+length or pump power. An inherent hysteretic response ensures the long-term
+stability of the laser in each mode. Excellent agreement is found between the
+experimental results and a master-equation based theoretical model."
+60,"Music Genre Classification with Paralleling Recurrent Convolutional
+  Neural Network",http://arxiv.org/abs/1712.08370v1,"Deep learning has been demonstrated its effectiveness and efficiency in music
+genre classification. However, the existing achievements still have several
+shortcomings which impair the performance of this classification task. In this
+paper, we propose a hybrid architecture which consists of the paralleling CNN
+and Bi-RNN blocks. They focus on spatial features and temporal frame orders
+extraction respectively. Then the two outputs are fused into one powerful
+representation of musical signals and fed into softmax function for
+classification. The paralleling network guarantees the extracting features
+robust enough to represent music. Moreover, the experiments prove our proposed
+architecture improve the music genre classification performance and the
+additional Bi-RNN block is a supplement for CNNs."

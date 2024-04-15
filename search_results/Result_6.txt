@@ -1,0 +1,16 @@
+Title: Thermoelectric power of Bi and Bi(1-x)Te(x), x=0.0014,in porous Vycor
+  glass
+URL: http://arxiv.org/abs/cond-mat/0311112v1
+Summary: Semiconductor quantum wires constitute a promising thermoelectric material
+because of the increase of the electronic density of states in low-dimensional
+materials. We studied the magnetic-field-dependent resistance and Seebeck
+coefficient of a high-density network of 6-nm-diameter wires of Bi and of
+Bi(1-x)Te(x), x=0.0014, in porous Vycor glass. The resistance R increases as
+temperature decreases from 300 K down to 0.3 K for both composites. However, in
+contrast to recent results that demonstrate the semiconducting behavior of the
+resistance and very large enhancements of the thermoelectric power of
+composites containing Bi nanowires with diameters of 9 and 15 nm, we find that
+the resistance is not thermally activated and that the thermoelectric power of
+the composites is of the same order of magnitude as the thermoelectric power of
+bulk Bi. Our results are consistent with the nanowires having carrier density
+that is enhanced by surface effects.

@@ -1,0 +1,1217 @@
+Index,Title,URL,Summary
+1,"Geometric Data Analysis, From Correspondence Analysis to Structured Data
+  Analysis (book review)",http://arxiv.org/abs/0804.1244v1,"Review of: Brigitte Le Roux and Henry Rouanet, Geometric Data Analysis, From
+Correspondence Analysis to Structured Data Analysis, Kluwer, Dordrecht, 2004,
+xi+475 pp."
+2,Evaluating the Success of a Data Analysis,http://arxiv.org/abs/1904.11907v1,"A fundamental problem in the practice and teaching of data science is how to
+evaluate the quality of a given data analysis, which is different than the
+evaluation of the science or question underlying the data analysis. Previously,
+we defined a set of principles for describing data analyses that can be used to
+create a data analysis and to characterize the variation between data analyses.
+Here, we introduce a metric of quality evaluation that we call the success of a
+data analysis, which is different than other potential metrics such as
+completeness, validity, or honesty. We define a successful data analysis as the
+matching of principles between the analyst and the audience on which the
+analysis is developed. In this paper, we propose a statistical model and
+general framework for evaluating the success of a data analysis. We argue that
+this framework can be used as a guide for practicing data scientists and
+students in data science courses for how to build a successful data analysis."
+3,"Elements and Principles for Characterizing Variation between Data
+  Analyses",http://arxiv.org/abs/1903.07639v2,"The data revolution has led to an increased interest in the practice of data
+analysis. For a given problem, there can be significant or subtle differences
+in how a data analyst constructs or creates a data analysis, including
+differences in the choice of methods, tooling, and workflow. In addition, data
+analysts can prioritize (or not) certain objective characteristics in a data
+analysis, leading to differences in the quality or experience of the data
+analysis, such as an analysis that is more or less reproducible or an analysis
+that is more or less exhaustive. However, data analysts currently lack a formal
+mechanism to compare and contrast what makes analyses different from each
+other. To address this problem, we introduce a vocabulary to describe and
+characterize variation between data analyses. We denote this vocabulary as the
+elements and principles of data analysis, and we use them to describe the
+fundamental concepts for the practice and teaching of creating a data analysis.
+This leads to two insights: it suggests a formal mechanism to evaluate data
+analyses based on objective characteristics, and it provides a framework to
+teach students how to build data analyses."
+4,Topological Data Analysis,http://arxiv.org/abs/1609.08227v1,"Topological Data Analysis (TDA) can broadly be described as a collection of
+data analysis methods that find structure in data. This includes: clustering,
+manifold estimation, nonlinear dimension reduction, mode estimation, ridge
+estimation and persistent homology. This paper reviews some of these methods."
+5,Ball mapper: a shape summary for topological data analysis,http://arxiv.org/abs/1901.07410v1,"Topological data analysis provides a collection of tools to encapsulate and
+summarize the shape of data. Currently it is mainly restricted to \emph{mapper
+algorithm} and \emph{persistent homology}. In this paper we introduce new
+mapper--inspired descriptor that can be applied for exploratory data analysis."
+6,Mobile big data analysis with machine learning,http://arxiv.org/abs/1808.00803v2,"This paper investigates to identify the requirement and the development of
+machine learning-based mobile big data analysis through discussing the insights
+of challenges in the mobile big data (MBD). Furthermore, it reviews the
+state-of-the-art applications of data analysis in the area of MBD. Firstly, we
+introduce the development of MBD. Secondly, the frequently adopted methods of
+data analysis are reviewed. Three typical applications of MBD analysis, namely
+wireless channel modeling, human online and offline behavior analysis, and
+speech recognition in the internet of vehicles, are introduced respectively.
+Finally, we summarize the main challenges and future development directions of
+mobile big data analysis."
+7,Categorical exploratory data analysis on goodness-of-fit issues,http://arxiv.org/abs/2011.09682v2,"If the aphorism ""All models are wrong""- George Box, continues to be true in
+data analysis, particularly when analyzing real-world data, then we should
+annotate this wisdom with visible and explainable data-driven patterns. Such
+annotations can critically shed invaluable light on validity as well as
+limitations of statistical modeling as a data analysis approach. In an effort
+to avoid holding our real data to potentially unattainable or even unrealistic
+theoretical structures, we propose to utilize the data analysis paradigm called
+Categorical Exploratory Data Analysis (CEDA). We illustrate the merits of this
+proposal with two real-world data sets from the perspective of goodness-of-fit.
+In both data sets, the Normal distribution's bell shape seemingly fits rather
+well by first glance. We apply CEDA to bring out where and how each data fits
+or deviates from the model shape via several important distributional aspects.
+We also demonstrate that CEDA affords a version of tree-based p-value, and
+compare it with p-values based on traditional statistical approaches. Along our
+data analysis, we invest computational efforts in making graphic display to
+illuminate the advantages of using CEDA as one primary way of data analysis in
+Data Science education."
+8,Design Principles for Data Analysis,http://arxiv.org/abs/2103.05689v1,"The data science revolution has led to an increased interest in the practice
+of data analysis. While much has been written about statistical thinking, a
+complementary form of thinking that appears in the practice of data analysis is
+design thinking -- the problem-solving process to understand the people for
+whom a product is being designed. For a given problem, there can be significant
+or subtle differences in how a data analyst (or producer of a data analysis)
+constructs, creates, or designs a data analysis, including differences in the
+choice of methods, tooling, and workflow. These choices can affect the data
+analysis products themselves and the experience of the consumer of the data
+analysis. Therefore, the role of a producer can be thought of as designing the
+data analysis with a set of design principles. Here, we introduce design
+principles for data analysis and describe how they can be mapped to data
+analyses in a quantitative, objective and informative manner. We also provide
+empirical evidence of variation of principles within and between both producers
+and consumers of data analyses. Our work leads to two insights: it suggests a
+formal mechanism to describe data analyses based on the design principles for
+data analysis, and it provides a framework to teach students how to build data
+analyses using formal design principles."
+9,Self-organizing maps and symbolic data,http://arxiv.org/abs/0709.3587v1,"In data analysis new forms of complex data have to be considered like for
+example (symbolic data, functional data, web data, trees, SQL query and
+multimedia data, ...). In this context classical data analysis for knowledge
+discovery based on calculating the center of gravity can not be used because
+input are not $\mathbb{R}^p$ vectors. In this paper, we present an application
+on real world symbolic data using the self-organizing map. To this end, we
+propose an extension of the self-organizing map that can handle symbolic data."
+10,"The Role of Data Analysis in the Development of Intelligent Energy
+  Networks",http://arxiv.org/abs/1705.11132v1,"Data analysis plays an important role in the development of intelligent
+energy networks (IENs). This article reviews and discusses the application of
+data analysis methods for energy big data. The installation of smart energy
+meters has provided a huge volume of data at different time resolutions,
+suggesting data analysis is required for clustering, demand forecasting, energy
+generation optimization, energy pricing, monitoring and diagnostics. The
+currently adopted data analysis technologies for IENs include pattern
+recognition, machine learning, data mining, statistics methods, etc. However,
+existing methods for data analysis cannot fully meet the requirements for
+processing the big data produced by the IENs and, therefore, more comprehensive
+data analysis methods are needed to handle the increasing amount of data and to
+mine more valuable information."
+11,Evaluating the Alignment of a Data Analysis between Analyst and Audience,http://arxiv.org/abs/2312.07616v1,"A challenge that data analysts face is building a data analysis that is
+useful for a given consumer. Previously, we defined a set of principles for
+describing data analyses that can be used to create a data analysis and to
+characterize the variation between analyses. Here, we introduce a concept that
+we call the alignment of a data analysis between the data analyst and a
+consumer. We define a successfully aligned data analysis as the matching of
+principles between the analyst and the consumer for whom the analysis is
+developed. In this paper, we propose a statistical model for evaluating the
+alignment of a data analysis and describe some of its properties. We argue that
+this framework provides a language for characterizing alignment and can be used
+as a guide for practicing data scientists and students in data science courses
+for how to build better data analyses."
+12,A program for SAXS data processing and analysis,http://arxiv.org/abs/1307.0358v1,"A computer program for small angle X-ray scattering (SAXS) data processing
+and analysis named S.exe written in Intel Visual Fortran has been developed.
+This paper briefly introduces its main theory and function."
+13,Empowering Data Mesh with Federated Learning,http://arxiv.org/abs/2403.17878v2,"The evolution of data architecture has seen the rise of data lakes, aiming to
+solve the bottlenecks of data management and promote intelligent
+decision-making. However, this centralized architecture is limited by the
+proliferation of data sources and the growing demand for timely analysis and
+processing. A new data paradigm, Data Mesh, is proposed to overcome these
+challenges. Data Mesh treats domains as a first-class concern by distributing
+the data ownership from the central team to each data domain, while keeping the
+federated governance to monitor domains and their data products. Many
+multi-million dollar organizations like Paypal, Netflix, and Zalando have
+already transformed their data analysis pipelines based on this new
+architecture. In this decentralized architecture where data is locally
+preserved by each domain team, traditional centralized machine learning is
+incapable of conducting effective analysis across multiple domains, especially
+for security-sensitive organizations. To this end, we introduce a pioneering
+approach that incorporates Federated Learning into Data Mesh. To the best of
+our knowledge, this is the first open-source applied work that represents a
+critical advancement toward the integration of federated learning methods into
+the Data Mesh paradigm, underscoring the promising prospects for
+privacy-preserving and decentralized data analysis strategies within Data Mesh
+architecture."
+14,"A Performance Study of Data Mining Techniques: Multiple Linear
+  Regression vs. Factor Analysis",http://arxiv.org/abs/1108.5592v1,"The growing volume of data usually creates an interesting challenge for the
+need of data analysis tools that discover regularities in these data. Data
+mining has emerged as disciplines that contribute tools for data analysis,
+discovery of hidden knowledge, and autonomous decision making in many
+application domains. The purpose of this study is to compare the performance of
+two data mining techniques viz., factor analysis and multiple linear regression
+for different sample sizes on three unique sets of data. The performance of the
+two data mining techniques is compared on following parameters like mean square
+error (MSE), R-square, R-Square adjusted, condition number, root mean square
+error(RMSE), number of variables included in the prediction model, modified
+coefficient of efficiency, F-value, and test of normality. These parameters
+have been computed using various data mining tools like SPSS, XLstat, Stata,
+and MS-Excel. It is seen that for all the given dataset, factor analysis
+outperform multiple linear regression. But the absolute value of prediction
+accuracy varied between the three datasets indicating that the data
+distribution and data characteristics play a major role in choosing the correct
+prediction technique."
+15,"Spectral data analysis methods for the two-dimensional imaging
+  diagnostics",http://arxiv.org/abs/1907.09184v3,"Some spectral data analysis methods that are useful for the two-dimensional
+imaging diagnostics data are introduced. It is shown that the frequency
+spectrum, the local dispersion relation, the flow shear, and the nonlinear
+energy transfer rates can be estimated using the proper analysis methods."
+16,Grain - A Java Analysis Framework for Total Data Readout,http://arxiv.org/abs/0711.3364v1,"Grain is a data analysis framework developed to be used with the novel Total
+Data Readout data acquisition system. In Total Data Readout all the electronics
+channels are read out asynchronously in singles mode and each data item is
+timestamped. Event building and analysis has to be done entirely in the
+software post-processing the data stream. A flexible and efficient event parser
+and the accompanying software framework have been written entirely in Java. The
+design and implementation of the software are discussed along with experiences
+gained in running real-life experiments."
+17,Model-Based Clustering and Classification of Functional Data,http://arxiv.org/abs/1803.00276v2,"The problem of complex data analysis is a central topic of modern statistical
+science and learning systems and is becoming of broader interest with the
+increasing prevalence of high-dimensional data. The challenge is to develop
+statistical models and autonomous algorithms that are able to acquire knowledge
+from raw data for exploratory analysis, which can be achieved through
+clustering techniques or to make predictions of future data via classification
+(i.e., discriminant analysis) techniques. Latent data models, including mixture
+model-based approaches are one of the most popular and successful approaches in
+both the unsupervised context (i.e., clustering) and the supervised one (i.e,
+classification or discrimination). Although traditionally tools of multivariate
+analysis, they are growing in popularity when considered in the framework of
+functional data analysis (FDA). FDA is the data analysis paradigm in which the
+individual data units are functions (e.g., curves, surfaces), rather than
+simple vectors. In many areas of application, the analyzed data are indeed
+often available in the form of discretized values of functions or curves (e.g.,
+time series, waveforms) and surfaces (e.g., 2d-images, spatio-temporal data).
+This functional aspect of the data adds additional difficulties compared to the
+case of a classical multivariate (non-functional) data analysis. We review and
+present approaches for model-based clustering and classification of functional
+data. We derive well-established statistical models along with efficient
+algorithmic tools to address problems regarding the clustering and the
+classification of these high-dimensional data, including their heterogeneity,
+missing information, and dynamical hidden structure. The presented models and
+algorithms are illustrated on real-world functional data analysis problems from
+several application area."
+18,Open Data Portal Germany (OPAL) Projektergebnisse,http://arxiv.org/abs/2105.03161v1,"In the Open Data Portal Germany (OPAL) project, a pipeline of the following
+data refinement steps has been developed: requirements analysis, data
+acquisition, analysis, conversion, integration and selection. 800,000 datasets
+in DCAT format have been produced."
+19,Inferactive data analysis,http://arxiv.org/abs/1707.06692v1,"We describe inferactive data analysis, so-named to denote an interactive
+approach to data analysis with an emphasis on inference after data analysis.
+Our approach is a compromise between Tukey's exploratory (roughly speaking
+""model free"") and confirmatory data analysis (roughly speaking classical and
+""model based""), also allowing for Bayesian data analysis. We view this approach
+as close in spirit to current practice of applied statisticians and data
+scientists while allowing frequentist guarantees for results to be reported in
+the scientific literature, or Bayesian results where the data scientist may
+choose the statistical model (and hence the prior) after some initial
+exploratory analysis. While this approach to data analysis does not cover every
+scenario, and every possible algorithm data scientists may use, we see this as
+a useful step in concrete providing tools (with frequentist statistical
+guarantees) for current data scientists. The basis of inference we use is
+selective inference [Lee et al., 2016, Fithian et al., 2014], in particular its
+randomized form [Tian and Taylor, 2015a]. The randomized framework, besides
+providing additional power and shorter confidence intervals, also provides
+explicit forms for relevant reference distributions (up to normalization)
+through the {\em selective sampler} of Tian et al. [2016]. The reference
+distributions are constructed from a particular conditional distribution formed
+from what we call a DAG-DAG -- a Data Analysis Generative DAG. As sampling
+conditional distributions in DAGs is generally complex, the selective sampler
+is crucial to any practical implementation of inferactive data analysis. Our
+principal goal is in reviewing the recent developments in selective inference
+as well as describing the general philosophy of selective inference."
+20,Near real-time streaming analysis of big fusion data,http://arxiv.org/abs/2108.08896v1,"While experiments on fusion plasmas produce high-dimensional data time series
+with ever increasing magnitude and velocity, data analysis has been lagging
+behind this development. For example, many data analysis tasks are often
+performed in a manual, ad-hoc manner some time after an experiment. In this
+article we introduce the DELTA framework that facilitates near real-time
+streaming analysis of big and fast fusion data. By streaming measurement data
+from fusion experiments to a high-performance compute center, DELTA allows to
+perform demanding data analysis tasks in between plasma pulses. This article
+describe the modular and expandable software architecture of DELTA and presents
+performance benchmarks of its individual components as well as of entire
+workflows. Our focus is on the streaming analysis of ECEi data measured at
+KSTAR on NERSCs supercomputers and we routinely achieve data transfer rates of
+about 500 Megabyte per second. We show that a demanding turbulence analysis
+workload can be distributed among multiple GPUs and executes in under 5
+minutes. We further discuss how DELTA uses modern database systems and
+container orchestration services to provide web-based real-time data
+visualization. For the case of ECEi data we demonstrate how data visualizations
+can be augmented with outputs from machine learning models. By providing
+session leaders and physics operators results of higher order data analysis
+using live visualization they may monitor the evolution of a long-pulse
+discharge in near real-time and may make more informed decision on how to
+configure the machine for the next shot."
+21,A proposed solution for analysis management in high energy physics,http://arxiv.org/abs/1806.08787v1,"This paper presents an architecture for the analysis management in high
+energy physics experiments. Some new concepts on data analysis are introduced.
+A protocol for organizing and operating an analysis is raised. A toolkit
+following this architecture is developed, which provides a solution of analysis
+management with both flexibility and reproducibility. A foreseen development of
+this toolkit is discussed."
+22,"Origins of Modern Data Analysis Linked to the Beginnings and Early
+  Development of Computer Science and Information Engineering",http://arxiv.org/abs/0811.2519v1,"The history of data analysis that is addressed here is underpinned by two
+themes, -- those of tabular data analysis, and the analysis of collected
+heterogeneous data. ""Exploratory data analysis"" is taken as the heuristic
+approach that begins with data and information and seeks underlying explanation
+for what is observed or measured. I also cover some of the evolving context of
+research and applications, including scholarly publishing, technology transfer
+and the economic relationship of the university to society."
+23,"Ultrametric and Generalized Ultrametric in Computational Logic and in
+  Data Analysis",http://arxiv.org/abs/1008.3585v1,"Following a review of metric, ultrametric and generalized ultrametric, we
+review their application in data analysis. We show how they allow us to explore
+both geometry and topology of information, starting with measured data. Some
+themes are then developed based on the use of metric, ultrametric and
+generalized ultrametric in logic. In particular we study approximation chains
+in an ultrametric or generalized ultrametric context. Our aim in this work is
+to extend the scope of data analysis by facilitating reasoning based on the
+data analysis; and to show how quantitative and qualitative data analysis can
+be incorporated into logic programming."
+24,"Meeting Student Needs for Multivariate Data Analysis: A Case Study in
+  Teaching a Multivariate Data Analysis Course with No Pre-requisites",http://arxiv.org/abs/1310.7141v1,"Modern students encounter big, messy data sets long before setting foot in
+our classrooms. Many of our students need to develop skills in exploratory data
+analysis and multivariate analysis techniques for their jobs after college, but
+these topics are not covered in introductory statistics courses. This case
+study describes my experience in designing and teaching a course on
+multivariate data analysis with no pre-requisites, using real data, active
+learning, and other activities to help students tackle the material."
+25,Online Set-Based Dynamic Analysis for Sound Predictive Race Detection,http://arxiv.org/abs/1907.08337v1,"Predictive data race detectors find data races that exist in executions other
+than the observed execution. Smaragdakis et al. introduced the
+causally-precedes (CP) relation and a polynomial-time analysis for sound (no
+false races) predictive data race detection. However, their analysis cannot
+scale beyond analyzing bounded windows of execution traces. This work
+introduces a novel dynamic analysis called Raptor that computes CP soundly and
+completely. Raptor is inherently an online analysis that analyzes and finds all
+CP-races of an execution trace in its entirety. An evaluation of a prototype
+implementation of Raptor shows that it scales to program executions that the
+prior CP analysis cannot handle, finding data races that the prior CP analysis
+cannot find."
+26,Independent Component Analysis for Compositional Data,http://arxiv.org/abs/2007.00456v1,"Compositional data represent a specific family of multivariate data, where
+the information of interest is contained in the ratios between parts rather
+than in absolute values of single parts. The analysis of such specific data is
+challenging as the application of standard multivariate analysis tools on the
+raw observations can lead to spurious results. Hence, it is appropriate to
+apply certain transformations prior further analysis. One popular multivariate
+data analysis tool is independent component analysis. Independent component
+analysis aims to find statistically independent components in the data and as
+such might be seen as an extension to principal component analysis. In this
+paper we examine an approach of how to apply independent component analysis on
+compositional data by respecting the nature of the former and demonstrate the
+usefulness of this procedure on a metabolomic data set."
+27,Ordered Sets for Data Analysis,http://arxiv.org/abs/1908.11341v1,"This book dwells on mathematical and algorithmic issues of data analysis
+based on generality order of descriptions and respective precision. To speak of
+these topics correctly, we have to go some way getting acquainted with the
+important notions of relation and order theory. On the one hand, data often
+have a complex structure with natural order on it. On the other hand, many
+symbolic methods of data analysis and machine learning allow to compare the
+obtained classifiers w.r.t. their generality, which is also an order relation.
+Efficient algorithms are very important in data analysis, especially when one
+deals with big data, so scalability is a real issue. That is why we analyze the
+computational complexity of algorithms and problems of data analysis. We start
+from the basic definitions and facts of algorithmic complexity theory and
+analyze the complexity of various tools of data analysis we consider. The tools
+and methods of data analysis, like computing taxonomies, groups of similar
+objects (concepts and n-clusters), dependencies in data, classification, etc.,
+are illustrated with applications in particular subject domains, from
+chemoinformatics to text mining and natural language processing."
+28,Scaler mode of the Auger Observatory and Sunspots,http://arxiv.org/abs/1209.1367v1,"Recent data from the Auger Observatory on low energy secondary cosmic ray
+particles are analyzed to study temporal correlations together with data on the
+daily sunspot numbers and neutron monitor data. Standard spectral analysis
+demonstrates that the available data shows 1/f^{\beta} fluctuations with
+{\beta} approximately 1 in the low frequency range. All data behave like
+Brownian fluctuations in the high frequency range. The existence of long-range
+correlations in the data was confirmed by detrended fluctuation analysis. The
+real data confirmed the correlation between the scaling exponent of the
+detrended analysis and the exponent of the spectral analysis."
+29,Pulling back symmetric Riemannian geometry for data analysis,http://arxiv.org/abs/2403.06612v1,"Data sets tend to live in low-dimensional non-linear subspaces. Ideal data
+analysis tools for such data sets should therefore account for such non-linear
+geometry. The symmetric Riemannian geometry setting can be suitable for a
+variety of reasons. First, it comes with a rich mathematical structure to
+account for a wide range of non-linear geometries that has been shown to be
+able to capture the data geometry through empirical evidence from classical
+non-linear embedding. Second, many standard data analysis tools initially
+developed for data in Euclidean space can also be generalised efficiently to
+data on a symmetric Riemannian manifold. A conceptual challenge comes from the
+lack of guidelines for constructing a symmetric Riemannian structure on the
+data space itself and the lack of guidelines for modifying successful
+algorithms on symmetric Riemannian manifolds for data analysis to this setting.
+This work considers these challenges in the setting of pullback Riemannian
+geometry through a diffeomorphism. The first part of the paper characterises
+diffeomorphisms that result in proper, stable and efficient data analysis. The
+second part then uses these best practices to guide construction of such
+diffeomorphisms through deep learning. As a proof of concept, different types
+of pullback geometries -- among which the proposed construction -- are tested
+on several data analysis tasks and on several toy data sets. The numerical
+experiments confirm the predictions from theory, i.e., that the diffeomorphisms
+generating the pullback geometry need to map the data manifold into a geodesic
+subspace of the pulled back Riemannian manifold while preserving local isometry
+around the data manifold for proper, stable and efficient data analysis, and
+that pulling back positive curvature can be problematic in terms of stability."
+30,Toward an Android Static Analysis Approach for Data Protection,http://arxiv.org/abs/2402.07889v1,"Android applications collecting data from users must protect it according to
+the current legal frameworks. Such data protection has become even more
+important since the European Union rolled out the General Data Protection
+Regulation (GDPR). Since app developers are not legal experts, they find it
+difficult to write privacy-aware source code. Moreover, they have limited tool
+support to reason about data protection throughout their app development
+process.
+  This paper motivates the need for a static analysis approach to diagnose and
+explain data protection in Android apps. The analysis will recognize personal
+data sources in the source code, and aims to further examine the data flow
+originating from these sources. App developers can then address key questions
+about data manipulation, derived data, and the presence of technical measures.
+Despite challenges, we explore to what extent one can realize this analysis
+through static taint analysis, a common method for identifying security
+vulnerabilities. This is a first step towards designing a tool-based approach
+that aids app developers and assessors in ensuring data protection in Android
+apps, based on automated static program analysis."
+31,Object oriented data analysis: Sets of trees,http://arxiv.org/abs/0711.3147v1,"Object oriented data analysis is the statistical analysis of populations of
+complex objects. In the special case of functional data analysis, these data
+objects are curves, where standard Euclidean approaches, such as principal
+component analysis, have been very successful. Recent developments in medical
+image analysis motivate the statistical analysis of populations of more complex
+data objects which are elements of mildly non-Euclidean spaces, such as Lie
+groups and symmetric spaces, or of strongly non-Euclidean spaces, such as
+spaces of tree-structured data objects. These new contexts for object oriented
+data analysis create several potentially large new interfaces between
+mathematics and statistics. This point is illustrated through the careful
+development of a novel mathematical framework for statistical analysis of
+populations of tree-structured objects."
+32,"ROAn, a ROOT based Analysis Framework",http://arxiv.org/abs/1310.4848v1,"The ROOT based Offline and Online Analysis (ROAn) framework was developed to
+perform data analysis on data from Depleted P-channel Field Effect Transistor
+(DePFET) detectors, a type of active pixel sensors developed at the MPI
+Halbleiterlabor (HLL). ROAn is highly flexible and extensible, thanks to ROOT's
+features like run-time type information and reflection. ROAn provides an
+analysis program which allows to perform configurable step-by-step analysis on
+arbitrary data, an associated suite of algorithms focused on DePFET data
+analysis, and a viewer program for displaying and processing online or offline
+detector data streams. The analysis program encapsulates the applied algorithms
+in objects called steps which produce analysis results. The dependency between
+results and thus the order of calculation is resolved automatically by the
+program. To optimize algorithms for studying detector effects, analysis
+parameters are often changed. Such changes of input parameters are detected in
+subsequent analysis runs and only the necessary recalculations are triggered.
+This saves time and simultaneously keeps the results consistent. The viewer
+program offers a configurable Graphical User Interface (GUI) and process chain,
+which allows the user to adapt the program to different tasks such as offline
+viewing of file data, online monitoring of running detector systems, or
+performing online data analysis (histogramming, calibration, etc.). Because of
+its modular design, ROAn can be extended easily, e.g. be adapted to new
+detector types and analysis processes."
+33,Analysis of cosmic ray data,http://arxiv.org/abs/astro-ph/0002149v1,"Reviews statistical methods for 1- and 2-dimensional analysis of cosmic ray
+data including recent Bayesian analyses."
+34,"Analysis of factors that affect the students academic performance - Data
+  Mining Approach",http://arxiv.org/abs/1409.2222v1,"Analysis of factors that affect students academic performance - Data Mining
+Approach"
+35,Regression analysis with compositional data containing zero values,http://arxiv.org/abs/1508.01913v1,Regression analysis with compositional data containing zero values
+36,"Linked Component Analysis from Matrices to High Order Tensors:
+  Applications to Biomedical Data",http://arxiv.org/abs/1508.07416v1,"With the increasing availability of various sensor technologies, we now have
+access to large amounts of multi-block (also called multi-set,
+multi-relational, or multi-view) data that need to be jointly analyzed to
+explore their latent connections. Various component analysis methods have
+played an increasingly important role for the analysis of such coupled data. In
+this paper, we first provide a brief review of existing matrix-based (two-way)
+component analysis methods for the joint analysis of such data with a focus on
+biomedical applications. Then, we discuss their important extensions and
+generalization to multi-block multiway (tensor) data. We show how constrained
+multi-block tensor decomposition methods are able to extract similar or
+statistically dependent common features that are shared by all blocks, by
+incorporating the multiway nature of data. Special emphasis is given to the
+flexible common and individual feature analysis of multi-block data with the
+aim to simultaneously extract common and individual latent components with
+desired properties and types of diversity. Illustrative examples are given to
+demonstrate their effectiveness for biomedical data analysis."
+37,"Analytic Provenance Datasets: A Data Repository of Human Analysis
+  Activity and Interaction Logs",http://arxiv.org/abs/1801.05076v1,"We present an analytic provenance data repository that can be used to study
+human analysis activity, thought processes, and software interaction with
+visual analysis tools during exploratory data analysis. We conducted a series
+of user studies involving exploratory data analysis scenario with textual and
+cyber security data. Interactions logs, think-alouds, videos and all coded data
+in this study are available online for research purposes. Analysis sessions are
+segmented in multiple sub-task steps based on user think-alouds, video and
+audios captured during the studies. These analytic provenance datasets can be
+used for research involving tools and techniques for analyzing interaction logs
+and analysis history. By providing high-quality coded data along with
+interaction logs, it is possible to compare algorithmic data processing
+techniques to the ground-truth records of analysis history."
+38,An algebraic geometry perspective on topological data analysis,http://arxiv.org/abs/2001.02098v1,"A short survey on applications of algebraic geometry in topological data
+analysis."
+39,Differential Data Analysis for Recommender Systems,http://arxiv.org/abs/1310.0894v1,"We present techniques to characterize which data is important to a
+recommender system and which is not. Important data is data that contributes
+most to the accuracy of the recommendation algorithm, while less important data
+contributes less to the accuracy or even decreases it. Characterizing the
+importance of data has two potential direct benefits: (1) increased privacy and
+(2) reduced data management costs, including storage. For privacy, we enable
+increased recommendation accuracy for comparable privacy levels using existing
+data obfuscation techniques. For storage, our results indicate that we can
+achieve large reductions in recommendation data and yet maintain recommendation
+accuracy.
+  Our main technique is called differential data analysis. The name is inspired
+by other sorts of differential analysis, such as differential power analysis
+and differential cryptanalysis, where insight comes through analysis of
+slightly differing inputs. In differential data analysis we chunk the data and
+compare results in the presence or absence of each chunk. We present results
+applying differential data analysis to two datasets and three different kinds
+of attributes. The first attribute is called user hardship. This is a novel
+attribute, particularly relevant to location datasets, that indicates how
+burdensome a data point was to achieve. The second and third attributes are
+more standard: timestamp and user rating. For user rating, we confirm previous
+work concerning the increased importance to the recommender of data
+corresponding to high and low user ratings."
+40,"Privacy-Preserving Linkage of Distributed Datasets using the Personal
+  Health Train",http://arxiv.org/abs/2309.06171v1,"With the generation of personal and medical data at several locations,
+medical data science faces unique challenges when working on distributed
+datasets. Growing data protection requirements in recent years drastically
+limit the use of personally identifiable information. Distributed data analysis
+aims to provide solutions for securely working on highly sensitive data while
+minimizing the risk of information leaks, which would not be possible to the
+same degree in a centralized approach. A novel concept in this field is the
+Personal Health Train (PHT), which encapsulates the idea of bringing the
+analysis to the data, not vice versa. Data sources are represented as train
+stations. Trains containing analysis tasks move between stations and aggregate
+results. Train executions are coordinated by a central station which data
+analysts can interact with. Data remains at their respective stations and
+analysis results are only stored inside the train, providing a safe and secure
+environment for distributed data analysis.
+  Duplicate records across multiple locations can skew results in a distributed
+data analysis. On the other hand, merging information from several datasets
+referring to the same real-world entities may improve data completeness and
+therefore data quality. In this paper, we present an approach for record
+linkage on distributed datasets using the Personal Health Train. We verify this
+approach and evaluate its effectiveness by applying it to two datasets based on
+real-world data and outline its possible applications in the context of
+distributed data analysis tasks."
+41,"Data Lakes, Clouds and Commons: A Review of Platforms for Analyzing and
+  Sharing Genomic Data",http://arxiv.org/abs/1809.01699v2,"Data commons collate data with cloud computing infrastructure and commonly
+used software services, tools and applications to create biomedical resources
+for the large-scale management, analysis, harmonization, and sharing of
+biomedical data. Over the past few years, data commons have been used to
+analyze, harmonize and share large scale genomics datasets. Data ecosystems can
+be built by interoperating multiple data commons. It can be quite labor
+intensive to curate, import and analyze the data in a data commons. Data lakes
+provide an alternative to data commons and simply provide access to data, with
+the data curation and analysis deferred until later and delegated to those that
+access the data. We review software platforms for managing, analyzing and
+sharing genomic data, with an emphasis on data commons, but also covering data
+ecosystems and data lakes."
+42,Duration and Interval Hidden Markov Model for Sequential Data Analysis,http://arxiv.org/abs/1508.04928v1,"Analysis of sequential event data has been recognized as one of the essential
+tools in data modeling and analysis field. In this paper, after the examination
+of its technical requirements and issues to model complex but practical
+situation, we propose a new sequential data model, dubbed Duration and Interval
+Hidden Markov Model (DI-HMM), that efficiently represents ""state duration"" and
+""state interval"" of data events. This has significant implications to play an
+important role in representing practical time-series sequential data. This
+eventually provides an efficient and flexible sequential data retrieval.
+Numerical experiments on synthetic and real data demonstrate the efficiency and
+accuracy of the proposed DI-HMM."
+43,"Towards High-Performance Exploratory Data Analysis (EDA) Via Stable
+  Equilibrium Point",http://arxiv.org/abs/2306.04425v1,"Exploratory data analysis (EDA) is a vital procedure for data science
+projects. In this work, we introduce a stable equilibrium point (SEP) - based
+framework for improving the efficiency and solution quality of EDA. By
+exploiting the SEPs to be the representative points, our approach aims to
+generate high-quality clustering and data visualization for large-scale data
+sets. A very unique property of the proposed method is that the SEPs will
+directly encode the clustering properties of data sets. Compared with prior
+state-of-the-art clustering and data visualization methods, the proposed
+methods allow substantially improving computing efficiency and solution quality
+for large-scale data analysis tasks."
+44,"Statdepth: a package for analysis of functional and pointcloud data
+  using statistical depth",http://arxiv.org/abs/2302.13238v1,"Laboratory scientists are well equipped with statistical tools for univariate
+data, yet many phenomena of scientific interest are time-variant or otherwise
+multidimensional. Functional data analysis is one way of approaching such data:
+by representing these more complex data as single data points in a mathematical
+space of functions. The mathematical concept of functional depth provides a
+notion of centrality which allows for descriptive statistics and some
+comparative statistics on these data. Here, we present statdepth, a Python
+package for functional depth-based analyses which naturally extends familiar
+single-data-point L-statistics and related methods to time-variant data
+trajectories or multidimensional data."
+45,Results from Super-Kamiokande,http://arxiv.org/abs/1112.3425v1,"The recent results from Super-Kamiokande (SK) are reported. On atmospheric
+neutrino analysis, we have performed a full 3-flavor oscillation analysis with
+SK-I+II+III data. A CPT violation study on atmospheric neutrino is also done
+with SK-I+II+III data. On solar neutrino analysis, a 3-flavor oscillation
+analysis with SK-III data is performed."
+46,"Analysis of Least square estimator for simple Linear Regression with a
+  uniform distribution error",http://arxiv.org/abs/2111.04200v1,"We study the least square estimator, in the framework of simple linear
+regression, when the deviance term $\varepsilon$ with respect to the linear
+model is modeled by a uniform distribution. In particular, we give the law of
+this estimator, and prove some convergence properties."
+47,Nonlinear analysis of bivariate data with cross recurrence plots,http://arxiv.org/abs/physics/0201061v2,"We use the extension of the method of recurrence plots to cross recurrence
+plots (CRP) which enables a nonlinear analysis of bivariate data. To quantify
+CRPs, we develop further three measures of complexity mainly basing on diagonal
+structures in CRPs. The CRP analysis of prototypical model systems with
+nonlinear interactions demonstrates that this technique enables to find these
+nonlinear interrelations from bivariate time series, whereas linear correlation
+tests do not. Applying the CRP analysis to climatological data, we find a
+complex relationship between rainfall and El Nino data."
+48,"Recent data analysis to revisit the spin structure function of nucleon
+  in Laplace space",http://arxiv.org/abs/2303.01853v1,"Considering a fixed-flavor number scheme and based on laplace transdormation,
+we perform a leading-order and next-to-leading-order QCD analysis which are
+including world data on polarized structure functions $g_1$ and $g_2$. During
+our analysis, taking the DGLAP evolution, we employ the Jacobi polynomials
+expansion technique. In our recent analysis we utilize the recent available
+data and consequently include more data than what we did in our previous
+analysis. we obtain good agreements between our results for the polarized
+parton densities and nucleon structure functions with all available
+experimental data and some common parametrization models."
+49,"Implementation of the recovering corrections into the intermittent data
+  analysis",http://arxiv.org/abs/hep-ph/9904204v1,"The improved method of intermittent data analysis is proposed. It exploits,
+in addition to the standard density moments, the information on the bin-bin
+correlations, observed in the data and expressed in terms of the density
+correlators. The improving recovering corrections are implemented into the data
+analysis in the form of the recursive algorithm, and tested in the framework of
+multiplicative cascading models."
+50,Generalised Modal Analysis with the Padé-Laplace transform,http://arxiv.org/abs/physics/0304107v1,"We present the G-MAPLE (Generalised Modal Analysis from the Poles of the
+Laplace Expansion) software that allows decomposing data depending on a single
+parameter (such as time series data) into a set of exponential functions having
+complex amplitudes and arguments. The novelty is that G-MAPLE determines the
+unknown number of exponentials in the data along with the corresponding complex
+amplitudes and arguments."
+51,Quantum Informatics View of Statistical Data Processing,http://arxiv.org/abs/1102.4140v1,"Application of root density estimator to problems of statistical data
+analysis is demonstrated. Four sets of basis functions based on
+Chebyshev-Hermite, Laguerre, Kravchuk and Charlier polynomials are considered.
+The sets may be used for numerical analysis in problems of reconstructing
+statistical distributions by experimental data. Examples of numerical modeling
+are given."
+52,"GFA: Exploratory Analysis of Multiple Data Sources with Group Factor
+  Analysis",http://arxiv.org/abs/1611.01534v1,"The R package GFA provides a full pipeline for factor analysis of multiple
+data sources that are represented as matrices with co-occurring samples. It
+allows learning dependencies between subsets of the data sources, decomposed
+into latent factors. The package also implements sparse priors for the
+factorization, providing interpretable biclusters of the multi-source data"
+53,Geometry of Data,http://arxiv.org/abs/2203.07208v1,"Topological data analysis asks when balls in a metric space $(X,d)$
+intersect. Geometric data analysis asks how much balls have to be enlarged to
+intersect. We connect this principle to the traditional core geometric concept
+of curvature. This enables us, on one hand, to reconceptualize curvature and
+link it to the geometric notion of hyperconvexity. On the other hand, we can
+then also understand methods of topological data analysis from a geometric
+perspective."
+54,The new object oriented analysis framework for H1,http://arxiv.org/abs/physics/0306124v1,"During the years 2000 and 2001 the HERA machine and the H1 experiment
+performed substantial luminosity upgrades. To cope with the increased demands
+on data handling an effort was made to redesign and modernize the analysis
+software. Main goals were to lower turn-around time for physics analysis by
+providing a single framework for data storage, event selection, physics and
+event display. The new object oriented analysis environment based on the RooT
+framework provides a data access front-end for the new data storage scheme and
+a new event display. The analysis data is stored in four different layers of
+separate files. Each layer represents a different level of abstraction, i.e.
+reconstruction output, physics particles, event summary information and user
+specific information. Links between the layers allow correlating quantities of
+different layers. Currently, this framework is used for data analyses of the
+previous collected data and for standard data production of the currently
+collected data."
+55,Why we should respect analysis results as data,http://arxiv.org/abs/2204.09959v1,"The development and approval of new treatments generates large volumes of
+results, such as summaries of efficacy and safety. However, it is commonly
+overlooked that analyzing clinical study data also produces data in the form of
+results. For example, descriptive statistics and model predictions are data.
+Although integrating and putting findings into context is a cornerstone of
+scientific work, analysis results are often neglected as a data source. Results
+end up stored as ""data products"" such as PDF documents that are not machine
+readable or amenable to future analysis. We propose a solution to ""calculate
+once, use many times"" by combining analysis results standards with a common
+data model. This analysis results data model re-frames the target of analyses
+from static representations of the results (e.g., tables and figures) to a data
+model with applications in various contexts, including knowledge discovery.
+Further, we provide a working proof of concept detailing how to approach
+analyses standardization and construct a schema to store and query analysis
+results."
+56,"Big Data Scaling through Metric Mapping: Exploiting the Remarkable
+  Simplicity of Very High Dimensional Spaces using Correspondence Analysis",http://arxiv.org/abs/1512.04052v1,"We present new findings in regard to data analysis in very high dimensional
+spaces. We use dimensionalities up to around one million. A particular benefit
+of Correspondence Analysis is its suitability for carrying out an orthonormal
+mapping, or scaling, of power law distributed data. Power law distributed data
+are found in many domains. Correspondence factor analysis provides a latent
+semantic or principal axes mapping. Our experiments use data from digital
+chemistry and finance, and other statistically generated data."
+57,Topological data analysis and machine learning,http://arxiv.org/abs/2206.15075v3,"Topological data analysis refers to approaches for systematically and
+reliably computing abstract ``shapes'' of complex data sets. There are various
+applications of topological data analysis in life and data sciences, with
+growing interest among physicists. We present a concise yet (we hope)
+comprehensive review of applications of topological data analysis to physics
+and machine learning problems in physics including the detection of phase
+transitions. We finish with a preview of anticipated directions for future
+research."
+58,"How Good Is Open Bicycle Infrastructure Data? A Countrywide Case Study
+  of Denmark",http://arxiv.org/abs/2312.02632v1,"Cycling is a key ingredient for a sustainability shift of Denmark's
+transportation system. To increase cycling rates, a better nationwide network
+of bicycle infrastructure is required. Planning such a network requires
+high-quality infrastructure data, however, the quality of bicycle
+infrastructure data is severely understudied. Here, we compare Denmark's two
+largest open data sets on dedicated bicycle infrastructure, OpenStreetMap (OSM)
+and GeoDanmark, in a countrywide data quality assessment, asking whether data
+is good enough for network-based analysis of cycling conditions. We find that
+neither of the data sets is of sufficient quality, and that data set conflation
+is necessary to obtain a complete dataset. Our analysis of the spatial
+variation of data quality suggests that rural areas are more likely to suffer
+from problems with data completeness. We demonstrate that the prevalent method
+of using infrastructure density as a proxy for data completeness is not
+suitable for bicycle infrastructure data, and that matching of corresponding
+features thus is necessary to assess data completeness. Based on our data
+quality assessment we recommend strategic mapping efforts towards data
+completeness, consistent standards to support comparability between different
+data sources, and increased focus on data topology to ensure high-quality
+bicycle network data."
+59,"Multiscale Entropy Analysis: A New Method to Detect Determinism in a
+  Time Series",http://arxiv.org/abs/physics/0604040v1,"In this letter we show that the Multiscale Entropy (MSE) analysis can detect
+the determinism in a time series."
+60,A Case for Data Commons: Towards Data Science as a Service,http://arxiv.org/abs/1604.02608v1,"As the amount of scientific data continues to grow at ever faster rates, the
+research community is increasingly in need of flexible computational
+infrastructure that can support the entirety of the data science lifecycle,
+including long-term data storage, data exploration and discovery services, and
+compute capabilities to support data analysis and re-analysis, as new data are
+added and as scientific pipelines are refined. We describe our experience
+developing data commons-- interoperable infrastructure that co-locates data,
+storage, and compute with common analysis tools--and present several cases
+studies. Across these case studies, several common requirements emerge,
+including the need for persistent digital identifier and metadata services,
+APIs, data portability, pay for compute capabilities, and data peering
+agreements between data commons. Though many challenges, including
+sustainability and developing appropriate standards remain, interoperable data
+commons bring us one step closer to effective Data Science as Service for the
+scientific research community."
+61,Privacy-Preserving Methods for Vertically Partitioned Incomplete Data,http://arxiv.org/abs/2012.14954v1,"Distributed health data networks that use information from multiple sources
+have drawn substantial interest in recent years. However, missing data are
+prevalent in such networks and present significant analytical challenges. The
+current state-of-the-art methods for handling missing data require pooling data
+into a central repository before analysis, which may not be possible in a
+distributed health data network. In this paper, we propose a privacy-preserving
+distributed analysis framework for handling missing data when data are
+vertically partitioned. In this framework, each institution with a particular
+data source utilizes the local private data to calculate necessary intermediate
+aggregated statistics, which are then shared to build a global model for
+handling missing data. To evaluate our proposed methods, we conduct simulation
+studies that clearly demonstrate that the proposed privacy-preserving methods
+perform as well as the methods using the pooled data and outperform several
+na\""ive methods. We further illustrate the proposed methods through the
+analysis of a real dataset. The proposed framework for handling vertically
+partitioned incomplete data is substantially more privacy-preserving than
+methods that require pooling of the data, since no individual-level data are
+shared, which can lower hurdles for collaboration across multiple institutions
+and build stronger public trust."
+62,Lightweight Knowledge Representations for Automating Data Analysis,http://arxiv.org/abs/2311.12848v1,"The principal goal of data science is to derive meaningful information from
+data. To do this, data scientists develop a space of analytic possibilities and
+from it reach their information goals by using their knowledge of the domain,
+the available data, the operations that can be performed on those data, the
+algorithms/models that are fed the data, and how all of these facets
+interweave. In this work, we take the first steps towards automating a key
+aspect of the data science pipeline: data analysis. We present an extensible
+taxonomy of data analytic operations that scopes across domains and data, as
+well as a method for codifying domain-specific knowledge that links this
+analytics taxonomy to actual data. We validate the functionality of our
+analytics taxonomy by implementing a system that leverages it, alongside domain
+labelings for 8 distinct domains, to automatically generate a space of
+answerable questions and associated analytic plans. In this way, we produce
+information spaces over data that enable complex analyses and search over this
+data and pave the way for fully automated data analysis."
+63,"Data depth functions for non-standard data by use of formal concept
+  analysis",http://arxiv.org/abs/2402.16560v2,"In this article, we introduce a notion of depth functions for data types that
+are not given in statistical standard data formats. Data depth functions have
+been intensively studied for normed vector spaces. However, a discussion on
+depth functions on data where one specific data structure cannot be presupposed
+is lacking. We call such data non-standard data. To define depth functions for
+non-standard data, we represent the data via formal concept analysis which
+leads to a unified data representation. Besides introducing these depth
+functions, we give a systematic basis of depth functions for non-standard using
+formal concept analysis by introducing structural properties. Furthermore, we
+embed the generalised Tukey depth into our concept of data depth and analyse it
+using the introduced structural properties. Thus, this article provides the
+mathematical formalisation of centrality and outlyingness for non-standard
+data. Thereby, we increase the number of spaces in which centrality can be
+discussed. In particular, it gives a basis to define further depth functions
+and statistical inference methods for non-standard data."
+64,"Data augmentation for low resource sentiment analysis using generative
+  adversarial networks",http://arxiv.org/abs/1902.06818v1,"Sentiment analysis is a task that may suffer from a lack of data in certain
+cases, as the datasets are often generated and annotated by humans. In cases
+where data is inadequate for training discriminative models, generate models
+may aid training via data augmentation. Generative Adversarial Networks (GANs)
+are one such model that has advanced the state of the art in several tasks,
+including as image and text generation. In this paper, I train GAN models on
+low resource datasets, then use them for the purpose of data augmentation
+towards improving sentiment classifier generalization. Given the constraints of
+limited data, I explore various techniques to train the GAN models. I also
+present an analysis of the quality of generated GAN data as more training data
+for the GAN is made available. In this analysis, the generated data is
+evaluated as a test set (against a model trained on real data points) as well
+as a training set to train classification models. Finally, I also conduct a
+visual analysis by projecting the generated and the real data into a
+two-dimensional space using the t-Distributed Stochastic Neighbor Embedding
+(t-SNE) method."
+65,On the application of topological data analysis: a Z24 Bridge case study,http://arxiv.org/abs/2209.05484v1,"Topological methods are very rarely used in structural health monitoring
+(SHM), or indeed in structural dynamics generally, especially when considering
+the structure and topology of observed data. Topological methods can provide a
+way of proposing new metrics and methods of scrutinising data, that otherwise
+may be overlooked. In this work, a method of quantifying the shape of data, via
+a topic called topological data analysis will be introduced. The main tool
+within topological data analysis is persistent homology. Persistent homology is
+a method of quantifying the shape of data over a range of length scales. The
+required background and a method of computing persistent homology is briefly
+introduced here. Ideas from topological data analysis are applied to a Z24
+Bridge case study, to scrutinise different data partitions, classified by the
+conditions at which the data were collected. A metric, from topological data
+analysis, is used to compare between the partitions. The results presented
+demonstrate that the presence of damage alters the manifold shape more
+significantly than the effects present from temperature."
+66,Data accounting and error counting,http://arxiv.org/abs/2301.12583v1,"Can we infer sources of errors from outputs of the complex data analytics
+software?
+  Bidirectional programming promises that we can reverse flow of software, and
+translate corrections of output into corrections of either input or data
+analysis.
+  This allows us to achieve holy grail of automated approaches to debugging,
+risk reporting and large scale distributed error tracking.
+  Since processing of risk reports and data analysis pipelines can be
+frequently expressed using a
+  sequence relational algebra operations, we propose a replacement of this
+traditional approach with a data
+  summarization algebra that helps to determine an impact of errors. It works
+by defining data analysis of
+  a necessarily complete summarization of a dataset, possibly in multiple ways
+along multiple dimensions.
+  We also present a description to better communicate how the complete
+summarizations of the input
+  data may facilitates easier debugging and more efficient development of
+analysis pipelines.
+  This approach can also be described as an generalization of axiomatic
+theories of accounting into
+  data analytics, thus dubbed data accounting.
+  We also propose formal properties that allow for transparent assertions about
+impact of individual
+  records on the aggregated data and ease debugging by allowing to find minimal
+changes that change
+  behaviour of data analysis on per-record basis."
+67,"Intelligent data analysis based on the complex network theory methods: a
+  case study",http://arxiv.org/abs/1007.1079v1,"The development of modern information technologies permits to collect and to
+analyze huge amounts of statistical data in different spheres of life. The main
+problem is not to only to collect but to process all relevant information. The
+purpose of our work is to show the example of intelligent data analysis in such
+complex and non-formalized field as science. Using the statistical data about
+scientific periodical it is possible to perform its comprehensive analysis and
+to solve different practical problems. The combination of various approaches
+including the statistical analysis, methods of the complex network theory and
+different techniques that can be used for the concept mapping permits to
+perform an intelligent data analysis in order to obtain underlying patterns and
+hidden connections. Results of such analysis can be used for particular
+practical problems like information retrieval within journal."
+68,Another Use of SMOTE for Interpretable Data Collaboration Analysis,http://arxiv.org/abs/2208.12458v1,"Recently, data collaboration (DC) analysis has been developed for
+privacy-preserving integrated analysis across multiple institutions. DC
+analysis centralizes individually constructed dimensionality-reduced
+intermediate representations and realizes integrated analysis via collaboration
+representations without sharing the original data. To construct the
+collaboration representations, each institution generates and shares a
+shareable anchor dataset and centralizes its intermediate representation.
+Although, random anchor dataset functions well for DC analysis in general,
+using an anchor dataset whose distribution is close to that of the raw dataset
+is expected to improve the recognition performance, particularly for the
+interpretable DC analysis. Based on an extension of the synthetic minority
+over-sampling technique (SMOTE), this study proposes an anchor data
+construction technique to improve the recognition performance without
+increasing the risk of data leakage. Numerical results demonstrate the
+efficiency of the proposed SMOTE-based method over the existing anchor data
+constructions for artificial and real-world datasets. Specifically, the
+proposed method achieves 9 percentage point and 38 percentage point performance
+improvements regarding accuracy and essential feature selection, respectively,
+over existing methods for an income dataset. The proposed method provides
+another use of SMOTE not for imbalanced data classifications but for a key
+technology of privacy-preserving integrated analysis."
+69,Mathematical and Algorithmic Analysis of Network and Biological Data,http://arxiv.org/abs/1407.0375v1,"This dissertation contributes to mathematical and algorithmic problems that
+arise in the analysis of network and biological data."
+70,Relaxed data-consistency for limited bandwidth photoacoustic tomography,http://arxiv.org/abs/2310.09438v1,"We study the effect of using weaker forms of data-fidelity terms in
+generalized Tikhonov regularization accounting for model uncertainties. We show
+that relaxed data-consistency conditions can be beneficial for integrating
+available prior knowledge."
+71,"floodlight -- A high-level, data-driven sports analytics framework",http://arxiv.org/abs/2206.02562v1,"The present work introduces floodlight, an open source Python package built
+to support and automate team sport data analysis. It is specifically designed
+for the scientific analysis of spatiotemporal tracking data, event data, and
+game codes in disciplines such as match and performance analysis, exercise
+physiology, training science, and collective movement behavior analysis. It is
+completely provider- and sports-independent and includes a high-level interface
+suitable for programming beginners. The package includes routines for most
+aspects of the data analysis process, including dedicated data classes, file
+parsing functionality, public dataset APIs, pre-processing routines, common
+data models and several standard analysis algorithms previously used in the
+literature, as well as basic visualization functionality. The package is
+intended to make team sport data analysis more accessible to sport scientists,
+foster collaborations between sport and computer scientists, and strengthen the
+community's culture of open science and inclusion of previous works in future
+works."
+72,"GenoCraft: A Comprehensive, User-Friendly Web-Based Platform for
+  High-Throughput Omics Data Analysis and Visualization",http://arxiv.org/abs/2312.14249v1,"The surge in high-throughput omics data has reshaped the landscape of
+biological research, underlining the need for powerful, user-friendly data
+analysis and interpretation tools. This paper presents GenoCraft, a web-based
+comprehensive software solution designed to handle the entire pipeline of omics
+data processing. GenoCraft offers a unified platform featuring advanced
+bioinformatics tools, covering all aspects of omics data analysis. It
+encompasses a range of functionalities, such as normalization, quality control,
+differential analysis, network analysis, pathway analysis, and diverse
+visualization techniques. This software makes state-of-the-art omics data
+analysis more accessible to a wider range of users. With GenoCraft, researchers
+and data scientists have access to an array of cutting-edge bioinformatics
+tools under a user-friendly interface, making it a valuable resource for
+managing and analyzing large-scale omics data. The API with an interactive web
+interface is publicly available at https://genocraft.stanford. edu/. We also
+release all the codes in https://github.com/futianfan/GenoCraft."
+73,A Comprehensive Review on Computer Vision Analysis of Aerial Data,http://arxiv.org/abs/2402.09781v1,"With the emergence of new technologies in the field of airborne platforms and
+imaging sensors, aerial data analysis is becoming very popular, capitalizing on
+its advantages over land data. This paper presents a comprehensive review of
+the computer vision tasks within the domain of aerial data analysis. While
+addressing fundamental aspects such as object detection and tracking, the
+primary focus is on pivotal tasks like change detection, object segmentation,
+and scene-level analysis. The paper provides the comparison of various hyper
+parameters employed across diverse architectures and tasks. A substantial
+section is dedicated to an in-depth discussion on libraries, their
+categorization, and their relevance to different domain expertise. The paper
+encompasses aerial datasets, the architectural nuances adopted, and the
+evaluation metrics associated with all the tasks in aerial data analysis.
+Applications of computer vision tasks in aerial data across different domains
+are explored, with case studies providing further insights. The paper
+thoroughly examines the challenges inherent in aerial data analysis, offering
+practical solutions. Additionally, unresolved issues of significance are
+identified, paving the way for future research directions in the field of
+aerial data analysis."
+74,Data Lake Ingestion Management,http://arxiv.org/abs/2107.02885v1,"Data Lake (DL) is a Big Data analysis solution which ingests raw data in
+their native format and allows users to process these data upon usage. Data
+ingestion is not a simple copy and paste of data, it is a complicated and
+important phase to ensure that ingested data are findable, accessible,
+interoperable and reusable at all times. Our solution is threefold. Firstly, we
+propose a metadata model that includes information about external data sources,
+data ingestion processes, ingested data, dataset veracity and dataset security.
+Secondly, we present the algorithms that ensure the ingestion phase (data
+storage and metadata instanciation). Thirdly, we introduce a developed metadata
+management system whereby users can easily consult different elements stored in
+DL."
+75,FQP 2.0: Industry Trend Analysis via Hierarchical Financial Data,http://arxiv.org/abs/2303.02707v1,"Analyzing trends across industries is critical to maintaining a healthy and
+stable economy. Previous research has mainly analyzed official statistics,
+which are more accurate but not necessarily real-time. In this paper, we
+propose a method for analyzing industry trends using stock market data. The
+difficulty of this task is that the raw data is relatively noisy, which affects
+the accuracy of statistical analysis. In addition, textual data for industry
+analysis needs to be better understood through language models. For this
+reason, we introduce the method of industry trend analysis from two
+perspectives of explicit analysis and implicit analysis. For the explicit
+analysis, we introduce a hierarchical data (industry and listed company)
+analysis method to reduce the impact of noise. For implicit analysis, we
+further pre-train GPT-2 to analyze industry trends with current affairs
+background as input, making full use of the knowledge learned in the
+pre-training corpus. We conduct experiments based on the proposed method and
+achieve good industry trend analysis results."
+76,First performance measurements with the Analysis Grand Challenge,http://arxiv.org/abs/2304.05214v1,"The IRIS-HEP Analysis Grand Challenge (AGC) is designed to be a realistic
+environment for investigating how analysis methods scale to the demands of the
+HL-LHC. The analysis task is based on publicly available Open Data and allows
+for comparing the usability and performance of different approaches and
+implementations. It includes all relevant workflow aspects from data delivery
+to statistical inference.
+  The reference implementation for the AGC analysis task is heavily based on
+tools from the HEP Python ecosystem. It makes use of novel pieces of
+cyberinfrastructure and modern analysis facilities in order to address the data
+processing challenges of the HL-LHC.
+  This contribution compares multiple different analysis implementations and
+studies their performance. Differences between the implementations include the
+use of multiple data delivery mechanisms and caching setups for the analysis
+facilities under investigation."
+77,Leveraging LLVM's ScalarEvolution for Symbolic Data Cache Analysis,http://arxiv.org/abs/2310.04809v2,"While instruction cache analysis is essentially a solved problem, data cache
+analysis is more challenging. In contrast to instruction fetches, the data
+accesses generated by a memory instruction may vary with the program's inputs
+and across dynamic occurrences of the same instruction in loops.
+  We observe that the plain control-flow graph (CFG) abstraction employed in
+classical cache analyses is inadequate to capture the dynamic behavior of
+memory instructions. On top of plain CFGs, accurate analysis of the underlying
+program's cache behavior is impossible.
+  Thus, our first contribution is the definition of a more expressive program
+abstraction coined symbolic control-flow graphs, which can be obtained from
+LLVM's ScalarEvolution analysis. To exploit this richer abstraction, our main
+contribution is the development of symbolic data cache analysis, a smooth
+generalization of classical LRU must analysis from plain to symbolic
+control-flow graphs.
+  The experimental evaluation demonstrates that symbolic data cache analysis
+consistently outperforms classical LRU must analysis both in terms of accuracy
+and analysis runtime."
+78,A User-Friendly Environment for Battery Data Science,http://arxiv.org/abs/2202.01717v1,"We report a user-friendly software environment for battery data science. It
+is designed to streamline data management, data cleaning, and data analysis to
+help bridge the gap between the domain expertise of most battery scientists and
+the tools needed as the field becomes increasingly data intensive. The software
+solution suitable for ingesting battery test data from disparate sources. By
+aggregating data in an intelligent way, users can streamline routine data
+analysis tasks and leverage Jupyter Notebook functionality to build advanced
+scripts and analytics, thereby making battery engineering teams more
+productive."
+79,"Writing summary for the state-of-the-art methods for big data clustering
+  in distributed environment",http://arxiv.org/abs/2211.05339v1,"Big Data processing systems handle huge unstructured and structured data to
+store, process, and analyze through cluster analysis which helps in identifying
+unseen patterns to find the relationships between them. Clustering analysis
+over the shared machines in big data technologies helps in deriving the
+relations and making decisions using data in context. It can handle every form
+of raw, tabular data along with structured, semi-structured, and unstructured
+data. The data doesn't have to possess linearity property. It can reflect
+associative and correlative patterns and groupings. The main contribution and
+findings of this paper are to gather and summarize the recent big data
+clustering techniques, and their strengths, and weaknesses in any distributed
+environment."
+80,"Development of application for discovering and binding to published
+  geospatial processes in distributed environments",http://arxiv.org/abs/1205.0839v1,"Nowadays, society has recognized that the lack of access to spatial data and
+tools for their analysis is the limiting factor of economic development. It
+came to the realization that without the single information space, which is
+implemented in the form of spatial data infrastructures, a progressive business
+development is impossible. Spatial data infrastructures will support a variety
+of tasks, which requires the binding of geospatial information from multiple
+sources. In the last few years, the rate of progress in spatial data collection
+was higher, than in management and analysis of data. Infrastructures allow the
+accumulated data to be available to large groups of users, and infrastructure
+of analysis allows the data to be effectively used for such tasks as municipal
+planning, science research, etc. Moreover, free access to the information
+resources and instruments of analysis will serve as an additional impulse to
+development of application models in corresponding areas of expertise. The goal
+of this paper is to indicate possible solutions to the client-side problems of
+spatial data analysis in distributed environments, using the developing
+application for data analysis as an example."
+81,"A Variability-Aware Design Approach to the Data Analysis Modeling
+  Process",http://arxiv.org/abs/1812.10176v1,"The massive amount of current data has led to many different forms of data
+analysis processes that aim to explore this data to uncover valuable insights.
+Methodologies to guide the development of big data science projects, including
+CRISP-DM and SEMMA, have been widely used in industry and academia. The data
+analysis modeling phase, which involves decisions on the most appropriate
+models to adopt, is at the core of these projects. However, from a software
+engineering perspective, the design and automation of activities performed in
+this phase are challenging. In this paper, we propose an approach to the data
+analysis modeling process which involves (i) the assessment of the variability
+inherent in the CRISP-DM data analysis modeling phase and the provision of
+feature models that represent this variability; (ii) the definition of a
+framework structural design that captures the identified variability; and (iii)
+evaluation of the developed framework design in terms of the possibilities for
+process automation. The proposed approach advances the state of the art by
+offering a variability-aware design solution that can enhance system
+flexibility, potentially leading to novel software frameworks which can
+significantly improve the level of automation in data analysis modeling
+process."
+82,Data Science: A Comprehensive Overview,http://arxiv.org/abs/2007.03606v1,"The twenty-first century has ushered in the age of big data and data economy,
+in which data DNA, which carries important knowledge, insights and potential,
+has become an intrinsic constituent of all data-based organisms. An appropriate
+understanding of data DNA and its organisms relies on the new field of data
+science and its keystone, analytics. Although it is widely debated whether big
+data is only hype and buzz, and data science is still in a very early phase,
+significant challenges and opportunities are emerging or have been inspired by
+the research, innovation, business, profession, and education of data science.
+This paper provides a comprehensive survey and tutorial of the fundamental
+aspects of data science: the evolution from data analysis to data science, the
+data science concepts, a big picture of the era of data science, the major
+challenges and directions in data innovation, the nature of data analytics, new
+industrialization and service opportunities in the data economy, the profession
+and competency of data education, and the future of data science. This article
+is the first in the field to draw a comprehensive big picture, in addition to
+offering rich observations, lessons and thinking about data science and
+analytics."
+83,Topological Data Analysis Ball Mapper for Finance,http://arxiv.org/abs/2206.03622v1,"Finance is heavily influenced by data-driven decision-making. Meanwhile, our
+ability to comprehend the full informational content of data sets remains
+impeded by the tools we apply in analysis, especially where the data is
+high-dimensional. Presenting the Topological Data Analysis Ball Mapper
+algorithm this paper illuminates a new means of seeing the detail in data from
+data shape. With comparisons to existing approaches and illustrative examples,
+the value of the new tool is shown. Directions for employing Ball Mapper in
+practice are given and the benefits are reviewed."
+84,"Search for periodicities in experimental data using an autoregression
+  data model",http://arxiv.org/abs/hep-ex/0110035v1,"To process data obtained during interference experiments in high-energy
+physics, methods of spectral analysis are employed. Methods of spectral
+analysis, in which an autoregression model of experimental data is used, such
+as the maximum entropy technique as well as Pisarenko and Prony's method, are
+described. To show the potentials of the methods, experimental and simulated
+hummed data are discussed as an example."
+85,"Joint analysis of solar neutrino and new KamLAND data in the RSFP
+  framework",http://arxiv.org/abs/0810.1037v1,"A joint analysis of solar neutrino data together with the new KamLAND data is
+presented in the RSFP framework. It is investigated that how the new KamLAND
+data effects the allowed regions at different $\mu B$ values. A limit on $\mu
+B$ value is found at the different confidence level intervals. It is shown that
+the RSFP scenerio does not have a crucial role on the solar neutrino data."
+86,Overview of streaming-data algorithms,http://arxiv.org/abs/1203.2000v1,"Due to recent advances in data collection techniques, massive amounts of data
+are being collected at an extremely fast pace. Also, these data are potentially
+unbounded. Boundless streams of data collected from sensors, equipments, and
+other data sources are referred to as data streams. Various data mining tasks
+can be performed on data streams in search of interesting patterns. This paper
+studies a particular data mining task, clustering, which can be used as the
+first step in many knowledge discovery processes. By grouping data streams into
+homogeneous clusters, data miners can learn about data characteristics which
+can then be developed into classification models for new data or predictive
+models for unknown events. Recent research addresses the problem of data-stream
+mining to deal with applications that require processing huge amounts of data
+such as sensor data analysis and financial applications. For such analysis,
+single-pass algorithms that consume a small amount of memory are critical."
+87,"Data objects and documenting scientific processes: An analysis of data
+  events in biodiversity data papers",http://arxiv.org/abs/1903.06215v1,"The data paper, an emerging scholarly genre, describes research datasets and
+is intended to bridge the gap between the publication of research data and
+scientific articles. Research examining how data papers report data events,
+such as data transactions and manipulations, is limited. The research reported
+on in this paper addresses this limitation and investigated how data events are
+inscribed in data papers. A content analysis was conducted examining the full
+texts of 82 data papers, drawn from the curated list of data papers connected
+to the Global Biodiversity Information Facility (GBIF). Data events recorded
+for each paper were organized into a set of 17 categories. Many of these
+categories are described together in the same sentence, which indicates the
+messiness of data events in the laboratory space. The findings challenge the
+degrees to which data papers are a distinct genre compared to research papers
+and they describe data-centric research processes in a through way. This paper
+also discusses how our results could inform a better data publication ecosystem
+in the future."
+88,Recursive Bayesian Filters for Data Assimilation,http://arxiv.org/abs/0911.5630v1,A thesis on some recursive Bayesian filters for data assimilation
+89,Object Oriented Data Analysis of Cell-Well Structured Data,http://arxiv.org/abs/1303.4767v1,"Object oriented data analysis (OODA) aims at statistically analyzing
+populations of complicated objects. This paper is motivated by a study of cell
+images in cell culture biology, which highlights a common critical issue:
+choice of data objects. Instead of conventionally treating either the
+individual cells or the wells (a container in which the cells are grown) as
+data objects, a new type of data object is proposed, that is the union of a
+well with its corresponding set of cells. This paper contains two parts. The
+first part is the image data analysis, which suggests empirically that the
+cell-well unions can be a better choice of data objects than the cells or the
+wells alone. The second part discusses the benefit of choosing cell-well unions
+as data objects using an illustrative example and simulations. This research
+suggests that OODA is not simply a frame work for understanding the structure
+of the data analysis. It leads to useful interdisciplinary discussion that
+gives better results through more appropriate choice of data objects,
+especially for complex data analyses."
+90,Oseba: Optimization for Selective Bulk Analysis in Big Data Processing,http://arxiv.org/abs/1707.03527v1,"Selective bulk analyses, such as statistical learning on temporal/spatial
+data, are fundamental to a wide range of contemporary data analysis. However,
+with the increasingly larger data-sets, such as weather data and marketing
+transactions, the data organization/access becomes more challenging in
+selective bulk data processing with the use of current big data processing
+frameworks such as Spark or keyvalue stores. In this paper, we propose a method
+to optimize selective bulk analysis in big data processing and referred to as
+Oseba. Oseba maintains a super index for the data organization in memory to
+support fast lookup through targeting the data involved with each selective
+analysis program. Oseba is able to save memory as well as computation in
+comparison to the default data processing frameworks."
+91,Assessing Fairness in the Presence of Missing Data,http://arxiv.org/abs/2112.04899v1,"Missing data are prevalent and present daunting challenges in real data
+analysis. While there is a growing body of literature on fairness in analysis
+of fully observed data, there has been little theoretical work on investigating
+fairness in analysis of incomplete data. In practice, a popular analytical
+approach for dealing with missing data is to use only the set of complete
+cases, i.e., observations with all features fully observed to train a
+prediction algorithm. However, depending on the missing data mechanism, the
+distribution of complete cases and the distribution of the complete data may be
+substantially different. When the goal is to develop a fair algorithm in the
+complete data domain where there are no missing values, an algorithm that is
+fair in the complete case domain may show disproportionate bias towards some
+marginalized groups in the complete data domain. To fill this significant gap,
+we study the problem of estimating fairness in the complete data domain for an
+arbitrary model evaluated merely using complete cases. We provide upper and
+lower bounds on the fairness estimation error and conduct numerical experiments
+to assess our theoretical results. Our work provides the first known
+theoretical results on fairness guarantee in analysis of incomplete data."
+92,Nonlinear Dimensionality Reduction Methods in Climate Data Analysis,http://arxiv.org/abs/0901.0537v1,"Linear dimensionality reduction techniques, notably principal component
+analysis, are widely used in climate data analysis as a means to aid in the
+interpretation of datasets of high dimensionality. These linear methods may not
+be appropriate for the analysis of data arising from nonlinear processes
+occurring in the climate system. Numerous techniques for nonlinear
+dimensionality reduction have been developed recently that may provide a
+potentially useful tool for the identification of low-dimensional manifolds in
+climate data sets arising from nonlinear dynamics. In this thesis I apply three
+such techniques to the study of El Nino/Southern Oscillation variability in
+tropical Pacific sea surface temperatures and thermocline depth, comparing
+observational data with simulations from coupled atmosphere-ocean general
+circulation models from the CMIP3 multi-model ensemble.
+  The three methods used here are a nonlinear principal component analysis
+(NLPCA) approach based on neural networks, the Isomap isometric mapping
+algorithm, and Hessian locally linear embedding. I use these three methods to
+examine El Nino variability in the different data sets and assess the
+suitability of these nonlinear dimensionality reduction approaches for climate
+data analysis.
+  I conclude that although, for the application presented here, analysis using
+NLPCA, Isomap and Hessian locally linear embedding does not provide additional
+information beyond that already provided by principal component analysis, these
+methods are effective tools for exploratory data analysis."
+93,Virtual Data in CMS Analysis,http://arxiv.org/abs/physics/0306008v2,"The use of virtual data for enhancing the collaboration between large groups
+of scientists is explored in several ways:
+  - by defining ``virtual'' parameter spaces which can be searched and shared
+in an organized way by a collaboration of scientists in the course of their
+analysis;
+  - by providing a mechanism to log the provenance of results and the ability
+to trace them back to the various stages in the analysis of real or simulated
+data;
+  - by creating ``check points'' in the course of an analysis to permit
+collaborators to explore their own analysis branches by refining selections,
+improving the signal to background ratio, varying the estimation of parameters,
+etc.;
+  - by facilitating the audit of an analysis and the reproduction of its
+results by a different group, or in a peer review context.
+  We describe a prototype for the analysis of data from the CMS experiment
+based on the virtual data system Chimera and the object-oriented data analysis
+framework ROOT. The Chimera system is used to chain together several steps in
+the analysis process including the Monte Carlo generation of data, the
+simulation of detector response, the reconstruction of physics objects and
+their subsequent analysis, histogramming and visualization using the ROOT
+framework."
+94,"Industrial Big Data Analytics: Challenges, Methodologies, and
+  Applications",http://arxiv.org/abs/1807.01016v2,"While manufacturers have been generating highly distributed data from various
+systems, devices and applications, a number of challenges in both data
+management and data analysis require new approaches to support the big data
+era. These challenges for industrial big data analytics is real-time analysis
+and decision-making from massive heterogeneous data sources in manufacturing
+space. This survey presents new concepts, methodologies, and applications
+scenarios of industrial big data analytics, which can provide dramatic
+improvements in velocity and veracity problem solving. We focus on five
+important methodologies of industrial big data analytics: 1) Highly distributed
+industrial data ingestion: access and integrate to highly distributed data
+sources from various systems, devices and applications; 2) Industrial big data
+repository: cope with sampling biases and heterogeneity, and store different
+data formats and structures; 3) Large-scale industrial data management:
+organizes massive heterogeneous data and share large-scale data; 4) Industrial
+data analytics: track data provenance, from data generation through data
+preparation; 5) Industrial data governance: ensures data trust, integrity and
+security. For each phase, we introduce to current research in industries and
+academia, and discusses challenges and potential solutions. We also examine the
+typical applications of industrial big data, including smart factory
+visibility, machine fleet, energy management, proactive maintenance, and just
+in time supply chain. These discussions aim to understand the value of
+industrial big data. Lastly, this survey is concluded with a discussion of open
+problems and future directions."
+95,"Real-time intelligent big data processing: technology, platform, and
+  applications",http://arxiv.org/abs/2111.11872v1,"Human beings keep exploring the physical space using information means. Only
+recently, with the rapid development of information technologies and the
+increasing accumulation of data, human beings can learn more about the unknown
+world with data-driven methods. Given data timeliness, there is a growing
+awareness of the importance of real-time data. There are two categories of
+technologies accounting for data processing: batching big data and streaming
+processing, which have not been integrated well. Thus, we propose an innovative
+incremental processing technology named after Stream Cube to process both big
+data and stream data. Also, we implement a real-time intelligent data
+processing system, which is based on real-time acquisition, real-time
+processing, real-time analysis, and real-time decision-making. The real-time
+intelligent data processing technology system is equipped with a batching big
+data platform, data analysis tools, and machine learning models. Based on our
+applications and analysis, the real-time intelligent data processing system is
+a crucial solution to the problems of the national society and economy."
+96,AugmentTRAJ: A framework for point-based trajectory data augmentation,http://arxiv.org/abs/2311.15097v1,"Data augmentation has emerged as a powerful technique in machine learning,
+strengthening model robustness while mitigating overfitting and under-fitting
+issues by generating diverse synthetic data. Nevertheless, despite its success
+in other domains, data augmentation's potential remains largely untapped in
+mobility data analysis, primarily due to the intricate nature and unique format
+of trajectory data. Additionally, there is a lack of frameworks capable of
+point-wise data augmentation, which can reliably generate synthetic
+trajectories while preserving the inherent characteristics of the original
+data. To address these challenges, this research introduces AugmenTRAJ, an
+open-source Python3 framework designed explicitly for trajectory data
+augmentation. AugmenTRAJ offers a reliable and well-controlled approach for
+generating synthetic trajectories, thereby enabling the harnessing of data
+augmentation benefits in mobility analysis. This thesis presents a
+comprehensive overview of the methodologies employed in developing AugmenTRAJ
+and showcases the various data augmentation techniques available within the
+framework. AugmenTRAJ opens new possibilities for enhancing mobility data
+analysis models' performance and generalization capabilities by providing
+researchers with a practical and versatile tool for augmenting trajectory data,
+Its user-friendly implementation in Python3 facilitates easy integration into
+existing workflows, offering the community an accessible resource to leverage
+the full potential of data augmentation in trajectory-based applications."
+97,Type-based Dependency Analysis for JavaScript,http://arxiv.org/abs/1305.6721v1,"Dependency analysis is a program analysis that determines potential data flow
+between program points. While it is not a security analysis per se, it is a
+viable basis for investigating data integrity, for ensuring confidentiality,
+and for guaranteeing sanitization. A noninterference property can be stated and
+proved for the dependency analysis. We have designed and implemented a
+dependency analysis for JavaScript. We formalize this analysis as an
+abstraction of a tainting semantics. We prove the correctness of the tainting
+semantics, the soundness of the abstraction, a noninterference property, and
+the termination of the analysis."
+98,"A review of univariate and multivariate multifractal analysis
+  illustrated by the analysis of marathon runners physiological data",http://arxiv.org/abs/2209.14612v1,"We review the central results concerning wavelet methods in multifractal
+analysis, which consists in analysis of the pointwise singularities of a
+signal, and we describe its recent extension to multivariate multifractal
+analysis, which deals with the joint analysis of several signals; we focus on
+the mathematical questions that this new techniques motivate. We illustrate
+these methods by an application to data recorded on marathon runners."

@@ -1,0 +1,841 @@
+Index,Title,URL,Summary
+1,The Governance of Physical Artificial Intelligence,http://arxiv.org/abs/2304.02924v1,"Physical artificial intelligence can prove to be one of the most important
+challenges of the artificial intelligence. The governance of physical
+artificial intelligence would define its responsible intelligent application in
+the society."
+2,"Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation",http://arxiv.org/abs/2005.10488v1,"Who should be charged with responsibility for an artificial intelligence
+performing market manipulation have been discussed. In this study, I
+constructed an artificial intelligence using a genetic algorithm that learns in
+an artificial market simulation, and investigated whether the artificial
+intelligence discovers market manipulation through learning with an artificial
+market simulation despite a builder of artificial intelligence has no intention
+of market manipulation. As a result, the artificial intelligence discovered
+market manipulation as an optimal investment strategy. This result suggests
+necessity of regulation, such as obligating builders of artificial intelligence
+to prevent artificial intelligence from performing market manipulation."
+3,Impact of Artificial Intelligence on Economic Theory,http://arxiv.org/abs/1509.01213v1,"Artificial intelligence has impacted many aspects of human life. This paper
+studies the impact of artificial intelligence on economic theory. In particular
+we study the impact of artificial intelligence on the theory of bounded
+rationality, efficient market hypothesis and prospect theory."
+4,The case for psychometric artificial general intelligence,http://arxiv.org/abs/2101.02179v1,"A short review of the literature on measurement and detection of artificial
+general intelligence is made. Proposed benchmarks and tests for artificial
+general intelligence are critically evaluated against multiple criteria. Based
+on the findings, the most promising approaches are identified and some useful
+directions for future work are proposed."
+5,"Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)",http://arxiv.org/abs/1304.3846v1,"This is the Proceedings of the Thirteenth Conference on Uncertainty in
+Artificial Intelligence, which was held in Providence, RI, August 1-3, 1997"
+6,"Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993)",http://arxiv.org/abs/1304.3851v1,"This is the Proceedings of the Ninth Conference on Uncertainty in Artificial
+Intelligence, which was held in Washington, DC, July 9-11, 1993"
+7,"Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986)",http://arxiv.org/abs/1304.3859v1,"This is the Proceedings of the Second Conference on Uncertainty in Artificial
+Intelligence, which was held in Philadelphia, PA, August 8-10, 1986"
+8,Artificial Intelligence in Humans,http://arxiv.org/abs/1311.0716v1,"In this paper, I put forward that in many instances, thinking mechanisms are
+equivalent to artificial intelligence modules programmed into the human mind."
+9,"AAAI FSS-18: Artificial Intelligence in Government and Public Sector
+  Proceedings",http://arxiv.org/abs/1810.06018v1,"Proceedings of the AAAI Fall Symposium on Artificial Intelligence in
+Government and Public Sector, Arlington, Virginia, USA, October 18-20, 2018"
+10,"Watershed of Artificial Intelligence: Human Intelligence, Machine
+  Intelligence, and Biological Intelligence",http://arxiv.org/abs/2104.13155v2,"This article reviews the ""Once learning"" mechanism that was proposed 23 years
+ago and the subsequent successes of ""One-shot learning"" in image classification
+and ""You Only Look Once - YOLO"" in objective detection. Analyzing the current
+development of Artificial Intelligence (AI), the proposal is that AI should be
+clearly divided into the following categories: Artificial Human Intelligence
+(AHI), Artificial Machine Intelligence (AMI), and Artificial Biological
+Intelligence (ABI), which will also be the main directions of theory and
+application development for AI. As a watershed for the branches of AI, some
+classification standards and methods are discussed: 1) Human-oriented,
+machine-oriented, and biological-oriented AI R&D; 2) Information input
+processed by Dimensionality-up or Dimensionality-reduction; 3) The use of
+one/few or large samples for knowledge learning."
+11,"Perspective: Purposeful Failure in Artificial Life and Artificial
+  Intelligence",http://arxiv.org/abs/2102.12076v1,"Complex systems fail. I argue that failures can be a blueprint characterizing
+living organisms and biological intelligence, a control mechanism to increase
+complexity in evolutionary simulations, and an alternative to classical fitness
+optimization. Imitating biological successes in Artificial Life and Artificial
+Intelligence can be misleading; imitating failures offers a path towards
+understanding and emulating life it in artificial systems."
+12,"The Artificial Scientist: Logicist, Emergentist, and Universalist
+  Approaches to Artificial General Intelligence",http://arxiv.org/abs/2110.01831v1,"We attempt to define what is necessary to construct an Artificial Scientist,
+explore and evaluate several approaches to artificial general intelligence
+(AGI) which may facilitate this, conclude that a unified or hybrid approach is
+necessary and explore two theories that satisfy this requirement to some
+degree."
+13,Comprehensible Artificial Intelligence on Knowledge Graphs: A survey,http://arxiv.org/abs/2404.03499v1,"Artificial Intelligence applications gradually move outside the safe walls of
+research labs and invade our daily lives. This is also true for Machine
+Learning methods on Knowledge Graphs, which has led to a steady increase in
+their application since the beginning of the 21st century. However, in many
+applications, users require an explanation of the Artificial Intelligences
+decision. This led to increased demand for Comprehensible Artificial
+Intelligence. Knowledge Graphs epitomize fertile soil for Comprehensible
+Artificial Intelligence, due to their ability to display connected data, i.e.
+knowledge, in a human- as well as machine-readable way. This survey gives a
+short history to Comprehensible Artificial Intelligence on Knowledge Graphs.
+Furthermore, we contribute by arguing that the concept Explainable Artificial
+Intelligence is overloaded and overlapping with Interpretable Machine Learning.
+By introducing the parent concept Comprehensible Artificial Intelligence, we
+provide a clear-cut distinction of both concepts while accounting for their
+similarities. Thus, we provide in this survey a case for Comprehensible
+Artificial Intelligence on Knowledge Graphs consisting of Interpretable Machine
+Learning on Knowledge Graphs and Explainable Artificial Intelligence on
+Knowledge Graphs. This leads to the introduction of a novel taxonomy for
+Comprehensible Artificial Intelligence on Knowledge Graphs. In addition, a
+comprehensive overview of the research on Comprehensible Artificial
+Intelligence on Knowledge Graphs is presented and put into the context of the
+taxonomy. Finally, research gaps in the field of Comprehensible Artificial
+Intelligence on Knowledge Graphs are identified for future research."
+14,Human $\neq$ AGI,http://arxiv.org/abs/2007.07710v1,"Terms Artificial General Intelligence (AGI) and Human-Level Artificial
+Intelligence (HLAI) have been used interchangeably to refer to the Holy Grail
+of Artificial Intelligence (AI) research, creation of a machine capable of
+achieving goals in a wide range of environments. However, widespread implicit
+assumption of equivalence between capabilities of AGI and HLAI appears to be
+unjustified, as humans are not general intelligences. In this paper, we will
+prove this distinction."
+15,"Artificial Intelligence Technology analysis using Artificial
+  Intelligence patent through Deep Learning model and vector space model",http://arxiv.org/abs/2111.11295v1,"Thanks to rapid development of artificial intelligence technology in recent
+years, the current artificial intelligence technology is contributing to many
+part of society. Education, environment, medical care, military, tourism,
+economy, politics, etc. are having a very large impact on society as a whole.
+For example, in the field of education, there is an artificial intelligence
+tutoring system that automatically assigns tutors based on student's level. In
+the field of economics, there are quantitative investment methods that
+automatically analyze large amounts of data to find investment laws to create
+investment models or predict changes in financial markets. As such, artificial
+intelligence technology is being used in various fields. So, it is very
+important to know exactly what factors have an important influence on each
+field of artificial intelligence technology and how the relationship between
+each field is connected. Therefore, it is necessary to analyze artificial
+intelligence technology in each field. In this paper, we analyze patent
+documents related to artificial intelligence technology. We propose a method
+for keyword analysis within factors using artificial intelligence patent data
+sets for artificial intelligence technology analysis. This is a model that
+relies on feature engineering based on deep learning model named KeyBERT, and
+using vector space model. A case study of collecting and analyzing artificial
+intelligence patent data was conducted to show how the proposed model can be
+applied to real world problems."
+16,Three IQs of AI Systems and their Testing Methods,http://arxiv.org/abs/1712.06440v1,"The rapid development of artificial intelligence has brought the artificial
+intelligence threat theory as well as the problem about how to evaluate the
+intelligence level of intelligent products. Both need to find a quantitative
+method to evaluate the intelligence level of intelligence systems, including
+human intelligence. Based on the standard intelligence system and the extended
+Von Neumann architecture, this paper proposes General IQ, Service IQ and Value
+IQ evaluation methods for intelligence systems, depending on different
+evaluation purposes. Among them, the General IQ of intelligence systems is to
+answer the question of whether the artificial intelligence can surpass the
+human intelligence, which is reflected in putting the intelligence systems on
+an equal status and conducting the unified evaluation. The Service IQ and Value
+IQ of intelligence systems are used to answer the question of how the
+intelligent products can better serve the human, reflecting the intelligence
+and required cost of each intelligence system as a product in the process of
+serving human."
+17,"Examining correlation between trust and transparency with explainable
+  artificial intelligence",http://arxiv.org/abs/2108.04770v1,"Trust between humans and artificial intelligence(AI) is an issue which has
+implications in many fields of human computer interaction. The current issue
+with artificial intelligence is a lack of transparency into its decision
+making, and literature shows that increasing transparency increases trust.
+Explainable artificial intelligence has the ability to increase transparency of
+AI, which could potentially increase trust for humans. This paper attempts to
+use the task of predicting yelp review star ratings with assistance from an
+explainable and non explainable artificial intelligence to see if trust is
+increased with increased transparency. Results show that for these tasks,
+explainable artificial intelligence provided significant increase in trust as a
+measure of influence."
+18,"Proceedings of the Twenty-Seventh Conference on Uncertainty in
+  Artificial Intelligence (2011)",http://arxiv.org/abs/1205.2596v2,"This is the Proceedings of the Twenty-Seventh Conference on Uncertainty in
+Artificial Intelligence, which was held in Barcelona, Spain, July 14 - 17 2011."
+19,"Proceedings of the Twenty-Sixth Conference on Uncertainty in Artificial
+  Intelligence (2010)",http://arxiv.org/abs/1205.2597v2,"This is the Proceedings of the Twenty-Sixth Conference on Uncertainty in
+Artificial Intelligence, which was held on Catalina Island, CA, July 8 - 11
+2010."
+20,"Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial
+  Intelligence (2009)",http://arxiv.org/abs/1206.3959v2,"This is the Proceedings of the Twenty-Fifth Conference on Uncertainty in
+Artificial Intelligence, which was held in Montreal, QC, Canada, June 18 - 21
+2009."
+21,"Proceedings of the Twenty-Fourth Conference on Uncertainty in Artificial
+  Intelligence (2008)",http://arxiv.org/abs/1208.5154v2,"This is the Proceedings of the Twenty-Fourth Conference on Uncertainty in
+Artificial Intelligence, which was held in Helsinki, Finland, July 9 - 12 2008."
+22,"Proceedings of the Twenty-First Conference on Uncertainty in Artificial
+  Intelligence (2005)",http://arxiv.org/abs/1208.5159v2,"This is the Proceedings of the Twenty-First Conference on Uncertainty in
+Artificial Intelligence, which was held in Edinburgh, Scotland July 26 - 29
+2005."
+23,"Proceedings of the Twenty-Second Conference on Uncertainty in Artificial
+  Intelligence (2006)",http://arxiv.org/abs/1208.5160v2,"This is the Proceedings of the Twenty-Second Conference on Uncertainty in
+Artificial Intelligence, which was held in Cambridge, MA, July 13 - 16 2006."
+24,"Proceedings of the Twentieth Conference on Uncertainty in Artificial
+  Intelligence (2004)",http://arxiv.org/abs/1208.5161v2,"This is the Proceedings of the Twentieth Conference on Uncertainty in
+Artificial Intelligence, which was held in Banff, Canada, July 7 - 11 2004."
+25,"Proceedings of the Twenty-Eighth Conference on Uncertainty in Artificial
+  Intelligence (2012)",http://arxiv.org/abs/1301.4604v2,"This is the Proceedings of the Twenty-Eighth Conference on Uncertainty in
+Artificial Intelligence, which was held on Catalina Island, CA August 14-18
+2012."
+26,"Proceedings of the Nineteenth Conference on Uncertainty in Artificial
+  Intelligence (2003)",http://arxiv.org/abs/1301.4606v2,"This is the Proceedings of the Nineteenth Conference on Uncertainty in
+Artificial Intelligence, which was held in Acapulco, Mexico, August 7-10 2003"
+27,"Proceedings of the Seventeenth Conference on Uncertainty in Artificial
+  Intelligence (2001)",http://arxiv.org/abs/1301.4607v2,"This is the Proceedings of the Seventeenth Conference on Uncertainty in
+Artificial Intelligence, which was held in Seattle, WA, August 2-5 2001"
+28,"Proceedings of the Eighteenth Conference on Uncertainty in Artificial
+  Intelligence (2002)",http://arxiv.org/abs/1301.4608v2,"This is the Proceedings of the Eighteenth Conference on Uncertainty in
+Artificial Intelligence, which was held in Alberta, Canada, August 1-4 2002"
+29,"Proceedings of the Sixteenth Conference on Uncertainty in Artificial
+  Intelligence (2000)",http://arxiv.org/abs/1304.3842v2,"This is the Proceedings of the Sixteenth Conference on Uncertainty in
+Artificial Intelligence, which was held in San Francisco, CA, June 30 - July 3,
+2000"
+30,"Proceedings of the Fifteenth Conference on Uncertainty in Artificial
+  Intelligence (1999)",http://arxiv.org/abs/1304.3843v2,"This is the Proceedings of the Fifteenth Conference on Uncertainty in
+Artificial Intelligence, which was held in Stockholm Sweden, July 30 - August
+1, 1999"
+31,"Proceedings of the Fourteenth Conference on Uncertainty in Artificial
+  Intelligence (1998)",http://arxiv.org/abs/1304.3844v2,"This is the Proceedings of the Fourteenth Conference on Uncertainty in
+Artificial Intelligence, which was held in Madison, WI, July 24-26, 1998"
+32,"Proceedings of the Twelfth Conference on Uncertainty in Artificial
+  Intelligence (1996)",http://arxiv.org/abs/1304.3847v2,"This is the Proceedings of the Twelfth Conference on Uncertainty in
+Artificial Intelligence, which was held in Portland, OR, August 1-4, 1996"
+33,"Proceedings of the Eleventh Conference on Uncertainty in Artificial
+  Intelligence (1995)",http://arxiv.org/abs/1304.3848v2,"This is the Proceedings of the Eleventh Conference on Uncertainty in
+Artificial Intelligence, which was held in Montreal, QU, August 18-20, 1995"
+34,"Proceedings of the Tenth Conference on Uncertainty in Artificial
+  Intelligence (1994)",http://arxiv.org/abs/1304.3849v1,"This is the Proceedings of the Tenth Conference on Uncertainty in Artificial
+Intelligence, which was held in Seattle, WA, July 29-31, 1994"
+35,"Proceedings of the Eighth Conference on Uncertainty in Artificial
+  Intelligence (1992)",http://arxiv.org/abs/1304.3852v1,"This is the Proceedings of the Eighth Conference on Uncertainty in Artificial
+Intelligence, which was held in Stanford, CA, July 17-19, 1992"
+36,"Proceedings of the Seventh Conference on Uncertainty in Artificial
+  Intelligence (1991)",http://arxiv.org/abs/1304.3853v1,"This is the Proceedings of the Seventh Conference on Uncertainty in
+Artificial Intelligence, which was held in Los Angeles, CA, July 13-15, 1991"
+37,"Proceedings of the Sixth Conference on Uncertainty in Artificial
+  Intelligence (1990)",http://arxiv.org/abs/1304.3854v2,"This is the Proceedings of the Sixth Conference on Uncertainty in Artificial
+Intelligence, which was held in Cambridge, MA, Jul 27 - Jul 29, 1990"
+38,"Proceedings of the Fifth Conference on Uncertainty in Artificial
+  Intelligence (1989)",http://arxiv.org/abs/1304.3855v1,"This is the Proceedings of the Fifth Conference on Uncertainty in Artificial
+Intelligence, which was held in Windsor, ON, August 18-20, 1989"
+39,"Proceedings of the Fourth Conference on Uncertainty in Artificial
+  Intelligence (1988)",http://arxiv.org/abs/1304.3856v1,"This is the Proceedings of the Fourth Conference on Uncertainty in Artificial
+Intelligence, which was held in Minneapolis, MN, July 10-12, 1988"
+40,"Proceedings of the Third Conference on Uncertainty in Artificial
+  Intelligence (1987)",http://arxiv.org/abs/1304.3857v1,"This is the Proceedings of the Third Conference on Uncertainty in Artificial
+Intelligence, which was held in Seattle, WA, July 10-12, 1987"
+41,"Proceedings of the First Conference on Uncertainty in Artificial
+  Intelligence (1985)",http://arxiv.org/abs/1304.4182v2,"This is the Proceedings of the First Conference on Uncertainty in Artificial
+Intelligence, which was held in Los Angeles, CA, July 10-12, 1985"
+42,"AAAI FSS-19: Artificial Intelligence in Government and Public Sector
+  Proceedings",http://arxiv.org/abs/1911.01156v2,"Proceedings of the AAAI Fall Symposium on Artificial Intelligence in
+Government and Public Sector, Arlington, Virginia, USA, November 7-8, 2019"
+43,"Proceedings of the Twenty-Ninth Conference on Uncertainty in Artificial
+  Intelligence (2013)",http://arxiv.org/abs/1309.7971v2,"This is the Proceedings of the Twenty-Ninth Conference on Uncertainty in
+Artificial Intelligence, which was held in Bellevue, WA, August 11-15, 2013"
+44,Philosophy in the Face of Artificial Intelligence,http://arxiv.org/abs/1605.06048v1,"In this article, I discuss how the AI community views concerns about the
+emergence of superintelligent AI and related philosophical issues."
+45,"Advances in Artificial Intelligence Require Progress Across all of
+  Computer Science",http://arxiv.org/abs/1707.04352v1,"Advances in Artificial Intelligence require progress across all of computer
+science."
+46,"AAAI FSS-20: Artificial Intelligence in Government and Public Sector
+  Proceedings",http://arxiv.org/abs/2011.04527v2,"Proceedings of the AAAI Fall Symposium on Artificial Intelligence in
+Government and Public Sector, Washington, DC, USA, November 13-14, 2020"
+47,"AAAI FSS-21: Artificial Intelligence in Government and Public Sector
+  Proceedings",http://arxiv.org/abs/2112.05614v1,"Proceedings of the AAAI Fall Symposium on Artificial Intelligence in
+Government and Public Sector, Washington, DC, USA, November 4-6, 2021"
+48,"Intelligence of Astronomical Optical Telescope: Present Status and
+  Future Perspectives",http://arxiv.org/abs/2306.16834v2,"Artificial intelligence technology has been widely used in astronomy, and new
+artificial intelligence technologies and application scenarios are constantly
+emerging. There have been a large number of papers reviewing the application of
+artificial intelligence technology in astronomy. However, relevant articles
+seldom mention telescope intelligence separately, and it is difficult to
+understand the current development status and research hotspots of telescope
+intelligence from these papers. This paper combines the development history of
+artificial intelligence technology and the difficulties of critical
+technologies of telescopes, comprehensively introduces the development and
+research hotspots of telescope intelligence, then conducts statistical analysis
+on various research directions of telescope intelligence and defines the
+research directions' merits. All kinds of research directions are evaluated,
+and the research trend of each telescope's intelligence is pointed out.
+Finally, according to the advantages of artificial intelligence technology and
+the development trend of telescopes, future research hotspots of telescope
+intelligence are given."
+49,AAAI-2019 Workshop on Games and Simulations for Artificial Intelligence,http://arxiv.org/abs/1903.02172v1,"This volume represents the accepted submissions from the AAAI-2019 Workshop
+on Games and Simulations for Artificial Intelligence held on January 29, 2019
+in Honolulu, Hawaii, USA. https://www.gamesim.ai"
+50,From Statistical Relational to Neuro-Symbolic Artificial Intelligence,http://arxiv.org/abs/2003.08316v2,"Neuro-symbolic and statistical relational artificial intelligence both
+integrate frameworks for learning with logical reasoning. This survey
+identifies several parallels across seven different dimensions between these
+two fields. These cannot only be used to characterize and position
+neuro-symbolic artificial intelligence approaches but also to identify a number
+of directions for further research."
+51,A Study on Artificial Intelligence IQ and Standard Intelligent Model,http://arxiv.org/abs/1512.00977v1,"Currently, potential threats of artificial intelligence (AI) to human have
+triggered a large controversy in society, behind which, the nature of the issue
+is whether the artificial intelligence (AI) system can be evaluated
+quantitatively. This article analyzes and evaluates the challenges that the AI
+development level is facing, and proposes that the evaluation methods for the
+human intelligence test and the AI system are not uniform; and the key reason
+for which is that none of the models can uniformly describe the AI system and
+the beings like human. Aiming at this problem, a standard intelligent system
+model is established in this study to describe the AI system and the beings
+like human uniformly. Based on the model, the article makes an abstract
+mathematical description, and builds the standard intelligent machine
+mathematical model; expands the Von Neumann architecture and proposes the
+Liufeng - Shiyong architecture; gives the definition of the artificial
+intelligence IQ, and establishes the artificial intelligence scale and the
+evaluation method; conduct the test on 50 search engines and three human
+subjects at different ages across the world, and finally obtains the ranking of
+the absolute IQ and deviation IQ ranking for artificial intelligence IQ 2014."
+52,"Hybrid Systems Knowledge Representation Using Modelling Environment
+  System Techniques Artificial Intelligence",http://arxiv.org/abs/1409.1170v2,"Knowledge-based or Artificial Intelligence techniques are used increasingly
+as alternatives to more classical techniques to model ENVIRONMENTAL SYSTEMS.
+Use of Artificial Intelligence (AI) in environmental modelling has increased
+with recognition of its potential. In this paper we examine the DIFFERENT
+TECHNIQUES of Artificial intelligence with profound examples of human
+perception, learning and reasoning to solve complex problems. However with the
+increase of complexity better methods are required. Keeping in view of the
+above some researchers introduced the idea of hybrid mechanism in which two or
+more methods can be combined which seems to be a positive effort for creating a
+more complex; advanced and intelligent system which has the capability to in-
+cooperate human decisions thus driving the landscape changes."
+53,"A Finite-Time Technological Singularity Model With Artificial
+  Intelligence Self-Improvement",http://arxiv.org/abs/2010.01961v1,"Recent advances in the development of artificial intelligence, technological
+progress acceleration, long-term trends of macroeconomic dynamics increase the
+relevance of technological singularity hypothesis. In this paper, we build a
+model of finite-time technological singularity assuming that artificial
+intelligence will replace humans for artificial intelligence engineers after
+some point in time when it is developed enough. This model implies the
+following: let A be the level of development of artificial intelligence. Then,
+the moment of technological singularity n is defined as the point in time where
+artificial intelligence development function approaches infinity. Thus, it
+happens in finite time. Although infinite level of development of artificial
+intelligence cannot be reached practically, this approximation is useful for
+several reasons, firstly because it allows modeling a phase transition or a
+change of regime. In the model, intelligence growth function appears to be
+hyperbolic function under relatively broad conditions which we list and
+compare. Subsequently, we also add a stochastic term (Brownian motion) to the
+model and investigate the changes in its behavior. The results can be applied
+for the modeling of dynamics of various processes characterized by
+multiplicative growth."
+54,Creativity and Artificial Intelligence: A Digital Art Perspective,http://arxiv.org/abs/1807.08195v1,"This paper describes the application of artificial intelligence to the
+creation of digital art. AI is a computational paradigm that codifies
+intelligence into machines. There are generally three types of artificial
+intelligence and these are machine learning, evolutionary programming and soft
+computing. Machine learning is the statistical approach to building intelligent
+systems. Evolutionary programming is the use of natural evolutionary systems to
+design intelligent machines. Some of the evolutionary programming systems
+include genetic algorithm which is inspired by the principles of evolution and
+swarm optimization which is inspired by the swarming of birds, fish, ants etc.
+Soft computing includes techniques such as agent based modelling and fuzzy
+logic. Opportunities on the applications of these to digital art are explored."
+55,"Foundations of Intelligence in Natural and Artificial Systems: A
+  Workshop Report",http://arxiv.org/abs/2105.02198v1,"In March of 2021, the Santa Fe Institute hosted a workshop as part of its
+Foundations of Intelligence in Natural and Artificial Systems project. This
+project seeks to advance the field of artificial intelligence by promoting
+interdisciplinary research on the nature of intelligence. During the workshop,
+speakers from diverse disciplines gathered to develop a taxonomy of
+intelligence, articulating their own understanding of intelligence and how
+their research has furthered that understanding. In this report, we summarize
+the insights offered by each speaker and identify the themes that emerged
+during the talks and subsequent discussions."
+56,The limit of human intelligence,http://arxiv.org/abs/2310.10792v2,"In 1998, Fields medalist Stephen Smale [S. Smale, Mathematical problems for
+the next century, The mathematical Intelligencer, 20(2) (1998), 7-15] proposed
+his famous eighteen problems to the mathematicians of this century. The
+statement of his eighteenth problem is very simple but very important. He asked
+""What are the limits of intelligence, both artificial and human?"". In this
+paper, we prove that human intelligence is limitless. Moreover, we provide
+justifications to state that artificial intelligence has limitations. Thus,
+human intelligence will always remain superior to artificial intelligence.
+Moreover, we provide justifications to conclude the limitations of artificial
+intelligence."
+57,"Is Artificial Intelligence Providing the Second Revolution for Weather
+  Forecasting?",http://arxiv.org/abs/2401.16669v1,"The rapid advancement of artificial intelligence technologies, particularly
+in recent years, has led to the emergence of several large parameter artificial
+intelligence weather forecast models. These models represent a significant
+breakthrough, overcoming the limitations of traditional numerical weather
+prediction models and indicating a potential second revolution for weather
+forecast. This study explores the evolution of these advanced artificial
+intelligence forecast models, and based on the identified commonalities,
+proposes the ""Three Large Rules"" for their development. We discuss the
+potential of artificial intelligence in revolutionizing numerical weather
+prediction, briefly outlining the underlying reasons for this potential.
+Additionally, we explore key areas for future development prospects for large
+artificial intelligence weather forecast models, integrating the entire
+numerical prediction process. Through an example that combines a large
+artificial intelligence model with ocean wave forecasting, we illustrate how
+forecasters can adapt and leverage the advanced artificial intelligence model.
+While acknowledging the high accuracy, computational efficiency, and ease of
+deployment of large artificial intelligence forecast models, we emphasize the
+irreplaceable values of traditional numerical forecasts. We believe that the
+optimal future of weather forecasting lies in achieving a seamless integration
+of artificial intelligence and traditional numerical models. Such a synthesis
+is anticipated to offer a more comprehensive and reliable approach for future
+weather forecasting."
+58,On a Functional Definition of Intelligence,http://arxiv.org/abs/2312.09546v1,"Without an agreed-upon definition of intelligence, asking ""is this system
+intelligent?"""" is an untestable question. This lack of consensus hinders
+research, and public perception, on Artificial Intelligence (AI), particularly
+since the rise of generative- and large-language models. Most work on precisely
+capturing what we mean by ""intelligence"" has come from the fields of
+philosophy, psychology, and cognitive science. Because these perspectives are
+intrinsically linked to intelligence as it is demonstrated by natural
+creatures, we argue such fields cannot, and will not, provide a sufficiently
+rigorous definition that can be applied to artificial means. Thus, we present
+an argument for a purely functional, black-box definition of intelligence,
+distinct from how that intelligence is actually achieved; focusing on the
+""what"", rather than the ""how"". To achieve this, we first distinguish other
+related concepts (sentience, sensation, agency, etc.) from the notion of
+intelligence, particularly identifying how these concepts pertain to artificial
+intelligent systems. As a result, we achieve a formal definition of
+intelligence that is conceptually testable from only external observation, that
+suggests intelligence is a continuous variable. We conclude by identifying
+challenges that still remain towards quantifiable measurement. This work
+provides a useful perspective for both the development of AI, and for public
+perception of the capabilities and risks of AI."
+59,Tests of Machine Intelligence,http://arxiv.org/abs/0712.3825v1,"Although the definition and measurement of intelligence is clearly of
+fundamental importance to the field of artificial intelligence, no general
+survey of definitions and tests of machine intelligence exists. Indeed few
+researchers are even aware of alternatives to the Turing test and its many
+derivatives. In this paper we fill this gap by providing a short survey of the
+many tests of machine intelligence that have been proposed."
+60,An Approximation of the Universal Intelligence Measure,http://arxiv.org/abs/1109.5951v2,"The Universal Intelligence Measure is a recently proposed formal definition
+of intelligence. It is mathematically specified, extremely general, and
+captures the essence of many informal definitions of intelligence. It is based
+on Hutter's Universal Artificial Intelligence theory, an extension of Ray
+Solomonoff's pioneering work on universal induction. Since the Universal
+Intelligence Measure is only asymptotically computable, building a practical
+intelligence test from it is not straightforward. This paper studies the
+practical issues involved in developing a real-world UIM-based performance
+metric. Based on our investigation, we develop a prototype implementation which
+we use to evaluate a number of different artificial agents."
+61,Decision under Uncertainty,http://arxiv.org/abs/1304.1527v1,"We derive axiomatically the probability function that should be used to make
+decisions given any form of underlying uncertainty."
+62,The Book of Why: Review,http://arxiv.org/abs/1909.13485v1,"This is a review of ""The Book of Why"", by Judea Pearl."
+63,Game-based Platforms for Artificial Intelligence Research,http://arxiv.org/abs/2304.13269v3,"Games have been the perfect test-beds for artificial intelligence research
+for the characteristics that widely exist in real-world scenarios. Learning and
+optimisation, decision making in dynamic and uncertain environments, game
+theory, planning and scheduling, design and education are common research areas
+shared between games and real-world problems. Numerous open-source games or
+game-based environments have been implemented for studying artificial
+intelligence. In addition to single- or multi-player, collaborative or
+adversarial games, there has also been growing interest in implementing
+platforms for creative design in recent years. Those platforms provide ideal
+benchmarks for exploring and comparing artificial intelligence ideas and
+techniques. This paper reviews the game-based platforms for artificial
+intelligence research, provides guidance on matching particular types of
+artificial intelligence with suitable games for testing and matching particular
+needs in games with suitable artificial intelligence techniques, discusses the
+research trend induced by the evolution of those platforms, and gives an
+outlook."
+64,"Bridging the Gap between Artificial Intelligence and Artificial General
+  Intelligence: A Ten Commandment Framework for Human-Like Intelligence",http://arxiv.org/abs/2210.09366v1,"The field of artificial intelligence has seen explosive growth and
+exponential success. The last phase of development showcased deep learnings
+ability to solve a variety of difficult problems across a multitude of domains.
+Many of these networks met and exceeded human benchmarks by becoming experts in
+the domains in which they are trained. Though the successes of artificial
+intelligence have begun to overshadow its failures, there is still much that
+separates current artificial intelligence tools from becoming the exceptional
+general learners that humans are. In this paper, we identify the ten
+commandments upon which human intelligence is systematically and hierarchically
+built. We believe these commandments work collectively to serve as the
+essential ingredients that lead to the emergence of higher-order cognition and
+intelligence. This paper discusses a computational framework that could house
+these ten commandments and suggests new architectural modifications that could
+lead to the development of smarter, more explainable, and generalizable
+artificial systems inspired by a neuromorphic approach."
+65,"Techniques for Adversarial Examples Threatening the Safety of Artificial
+  Intelligence Based Systems",http://arxiv.org/abs/1910.06907v1,"Artificial intelligence is known as the most effective technological field
+for rapid developments shaping the future of the world. Even today, it is
+possible to see intense use of intelligence systems in all fields of the life.
+Although advantages of the Artificial Intelligence are widely observed, there
+is also a dark side employing efforts to design hacking oriented techniques
+against Artificial Intelligence. Thanks to such techniques, it is possible to
+trick intelligent systems causing directed results for unsuccessful outputs.
+That is critical for also cyber wars of the future as it is predicted that the
+wars will be done unmanned, autonomous intelligent systems. Moving from the
+explanations, objective of this study is to provide information regarding
+adversarial examples threatening the Artificial Intelligence and focus on
+details of some techniques, which are used for creating adversarial examples.
+Adversarial examples are known as training data, which can trick a Machine
+Learning technique to learn incorrectly about the target problem and cause an
+unsuccessful or maliciously directed intelligent system at the end. The study
+enables the readers to learn enough about details of recent techniques for
+creating adversarial examples."
+66,Action Selection Properties in a Software Simulated Agent,http://arxiv.org/abs/cs/0211039v1,"This article analyses the properties of the Internal Behaviour network, an
+action selection mechanism previously proposed by the authors, with the aid of
+a simulation developed for such ends. A brief review of the Internal Behaviour
+network is followed by the explanation of the implementation of the simulation.
+Then, experiments are presented and discussed analysing the properties of the
+action selection in the proposed model."
+67,"Modular Belief Updates and Confusion about Measures of Certainty in
+  Artificial Intelligence Research",http://arxiv.org/abs/1407.7281v1,"Over the last decade, there has been growing interest in the use or measures
+or change in belief for reasoning with uncertainty in artificial intelligence
+research. An important characteristic of several methodologies that reason with
+changes in belief or belief updates, is a property that we term modularity. We
+call updates that satisfy this property modular updates. Whereas probabilistic
+measures of belief update - which satisfy the modularity property were first
+discovered in the nineteenth century, knowledge and discussion of these
+quantities remains obscure in artificial intelligence research. We define
+modular updates and discuss their inappropriate use in two influential expert
+systems."
+68,Stovepiping and Malicious Software: A Critical Review of AGI Containment,http://arxiv.org/abs/1811.03653v2,"Awareness of the possible impacts associated with artificial intelligence has
+risen in proportion to progress in the field. While there are tremendous
+benefits to society, many argue that there are just as many, if not more,
+concerns related to advanced forms of artificial intelligence. Accordingly,
+research into methods to develop artificial intelligence safely is increasingly
+important. In this paper, we provide an overview of one such safety paradigm:
+containment with a critical lens aimed toward generative adversarial networks
+and potentially malicious artificial intelligence. Additionally, we illuminate
+the potential for a developmental blindspot in the stovepiping of containment
+mechanisms."
+69,"A Novel Method for Developing Robotics via Artificial Intelligence and
+  Internet of Things",http://arxiv.org/abs/1405.3939v1,"This paper describe about a new methodology for developing and improving the
+robotics field via artificial intelligence and internet of things. Now a day,
+we can say Artificial Intelligence take the world into robotics. Almost all
+industries use robots for lot of works. They are use co-operative robots to
+make different kind of works. But there was some problem to make robot for
+multi tasks. So there was a necessary new methodology to made multi tasking
+robots. It will be done only by artificial intelligence and internet of things."
+70,Human-Centered Artificial Intelligence and Machine Learning,http://arxiv.org/abs/1901.11184v1,"Humans are increasingly coming into contact with artificial intelligence and
+machine learning systems. Human-centered artificial intelligence is a
+perspective on AI and ML that algorithms must be designed with awareness that
+they are part of a larger system consisting of humans. We lay forth an argument
+that human-centered artificial intelligence can be broken down into two
+aspects: (1) AI systems that understand humans from a sociocultural
+perspective, and (2) AI systems that help humans understand them. We further
+argue that issues of social responsibility such as fairness, accountability,
+interpretability, and transparency."
+71,"Machine Learning in Artificial Intelligence: Towards a Common
+  Understanding",http://arxiv.org/abs/2004.04686v1,"The application of ""machine learning"" and ""artificial intelligence"" has
+become popular within the last decade. Both terms are frequently used in
+science and media, sometimes interchangeably, sometimes with different
+meanings. In this work, we aim to clarify the relationship between these terms
+and, in particular, to specify the contribution of machine learning to
+artificial intelligence. We review relevant literature and present a conceptual
+framework which clarifies the role of machine learning to build (artificial)
+intelligent agents. Hence, we seek to provide more terminological clarity and a
+starting point for (interdisciplinary) discussions and future research."
+72,"Deep Learning, Natural Language Processing, and Explainable Artificial
+  Intelligence in the Biomedical Domain",http://arxiv.org/abs/2202.12678v2,"In this article, we first give an introduction to artificial intelligence and
+its applications in biology and medicine in Section 1. Deep learning methods
+are then described in Section 2. We narrow down the focus of the study on
+textual data in Section 3, where natural language processing and its
+applications in the biomedical domain are described. In Section 4, we give an
+introduction to explainable artificial intelligence and discuss the importance
+of explainability of artificial intelligence systems, especially in the
+biomedical domain."
+73,"A Cybersecurity Risk Analysis Framework for Systems with Artificial
+  Intelligence Components",http://arxiv.org/abs/2401.01630v1,"The introduction of the European Union Artificial Intelligence Act, the NIST
+Artificial Intelligence Risk Management Framework, and related norms demands a
+better understanding and implementation of novel risk analysis approaches to
+evaluate systems with Artificial Intelligence components. This paper provides a
+cybersecurity risk analysis framework that can help assessing such systems. We
+use an illustrative example concerning automated driving systems."
+74,"Quantifying Natural and Artificial Intelligence in Robots and Natural
+  Systems with an Algorithmic Behavioural Test",http://arxiv.org/abs/1412.6703v2,"One of the most important aims of the fields of robotics, artificial
+intelligence and artificial life is the design and construction of systems and
+machines as versatile and as reliable as living organisms at performing high
+level human-like tasks. But how are we to evaluate artificial systems if we are
+not certain how to measure these capacities in living systems, let alone how to
+define life or intelligence? Here I survey a concrete metric towards measuring
+abstract properties of natural and artificial systems, such as the ability to
+react to the environment and to control one's own behaviour."
+75,Seeding the Singularity for A.I,http://arxiv.org/abs/1908.01766v1,"The singularity refers to an idea that once a machine having an artificial
+intelligence surpassing the human intelligence capacity is created, it will
+trigger explosive technological and intelligence growth. I propose to test the
+hypothesis that machine intelligence capacity can grow autonomously starting
+with an intelligence comparable to that of bacteria - microbial intelligence.
+The goal will be to demonstrate that rapid growth in intelligence capacity can
+be realized at all in artificial computing systems. I propose the following
+three properties that may allow an artificial intelligence to exhibit a steady
+growth in its intelligence capacity: (i) learning with the ability to modify
+itself when exposed to more data, (ii) acquiring new functionalities (skills),
+and (iii) expanding or replicating itself. The algorithms must demonstrate a
+rapid growth in skills of dataprocessing and analysis and gain qualitatively
+different functionalities, at least until the current computing technology
+supports their scalable development. The existing algorithms that already
+encompass some of these or similar properties, as well as missing abilities
+that must yet be implemented, will be reviewed in this work. Future
+computational tests could support or oppose the hypothesis that artificial
+intelligence can potentially grow to the level of superintelligence which
+overcomes the limitations in hardware by producing necessary processing
+resources or by changing the physical realization of computation from using
+chip circuits to using quantum computing principles."
+76,"Physical Artificial Intelligence: The Concept Expansion of
+  Next-Generation Artificial Intelligence",http://arxiv.org/abs/2105.06564v2,"Artificial Intelligence has been a growth catalyst to our society and is
+cosidered across all idustries as a fundamental technology. However, its
+development has been limited to the signal processing domain that relies on the
+generated and collected data from other sensors. In recent research, concepts
+of Digital Artificial Intelligence and Physicial Artifical Intelligence have
+emerged and this can be considered a big step in the theoretical development of
+Artifical Intelligence. In this paper we explore the concept of Physicial
+Artifical Intelligence and propose two subdomains: Integrated Physicial
+Artifical Intelligence and Distributed Physicial Artifical Intelligence. The
+paper will also examine the trend and governance of Physicial Artifical
+Intelligence."
+77,Can Artificial Intelligence Do Everything That We Can?,http://arxiv.org/abs/1812.02560v1,"In this article, I discuss what AI can and cannot yet do, and the
+implications for humanity."
+78,Hybrid Super Intelligence and Polymetric Analysis,http://arxiv.org/abs/2111.09762v1,"The problem of possible applications Polymetric Analysis for the resolution
+problems of artificial Intelligence is discussed. As example the hybrid super
+intelligence system by N. Moiseev type was selected. The bond between
+polymetric analysis and hybrid super intelligence system was shown. In
+operational sense polymetric analysis is more general system. Therefore main
+principles of Moiseev concept may be unify with the help of polymetric
+analysis. Main peculiarities of this unification are analyzed."
+79,Artificial Intelligence and Economic Theories,http://arxiv.org/abs/1703.06597v1,"The advent of artificial intelligence has changed many disciplines such as
+engineering, social science and economics. Artificial intelligence is a
+computational technique which is inspired by natural intelligence such as the
+swarming of birds, the working of the brain and the pathfinding of the ants.
+These techniques have impact on economic theories. This book studies the impact
+of artificial intelligence on economic theories, a subject that has not been
+extensively studied. The theories that are considered are: demand and supply,
+asymmetrical information, pricing, rational choice, rational expectation, game
+theory, efficient market hypotheses, mechanism design, prospect, bounded
+rationality, portfolio theory, rational counterfactual and causality. The
+benefit of this book is that it evaluates existing theories of economics and
+update them based on the developments in artificial intelligence field."
+80,"Use of Artificial Intelligence Techniques / Applications in Cyber
+  Defense",http://arxiv.org/abs/1905.12556v1,"Nowadays, considering the speed of the processes and the amount of data used
+in cyber defense, it cannot be expected to have an effective defense by using
+only human power without the help of automation systems. However, for the
+effective defense against dynamically evolving attacks on networks, it is
+difficult to develop software with conventional fixed algorithms. This can be
+achieved by using artificial intelligence methods that provide flexibility and
+learning capability. The likelihood of developing cyber defense capabilities
+through increased intelligence of defense systems is quite high. Given the
+problems associated with cyber defense in real life, it is clear that many
+cyber defense problems can be successfully solved only when artificial
+intelligence methods are used. In this article, the current artificial
+intelligence practices and techniques are reviewed and the use and importance
+of artificial intelligence in cyber defense systems is mentioned. The aim of
+this article is to be able to explain the use of these methods in the field of
+cyber defense with current examples by considering and analyzing the artificial
+intelligence technologies and methodologies that are currently being developed
+and integrating them with the role and adaptation of the technology and
+methodology in the defense of cyberspace."
+81,Human-in-the-loop Artificial Intelligence,http://arxiv.org/abs/1710.08191v1,"Little by little, newspapers are revealing the bright future that Artificial
+Intelligence (AI) is building. Intelligent machines will help everywhere.
+However, this bright future has a dark side: a dramatic job market contraction
+before its unpredictable transformation. Hence, in a near future, large numbers
+of job seekers will need financial support while catching up with these novel
+unpredictable jobs. This possible job market crisis has an antidote inside. In
+fact, the rise of AI is sustained by the biggest knowledge theft of the recent
+years. Learning AI machines are extracting knowledge from unaware skilled or
+unskilled workers by analyzing their interactions. By passionately doing their
+jobs, these workers are digging their own graves.
+  In this paper, we propose Human-in-the-loop Artificial Intelligence (HIT-AI)
+as a fairer paradigm for Artificial Intelligence systems. HIT-AI will reward
+aware and unaware knowledge producers with a different scheme: decisions of AI
+systems generating revenues will repay the legitimate owners of the knowledge
+used for taking those decisions. As modern Robin Hoods, HIT-AI researchers
+should fight for a fairer Artificial Intelligence that gives back what it
+steals."
+82,A Formal Measure of Machine Intelligence,http://arxiv.org/abs/cs/0605024v1,"A fundamental problem in artificial intelligence is that nobody really knows
+what intelligence is. The problem is especially acute when we need to consider
+artificial systems which are significantly different to humans. In this paper
+we approach this problem in the following way: We take a number of well known
+informal definitions of human intelligence that have been given by experts, and
+extract their essential features. These are then mathematically formalised to
+produce a general measure of intelligence for arbitrary machines. We believe
+that this measure formally captures the concept of machine intelligence in the
+broadest reasonable sense."
+83,"Computational Narrative Intelligence: A Human-Centered Goal for
+  Artificial Intelligence",http://arxiv.org/abs/1602.06484v1,"Narrative intelligence is the ability to craft, tell, understand, and respond
+affectively to stories. We argue that instilling artificial intelligences with
+computational narrative intelligence affords a number of applications
+beneficial to humans. We lay out some of the machine learning challenges
+necessary to solve to achieve computational narrative intelligence. Finally, we
+argue that computational narrative is a practical step towards machine
+enculturation, the teaching of sociocultural values to machines."
+84,Understanding Human Intelligence through Human Limitations,http://arxiv.org/abs/2009.14050v1,"Recent progress in artificial intelligence provides the opportunity to ask
+the question of what is unique about human intelligence, but with a new
+comparison class. I argue that we can understand human intelligence, and the
+ways in which it may differ from artificial intelligence, by considering the
+characteristics of the kind of computational problems that human minds have to
+solve. I claim that these problems acquire their structure from three
+fundamental limitations that apply to human beings: limited time, limited
+computation, and limited communication. From these limitations we can derive
+many of the properties we associate with human intelligence, such as rapid
+learning, the ability to break down problems into parts, and the capacity for
+cumulative cultural evolution."
+85,"Intelligence as information processing: brains, swarms, and computers",http://arxiv.org/abs/2108.05349v1,"There is no agreed definition of intelligence, so it is problematic to simply
+ask whether brains, swarms, computers, or other systems are intelligent or not.
+To compare the potential intelligence exhibited by different cognitive systems,
+I use the common approach used by artificial intelligence and artificial life:
+Instead of studying the substrate of systems, let us focus on their
+organization. This organization can be measured with information. Thus, I apply
+an informationist epistemology to describe cognitive systems, including brains
+and computers. This allows me to frame the usefulness and limitations of the
+brain-computer analogy in different contexts. I also use this perspective to
+discuss the evolution and ecology of intelligence."
+86,Accelerating Entrepreneurial Decision-Making Through Hybrid Intelligence,http://arxiv.org/abs/2105.03365v1,"Accelerating Entrepreneurial Decision-Making Through Hybrid Intelligence
+DESIGN PARADIGMS AND PRINCIPLES FOR DECISIONAL GUIDANCE IN ENTREPRENEURSHIP"
+87,What Does Artificial Life Tell Us About Death?,http://arxiv.org/abs/0906.2824v1,Short philosophical essay
+88,"Integrating Generative Artificial Intelligence in Intelligent Vehicle
+  Systems",http://arxiv.org/abs/2305.17137v1,"This paper aims to serve as a comprehensive guide for researchers and
+practitioners, offering insights into the current state, potential
+applications, and future research directions for generative artificial
+intelligence and foundation models within the context of intelligent vehicles.
+As the automotive industry progressively integrates AI, generative artificial
+intelligence technologies hold the potential to revolutionize user
+interactions, delivering more immersive, intuitive, and personalised in-car
+experiences. We provide an overview of current applications of generative
+artificial intelligence in the automotive domain, emphasizing speech, audio,
+vision, and multimodal interactions. We subsequently outline critical future
+research areas, including domain adaptability, alignment, multimodal
+integration and others, as well as, address the challenges and risks associated
+with ethics. By fostering collaboration and addressing these research areas,
+generative artificial intelligence can unlock its full potential, transforming
+the driving experience and shaping the future of intelligent vehicles."
+89,Measuring the intelligence of an idealized mechanical knowing agent,http://arxiv.org/abs/1912.09571v1,"We define a notion of the intelligence level of an idealized mechanical
+knowing agent. This is motivated by efforts within artificial intelligence
+research to define real-number intelligence levels of complicated intelligent
+systems. Our agents are more idealized, which allows us to define a much
+simpler measure of intelligence level for them. In short, we define the
+intelligence level of a mechanical knowing agent to be the supremum of the
+computable ordinals that have codes the agent knows to be codes of computable
+ordinals. We prove that if one agent knows certain things about another agent,
+then the former necessarily has a higher intelligence level than the latter.
+This allows our intelligence notion to serve as a stepping stone to obtain
+results which, by themselves, are not stated in terms of our intelligence
+notion (results of potential interest even to readers totally skeptical that
+our notion correctly captures intelligence). As an application, we argue that
+these results comprise evidence against the possibility of intelligence
+explosion (that is, the notion that sufficiently intelligent machines will
+eventually be capable of designing even more intelligent machines, which can
+then design even more intelligent machines, and so on)."
+90,"Intelligent behavior depends on the ecological niche: Scaling up AI to
+  human-like intelligence in socio-cultural environments",http://arxiv.org/abs/2103.06769v1,"This paper outlines a perspective on the future of AI, discussing directions
+for machines models of human-like intelligence. We explain how developmental
+and evolutionary theories of human cognition should further inform artificial
+intelligence. We emphasize the role of ecological niches in sculpting
+intelligent behavior, and in particular that human intelligence was
+fundamentally shaped to adapt to a constantly changing socio-cultural
+environment. We argue that a major limit of current work in AI is that it is
+missing this perspective, both theoretically and experimentally. Finally, we
+discuss the promising approach of developmental artificial intelligence,
+modeling infant development through multi-scale interaction between
+intrinsically motivated learning, embodiment and a fastly changing
+socio-cultural environment. This paper takes the form of an interview of
+Pierre-Yves Oudeyer by Mandred Eppe, organized within the context of a KI -
+K{\""{u}}nstliche Intelligenz special issue in developmental robotics."
+91,Artificial Intelligence for Interstellar Travel,http://arxiv.org/abs/1811.06526v3,"The large distances involved in interstellar travel require a high degree of
+spacecraft autonomy, realized by artificial intelligence. The breadth of tasks
+artificial intelligence could perform on such spacecraft involves maintenance,
+data collection, designing and constructing an infrastructure using in-situ
+resources. Despite its importance, existing publications on artificial
+intelligence and interstellar travel are limited to cursory descriptions where
+little detail is given about the nature of the artificial intelligence. This
+article explores the role of artificial intelligence for interstellar travel by
+compiling use cases, exploring capabilities, and proposing typologies, system
+and mission architectures. Estimations for the required intelligence level for
+specific types of interstellar probes are given, along with potential system
+and mission architectures, covering those proposed in the literature but also
+presenting novel ones. Finally, a generic design for interstellar probes with
+an AI payload is proposed. Given current levels of increase in computational
+power, a spacecraft with a similar computational power as the human brain would
+have a mass from dozens to hundreds of tons in a 2050-2060 timeframe. Given
+that the advent of the first interstellar missions and artificial general
+intelligence are estimated to be by the mid-21st century, a more in-depth
+exploration of the relationship between the two should be attempted, focusing
+on neglected areas such as protecting the artificial intelligence payload from
+radiation in interstellar space and the role of artificial intelligence in
+self-replication."
+92,"Measuring Intelligence and Growth Rate: Variations on Hibbard's
+  Intelligence Measure",http://arxiv.org/abs/2101.12047v1,"In 2011, Hibbard suggested an intelligence measure for agents who compete in
+an adversarial sequence prediction game. We argue that Hibbard's idea should
+actually be considered as two separate ideas: first, that the intelligence of
+such agents can be measured based on the growth rates of the runtimes of the
+competitors that they defeat; and second, one specific (somewhat arbitrary)
+method for measuring said growth rates. Whereas Hibbard's intelligence measure
+is based on the latter growth-rate-measuring method, we survey other methods
+for measuring function growth rates, and exhibit the resulting Hibbard-like
+intelligence measures and taxonomies. Of particular interest, we obtain
+intelligence taxonomies based on Big-O and Big-Theta notation systems, which
+taxonomies are novel in that they challenge conventional notions of what an
+intelligence measure should look like. We discuss how intelligence measurement
+of sequence predictors can indirectly serve as intelligence measurement for
+agents with Artificial General Intelligence (AGIs)."
+93,Cognitive Architecture for Co-Evolutionary Hybrid Intelligence,http://arxiv.org/abs/2209.12623v1,"This paper questions the feasibility of a strong (general) data-centric
+artificial intelligence (AI). The disadvantages of this type of intelligence
+are discussed. As an alternative, the concept of co-evolutionary hybrid
+intelligence is proposed. It is based on the cognitive interoperability of man
+and machine. An analysis of existing approaches to the construction of
+cognitive architectures is given. An architecture seamlessly incorporates a
+human into the loop of intelligent problem solving is considered. The article
+is organized as follows. The first part contains a critique of data-centric
+intelligent systems. The reasons why it is impossible to create a strong
+artificial intelligence based on this type of intelligence are indicated. The
+second part briefly presents the concept of co-evolutionary hybrid intelligence
+and shows its advantages. The third part gives an overview and analysis of
+existing cognitive architectures. It is concluded that many do not consider
+humans part of the intelligent data processing process. The next part discusses
+the cognitive architecture for co-evolutionary hybrid intelligence, providing
+integration with humans. It finishes with general conclusions about the
+feasibility of developing intelligent systems with humans in the
+problem-solving loop."
+94,A Definition of Artificial Intelligence,http://arxiv.org/abs/1210.1568v1,"In this paper we offer a formal definition of Artificial Intelligence and
+this directly gives us an algorithm for construction of this object. Really,
+this algorithm is useless due to the combinatory explosion.
+  The main innovation in our definition is that it does not include the
+knowledge as a part of the intelligence. So according to our definition a newly
+born baby also is an Intellect. Here we differs with Turing's definition which
+suggests that an Intellect is a person with knowledge gained through the years."
+95,Guidelines for Artificial Intelligence Containment,http://arxiv.org/abs/1707.08476v1,"With almost daily improvements in capabilities of artificial intelligence it
+is more important than ever to develop safety software for use by the AI
+research community. Building on our previous work on AI Containment Problem we
+propose a number of guidelines which should help AI safety researchers to
+develop reliable sandboxing software for intelligent programs of all levels.
+Such safety container software will make it possible to study and analyze
+intelligent artificial agent while maintaining certain level of safety against
+information leakage, social engineering attacks and cyberattacks from within
+the container."
+96,Physics Enhanced Artificial Intelligence,http://arxiv.org/abs/1903.04442v1,"We propose that intelligently combining models from the domains of Artificial
+Intelligence or Machine Learning with Physical and Expert models will yield a
+more ""trustworthy"" model than any one model from a single domain, given a
+complex and narrow enough problem. Based on mean-variance portfolio theory and
+bias-variance trade-off analysis, we prove combining models from various
+domains produces a model that has lower risk, increasing user trust. We call
+such combined models - physics enhanced artificial intelligence (PEAI), and
+suggest use cases for PEAI."
+97,GeoAI in Social Science,http://arxiv.org/abs/2401.05398v1,"GeoAI, or geospatial artificial intelligence, is an exciting new area that
+leverages artificial intelligence (AI), geospatial big data, and massive
+computing power to solve problems with high automation and intelligence. This
+paper reviews the progress of AI in social science research, highlighting
+important advancements in using GeoAI to fill critical data and knowledge gaps.
+It also discusses the importance of breaking down data silos, accelerating
+convergence among GeoAI research methods, as well as moving GeoAI beyond
+geospatial benefits."
+98,LightHouse: A Survey of AGI Hallucination,http://arxiv.org/abs/2401.06792v2,"With the development of artificial intelligence, large-scale models have
+become increasingly intelligent. However, numerous studies indicate that
+hallucinations within these large models are a bottleneck hindering the
+development of AI research. In the pursuit of achieving strong artificial
+intelligence, a significant volume of research effort is being invested in the
+AGI (Artificial General Intelligence) hallucination research. Previous
+explorations have been conducted in researching hallucinations within LLMs
+(Large Language Models). As for multimodal AGI, research on hallucinations is
+still in an early stage. To further the progress of research in the domain of
+hallucinatory phenomena, we present a bird's eye view of hallucinations in AGI,
+summarizing the current work on AGI hallucinations and proposing some
+directions for future research."
+99,Ethical Considerations in Artificial Intelligence Courses,http://arxiv.org/abs/1701.07769v1,"The recent surge in interest in ethics in artificial intelligence may leave
+many educators wondering how to address moral, ethical, and philosophical
+issues in their AI courses. As instructors we want to develop curriculum that
+not only prepares students to be artificial intelligence practitioners, but
+also to understand the moral, ethical, and philosophical impacts that
+artificial intelligence will have on society. In this article we provide
+practical case studies and links to resources for use by AI educators. We also
+provide concrete suggestions on how to integrate AI ethics into a general
+artificial intelligence course and how to teach a stand-alone artificial
+intelligence ethics course."
+100,"Explanation in Artificial Intelligence: Insights from the Social
+  Sciences",http://arxiv.org/abs/1706.07269v3,"There has been a recent resurgence in the area of explainable artificial
+intelligence as researchers and practitioners seek to make their algorithms
+more understandable. Much of this research is focused on explicitly explaining
+decisions or actions to a human observer, and it should not be controversial to
+say that looking at how humans explain to each other can serve as a useful
+starting point for explanation in artificial intelligence. However, it is fair
+to say that most work in explainable artificial intelligence uses only the
+researchers' intuition of what constitutes a `good' explanation. There exists
+vast and valuable bodies of research in philosophy, psychology, and cognitive
+science of how people define, generate, select, evaluate, and present
+explanations, which argues that people employ certain cognitive biases and
+social expectations towards the explanation process. This paper argues that the
+field of explainable artificial intelligence should build on this existing
+research, and reviews relevant papers from philosophy, cognitive
+psychology/science, and social psychology, which study these topics. It draws
+out some important findings, and discusses ways that these can be infused with
+work on explainable artificial intelligence."

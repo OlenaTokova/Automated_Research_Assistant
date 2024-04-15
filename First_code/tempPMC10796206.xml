@@ -1,0 +1,3581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article article-type="review-article" dtd-version="1.3" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN?>
+ <?DTDIdentifier.IdentifierType public?>
+ <?SourceDTD.DTDName JATS-journalpublishing1.dtd?>
+ <?SourceDTD.Version 1.2?>
+ <?ConverterInfo.XSLTName jats2jats3.xsl?>
+ <?ConverterInfo.Version 1?>
+ <?properties open_access?>
+ <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+  <restricted-by>
+   pmc
+  </restricted-by>
+ </processing-meta>
+ <front>
+  <journal-meta>
+   <journal-id journal-id-type="nlm-ta">
+    J Menopausal Med
+   </journal-id>
+   <journal-id journal-id-type="iso-abbrev">
+    J Menopausal Med
+   </journal-id>
+   <journal-id journal-id-type="publisher-id">
+    JMM
+   </journal-id>
+   <journal-title-group>
+    <journal-title>
+     Journal of Menopausal Medicine
+    </journal-title>
+   </journal-title-group>
+   <issn pub-type="ppub">
+    2288-6478
+   </issn>
+   <issn pub-type="epub">
+    2288-6761
+   </issn>
+   <publisher>
+    <publisher-name>
+     The Korean Society of Menopause
+    </publisher-name>
+   </publisher>
+  </journal-meta>
+  <article-meta>
+   <article-id pub-id-type="pmcid">
+    10796206
+   </article-id>
+   <article-id pub-id-type="pmid">
+    38230592
+   </article-id>
+   <article-id pub-id-type="doi">
+    10.6118/jmm.23032
+   </article-id>
+   <article-categories>
+    <subj-group subj-group-type="heading">
+     <subject>
+      Review Article
+     </subject>
+    </subj-group>
+   </article-categories>
+   <title-group>
+    <article-title>
+     Tibolone and Breast Cancer
+    </article-title>
+   </title-group>
+   <contrib-group>
+    <contrib contrib-type="author">
+     <name>
+      <surname>
+       Lee
+      </surname>
+      <given-names>
+       Jae Kyung
+      </given-names>
+     </name>
+     <xref ref-type="aff" rid="A1">
+      1
+     </xref>
+     <xref ref-type="aff" rid="A2">
+      2
+     </xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>
+       Yun
+      </surname>
+      <given-names>
+       Hyewon
+      </given-names>
+     </name>
+     <xref ref-type="aff" rid="A1">
+      1
+     </xref>
+     <xref ref-type="aff" rid="A2">
+      2
+     </xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>
+       Kim
+      </surname>
+      <given-names>
+       Heeyon
+      </given-names>
+     </name>
+     <xref ref-type="aff" rid="A1">
+      1
+     </xref>
+     <xref ref-type="aff" rid="A2">
+      2
+     </xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>
+       Yun
+      </surname>
+      <given-names>
+       Bo Hyon
+      </given-names>
+     </name>
+     <xref ref-type="aff" rid="A1">
+      1
+     </xref>
+     <xref ref-type="aff" rid="A2">
+      2
+     </xref>
+    </contrib>
+    <contrib contrib-type="author" corresp="yes">
+     <contrib-id authenticated="true" contrib-id-type="orcid">
+      https://orcid.org/0000-0003-3404-0484
+     </contrib-id>
+     <name>
+      <surname>
+       Seo
+      </surname>
+      <given-names>
+       Seok Kyo
+      </given-names>
+     </name>
+     <xref ref-type="aff" rid="A1">
+      1
+     </xref>
+     <xref ref-type="aff" rid="A2">
+      2
+     </xref>
+    </contrib>
+   </contrib-group>
+   <aff id="A1">
+    <label>
+     1
+    </label>
+    Departments of Obstetrics and Gynecology, Yonsei University College of Medicine, Seoul,
+    <country>
+     Korea
+    </country>
+    .
+   </aff>
+   <aff id="A2">
+    <label>
+     2
+    </label>
+    Institute of Women’s Life Medical Science, Yonsei University College of Medicine, Seoul,
+    <country>
+     Korea
+    </country>
+    .
+   </aff>
+   <author-notes>
+    <corresp>
+     Address for Correspondence: Seok Kyo Seo, Departments of Obstetrics and Gynecology, Yonsei University College of Medicine, 50-1 Yonseiro, Seodaemun-gu, Seoul 03722, Korea. Tel: 82-2-2228-2236,
+     <email>
+      tudeolseo@yuhs.ac
+     </email>
+    </corresp>
+   </author-notes>
+   <pub-date pub-type="ppub">
+    <month>
+     12
+    </month>
+    <year>
+     2023
+    </year>
+   </pub-date>
+   <pub-date pub-type="epub">
+    <day>
+     31
+    </day>
+    <month>
+     12
+    </month>
+    <year>
+     2023
+    </year>
+   </pub-date>
+   <volume>
+    29
+   </volume>
+   <issue>
+    3
+   </issue>
+   <fpage>
+    92
+   </fpage>
+   <lpage>
+    96
+   </lpage>
+   <history>
+    <date date-type="received">
+     <day>
+      11
+     </day>
+     <month>
+      10
+     </month>
+     <year>
+      2023
+     </year>
+    </date>
+    <date date-type="rev-recd">
+     <day>
+      25
+     </day>
+     <month>
+      12
+     </month>
+     <year>
+      2023
+     </year>
+    </date>
+    <date date-type="accepted">
+     <day>
+      27
+     </day>
+     <month>
+      12
+     </month>
+     <year>
+      2023
+     </year>
+    </date>
+   </history>
+   <permissions>
+    <copyright-statement>
+     Copyright © by The Korean Society of Menopause
+    </copyright-statement>
+    <copyright-year>
+     2023
+    </copyright-year>
+    <copyright-holder>
+     The Korean Society of Menopause
+    </copyright-holder>
+    <license>
+     <ali:license_ref content-type="ccbynclicense" specific-use="textmining" xmlns:ali="http://www.niso.org/schemas/ali/1.0/">
+      https://creativecommons.org/licenses/by-nc/4.0/
+     </ali:license_ref>
+     <license-p>
+      This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (
+      <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">
+       http://creativecommons.org/licenses/by-nc/4.0/
+      </ext-link>
+      ).
+     </license-p>
+    </license>
+   </permissions>
+   <abstract>
+    <p>
+     Tibolone, a selective tissue estrogenic activity regulator, is a synthetic steroid with distinct pharmacological and clinical characteristics in contrast to conventional menopausal hormone therapy. Tibolone induces estrogenic activity in the brain, vagina, and bone but remains inactive in the endometrium and breast. In particular, several studies have investigated whether tibolone usage increases the risk of breast cancer. This study aims to determine the effects of tibolone on the breast by focusing on the relation between tibolone use and breast cancer. Our investigation emphasizes recent studies, particularly those based on Asian populations.
+    </p>
+   </abstract>
+   <abstract abstract-type="graphical">
+    <title>
+     Graphical Abstract
+    </title>
+    <p>
+     <graphic position="float" xlink:href="jmm-29-92-abf001.jpg"/>
+    </p>
+   </abstract>
+   <kwd-group>
+    <kwd>
+     Breast density
+    </kwd>
+    <kwd>
+     Breast neoplasms
+    </kwd>
+    <kwd>
+     Postmenopausal hormone replacement therapy
+    </kwd>
+    <kwd>
+     Tibolone
+    </kwd>
+   </kwd-group>
+   <funding-group>
+    <award-group>
+     <funding-source country="KR">
+      <institution-wrap>
+       <institution>
+        Korea Health Industry Development Institute
+       </institution>
+       <institution-id institution-id-type="CrossRef">
+        https://doi.org/10.13039/501100003710
+       </institution-id>
+      </institution-wrap>
+     </funding-source>
+     <award-id>
+      HA23C046503
+     </award-id>
+    </award-group>
+   </funding-group>
+  </article-meta>
+ </front>
+ <body>
+  <sec sec-type="intro">
+   <title>
+    INTRODUCTION
+   </title>
+   <p>
+    After the results of the Women’s Health Initiative (WHI) study were published, many women discontinued menopausal hormone therapy (MHT) due to fear of breast cancer [
+    <xref ref-type="bibr" rid="B1">
+     1
+    </xref>
+    ]. Although WHI study showed that estrogen-progesterone therapy (EPT) increased risk of breast cancer [
+    <xref ref-type="bibr" rid="B1">
+     1
+    </xref>
+    <xref ref-type="bibr" rid="B2">
+     2
+    </xref>
+    <xref ref-type="bibr" rid="B3">
+     3
+    </xref>
+    <xref ref-type="bibr" rid="B4">
+     4
+    </xref>
+    <xref ref-type="bibr" rid="B5">
+     5
+    </xref>
+    <xref ref-type="bibr" rid="B6">
+     6
+    </xref>
+    ], the absolute risk of breast cancer associated with EPT is very low (&lt; 10/10,000/y) [
+    <xref ref-type="bibr" rid="B7">
+     7
+    </xref>
+    ]. In addition, the relative risk of breast cancer may be different depending on the formulation and dose of MHT [
+    <xref ref-type="bibr" rid="B8">
+     8
+    </xref>
+    ].
+   </p>
+   <p>
+    Tibolone, a selective tissue estrogenic activity regulator, is one of the treatment options for menopause symptoms, but it has distinct pharmacological and clinical characteristics compared to EPT [
+    <xref ref-type="bibr" rid="B9">
+     9
+    </xref>
+    <xref ref-type="bibr" rid="B10">
+     10
+    </xref>
+    <xref ref-type="bibr" rid="B11">
+     11
+    </xref>
+    <xref ref-type="bibr" rid="B12">
+     12
+    </xref>
+    <xref ref-type="bibr" rid="B13">
+     13
+    </xref>
+    <xref ref-type="bibr" rid="B14">
+     14
+    </xref>
+    ]. Tibolone is thought to reduce estrogen activity in breast tissue [
+    <xref ref-type="bibr" rid="B15">
+     15
+    </xref>
+    <xref ref-type="bibr" rid="B16">
+     16
+    </xref>
+    <xref ref-type="bibr" rid="B17">
+     17
+    </xref>
+    <xref ref-type="bibr" rid="B18">
+     18
+    </xref>
+    ], which in fact causes less breast tenderness and does not increase mammographic density [
+    <xref ref-type="bibr" rid="B19">
+     19
+    </xref>
+    <xref ref-type="bibr" rid="B20">
+     20
+    </xref>
+    <xref ref-type="bibr" rid="B21">
+     21
+    </xref>
+    <xref ref-type="bibr" rid="B22">
+     22
+    </xref>
+    <xref ref-type="bibr" rid="B23">
+     23
+    </xref>
+    <xref ref-type="bibr" rid="B24">
+     24
+    </xref>
+    ], a well-defined risk factor for breast cancer in clinical practice [
+    <xref ref-type="bibr" rid="B25">
+     25
+    </xref>
+    <xref ref-type="bibr" rid="B26">
+     26
+    </xref>
+    ]. However, tibolone’s effects on breasts are still unclear. This review describes the effects of tibolone on breast. We focused on the relationship between tibolone use and the risk of breast cancer with results from recent studies and Asian population-based studies.
+   </p>
+  </sec>
+  <sec>
+   <title>
+    TIBOLONE AND BREAST TISSUE
+   </title>
+   <p>
+    Tibolone is mainly converted to 3 alpha-hydroxy (3α-OH) tibolone and 3 beta-hydroxy (3β-OH) tibolone by 3α- and 3β-hydroxy dehydrogenase (HSD) in the liver and intestines, and directly converted to Δ4-isomer by 3β-HSD-isomerase [
+    <xref ref-type="bibr" rid="B9">
+     9
+    </xref>
+    <xref ref-type="bibr" rid="B10">
+     10
+    </xref>
+    <xref ref-type="bibr" rid="B27">
+     27
+    </xref>
+    <xref ref-type="bibr" rid="B28">
+     28
+    </xref>
+    ]. Among these metabolites, 3α-OH and 3β-OH metabolites have estrogenic properties, and Δ4-isomer has progestogenic and androgenic properties [
+    <xref ref-type="bibr" rid="B27">
+     27
+    </xref>
+    <xref ref-type="bibr" rid="B28">
+     28
+    </xref>
+    ]. The two hydroxylated metabolites exhibit different estrogenic activities depending on the tissue, which is the result of tissue-specific metabolism. Therefore, tibolone is classified as a selective tissue estrogenic activity regulator, showing estrogenic activity in the brain, vagina, and bone, but not in the endometrium and breast [
+    <xref ref-type="bibr" rid="B29">
+     29
+    </xref>
+    ].
+   </p>
+   <p>
+    <xref ref-type="fig" rid="F1">
+     Figure 1
+    </xref>
+    summarizes the effect of tibolone in the estrogen metabolism in the breast tissue. In breast tissue, tibolone and its metabolites suppress sulfatase and 17β-HSD. These enzymes convert estrone sulfate, a form of inactive estrogen, into estradiol in the breast [
+    <xref ref-type="bibr" rid="B30">
+     30
+    </xref>
+    <xref ref-type="bibr" rid="B31">
+     31
+    </xref>
+    <xref ref-type="bibr" rid="B32">
+     32
+    </xref>
+    ]. Additionally, 3-OH metabolite increase the activity of sulfotransferase, which converts estrone back to estrone sulfate [
+    <xref ref-type="bibr" rid="B33">
+     33
+    </xref>
+    ]. Tibolone and Δ4 -isomer suppress proliferation and induce cell death in breast cells [
+    <xref ref-type="bibr" rid="B34">
+     34
+    </xref>
+    ]. Through this action, it is known to reduce the concentration of active estrogen in breast tissue and suppress the development of breast cancer.
+   </p>
+  </sec>
+  <sec>
+   <title>
+    TIBOLONE AND MAMMOGRAPHIC DENSITY
+   </title>
+   <p>
+    In a prospective study comparing the effects of different MHT regimens on mammographic density in 210 postmenopausal women, mammographic density was not increased in women who used tibolone or estriol after 1 year [
+    <xref ref-type="bibr" rid="B21">
+     21
+    </xref>
+    ]. Increases in mammographic density have been reported in women who received estradiolor conjugated equine estrogens (CEE)-containing regimens, with or without medroxyprogesterone acetate, sequentially or continuously, with estradiol-containing regimens showing a greater tendency to increase than comparable CEE-containing regimens. Another prospective study compared pre- and post-treatment mammographic density in 121 postmenopausal women who received various types of MHT, including tibolone or transdermal estradiol, for 1 year [
+    <xref ref-type="bibr" rid="B22">
+     22
+    </xref>
+    ]. No statistically significant difference was found in the increase in mammographic density between women who used tibolone and those who did not. Mammographic density increased in women using transdermal estradiol alone or in combination with nomegestrol acetate, which was statistically significant when compared to untreated women.
+   </p>
+   <p>
+    One randomized controlled trial (RCT) compared the difference in mammographic density between women who used tibolone and women who used continuous EPT [
+    <xref ref-type="bibr" rid="B23">
+     23
+    </xref>
+    ]. After one year of treatment, the mean breast density score decreased from 2.22 to 1.67 in the tibolone group and increased from 1.84 to 2.63 in the EPT group, with a statistically significant difference between the two groups. In addition, Ki-67 expression, a cellular marker for proliferation, decreased in 80% of women in the tibolone group, while Ki-67 expression increased in 78.9% of women in the EPT group, and the difference in expression between the two groups was statistically significant.
+   </p>
+  </sec>
+  <sec>
+   <title>
+    TIBOLONE AND BREAST CANCER
+   </title>
+   <p>
+    <xref ref-type="table" rid="T1">
+     Table 1
+    </xref>
+    summarizes studies that investigated the association between tibolone and the risk of breast cancer. The Million Women Study (MWS) is an observational study that compared the incidence of breast cancer (BC) according to the type of MHT: estrogen therapy, EPT, and tibolone among 1,084,110 women aged 50 to 64 in the United Kingdom (UK) [
+    <xref ref-type="bibr" rid="B35">
+     35
+    </xref>
+    ]. In this study, tibolone use was found in 18,186 women and increased the risk of breast cancer (relative risk [RR], 1.45; 95% confidence interval [CI], 1.25–1.67), but less than EPT (RR, 2.00; 95% CI, 1.88–2.12). However, the MWS has some important limitations [
+    <xref ref-type="bibr" rid="B36">
+     36
+    </xref>
+    <xref ref-type="bibr" rid="B37">
+     37
+    </xref>
+    ]. Among the women who participated in the study, the incidence of breast cancer, as well as the proportion of women who received MHT, was higher than that of the general population. The average time from recruitment to diagnosis of breast cancer was 1.2 years, and the average time from diagnosis of breast cancer to death was only 1.7 years, meaning that a significant number of breast cancers had already existed for a considerable period of time before recruitment.
+   </p>
+   <p>
+    Another large case-control study based on the UK General Practice Research Database analyzed the RR of breast cancer according to various MHT formulations. In this study, 6,347 cases of breast cancer were matched with 31,516 controls in women aged 50–75 years [
+    <xref ref-type="bibr" rid="B38">
+     38
+    </xref>
+    ]. In this study, there was an increase in breast cancer in women who used EPT (RR, 1.33; 95% CI, 1.21–1.46), but there was no significant increase in breast cancer in women who used tibolone (RR, 0.86; 95% CI, 0.65–1.13). However, the rate of breast cancer was increased in women who switched from EPT to tibolone (RR, 1.29; 95% CI, 1.09–1.52).
+   </p>
+   <p>
+    The the Long-Term Intervention on Fractures with Tibolone (LIFT) trial is a RCT that analyzed the effects of 1.25 mg of tibolone on the risk of vertebral fracture, cardiovascular disease, and breast cancer in 4,538 women with osteoporosis aged 60 to 85 [
+    <xref ref-type="bibr" rid="B39">
+     39
+    </xref>
+    ]. Women who received tibolone had a 68% reduced risk of invasive breast cancer compared with women who received placebo (relative hazard, 0.32; 95% CI, 0.13–0.80). A Cochrane review that analyzed 4 RCTs related to the association between tibolone and breast cancer, including the LIFT trial, also found that tibolone did not increase the incidence of breast cancer in women without a history of breast cancer (odds ratio [OR], 0.52; 95% CI, 0.21–1.25) [
+    <xref ref-type="bibr" rid="B40">
+     40
+    </xref>
+    ].
+   </p>
+   <p>
+    The The livial intervention following breast cancer: Efficacy, Recurrence, and Tolerability Endpoints (LIBERATE) trial was conducted to evaluate the risk of breast cancer recurrence when taking tibolone in breast cancer patients treated for vasomotor symptoms [
+    <xref ref-type="bibr" rid="B41">
+     41
+    </xref>
+    ]. This trial was stopped early because breast cancer patients receiving tibolone 2.5 mg were found to have an increased risk of recurrence. Of the 1,556 women who took tibolone, 237 (15.2%) relapsed, and among the 1,542 women who did not receive treatment, 165 (10.7%) relapsed, showing a statistically significantly higher recurrence rate in women who took tibolone (HR, 1.40; 95% CI, 1.14–1.70). However, tibolone did not differ from placebo in terms of mortality (72 vs. 63, respectively).
+   </p>
+   <p>
+    Population-based case-control study in France analyzed the risk of breast cancer by type of MHT. 1,555 menopausal women (739 breast cancer cases and 816 controls) aged 35–74 years old were recruited for analysis. Current tibolone users were 8 women in the control group and 17 women in the breast cancer group. The study reported an elevated but non-significant increased risk of breast cancer (OR, 2.42; 95% CI, 0.96–6.10) and association with increased ER-positive (OR, 2.57; 95% CI, 0.97–0.83) and PR-positive tumors (OR, 2.80; 95% CI, 0.99–7.89), and with lobular carcinomas (OR, 5.87; 95% CI, 1.66–20.7). However, this study included only a limited number of patients who used tibolone, thus the results should be translated carefully [
+    <xref ref-type="bibr" rid="B42">
+     42
+    </xref>
+    ].
+   </p>
+   <p>
+    Data from the Norwegian Prescription Database and the Cancer Registry of Norway also investigated postmenopausal hormone therapy and the risk of breast cancer [
+    <xref ref-type="bibr" rid="B43">
+     43
+    </xref>
+    ]. A total of 686,614 Norwegian women aged 45 to 79 years with no previous history of cancer were followed from 2004 to 2008 with 9,420 women prescribed with tibolone. The average duration of follow-up was 4.8 years and tibolone use was associated with a nearly twofold higher breast cancer risk than in nonusers (OR, 1.91; 95% CI, 1.61–2.28). However, the authors mentioned possible influence from previous EPT use on before 2004 in these patients for the cause of increased risk of breast cancer.
+   </p>
+   <p>
+    Recently, a nested case-control study in Korea among 36,446 women who used MHT for more than 1 year and 36,446 women who did not use MHT for more than 1 year was perform. Of these women, 14,250 women were prescribed with tibolone and this study reported that tibolone use was associated with a reduced risk of BC (HR, 0.77; 95% CI, 0.66–0.90) [
+    <xref ref-type="bibr" rid="B44">
+     44
+    </xref>
+    ]. In particular, the risk of BC was lower with tibolone in women treated early stage in menopause.
+   </p>
+  </sec>
+  <sec sec-type="conclusions">
+   <title>
+    CONCLUSION
+   </title>
+   <p>
+    The relationship between tibolone and BC risk is not yet conclusive. However, considering the results obtained from various studies, the risk of BC with tibolone does not seem to be as high as with EPT. The safety of tibolone with respect to BC risk requires further investigation, particularly through well-designed RCTs targeting breast cancer risk as a primary end point. Meanwhile, tibolone is not recommended for BC patients because it increases the recurrence rate of BC.
+   </p>
+  </sec>
+ </body>
+ <back>
+  <fn-group>
+   <fn fn-type="supported-by">
+    <p>
+     <bold>
+      FUNDING:
+     </bold>
+     This research was supported by a grant of the Korea Health Technology R&amp;D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health &amp; Welfare, Republic of Korea (grant number: HA23C046503).
+    </p>
+   </fn>
+   <fn fn-type="COI-statement">
+    <p>
+     <bold>
+      CONFLICT OF INTEREST:
+     </bold>
+     No potential conflict of interest relevant to this article was reported.
+    </p>
+   </fn>
+  </fn-group>
+  <ref-list>
+   <ref id="B1">
+    <label>
+     1
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Rossouw
+       </surname>
+       <given-names>
+        JE
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Anderson
+       </surname>
+       <given-names>
+        GL
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Prentice
+       </surname>
+       <given-names>
+        RL
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        LaCroix
+       </surname>
+       <given-names>
+        AZ
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kooperberg
+       </surname>
+       <given-names>
+        C
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Stefanick
+       </surname>
+       <given-names>
+        ML
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results from the Women’s Health Initiative randomized controlled trial
+     </article-title>
+     <source>
+      JAMA
+     </source>
+     <year>
+      2002
+     </year>
+     <volume>
+      288
+     </volume>
+     <fpage>
+      321
+     </fpage>
+     <lpage>
+      333
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      12117397
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B2">
+    <label>
+     2
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Chlebowski
+       </surname>
+       <given-names>
+        RT
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Hendrix
+       </surname>
+       <given-names>
+        SL
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Langer
+       </surname>
+       <given-names>
+        RD
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Stefanick
+       </surname>
+       <given-names>
+        ML
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Gass
+       </surname>
+       <given-names>
+        M
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Lane
+       </surname>
+       <given-names>
+        D
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Influence of estrogen plus progestin on breast cancer and mammography in healthy postmenopausal women: the Women’s Health Initiative Randomized Trial
+     </article-title>
+     <source>
+      JAMA
+     </source>
+     <year>
+      2003
+     </year>
+     <volume>
+      289
+     </volume>
+     <fpage>
+      3243
+     </fpage>
+     <lpage>
+      3253
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      12824205
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B3">
+    <label>
+     3
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Anderson
+       </surname>
+       <given-names>
+        GL
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Chlebowski
+       </surname>
+       <given-names>
+        RT
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Rossouw
+       </surname>
+       <given-names>
+        JE
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Rodabough
+       </surname>
+       <given-names>
+        RJ
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        McTiernan
+       </surname>
+       <given-names>
+        A
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Margolis
+       </surname>
+       <given-names>
+        KL
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Prior hormone therapy and breast cancer risk in the Women’s Health Initiative randomized trial of estrogen plus progestin
+     </article-title>
+     <source>
+      Maturitas
+     </source>
+     <year>
+      2006
+     </year>
+     <volume>
+      55
+     </volume>
+     <fpage>
+      103
+     </fpage>
+     <lpage>
+      115
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      16815651
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B4">
+    <label>
+     4
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Heiss
+       </surname>
+       <given-names>
+        G
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Wallace
+       </surname>
+       <given-names>
+        R
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Anderson
+       </surname>
+       <given-names>
+        GL
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Aragaki
+       </surname>
+       <given-names>
+        A
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Beresford
+       </surname>
+       <given-names>
+        SA
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Brzyski
+       </surname>
+       <given-names>
+        R
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Health risks and benefits 3 years after stopping randomized treatment with estrogen and progestin
+     </article-title>
+     <source>
+      JAMA
+     </source>
+     <year>
+      2008
+     </year>
+     <volume>
+      299
+     </volume>
+     <fpage>
+      1036
+     </fpage>
+     <lpage>
+      1045
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      18319414
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B5">
+    <label>
+     5
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Manson
+       </surname>
+       <given-names>
+        JE
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Chlebowski
+       </surname>
+       <given-names>
+        RT
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Stefanick
+       </surname>
+       <given-names>
+        ML
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Aragaki
+       </surname>
+       <given-names>
+        AK
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Rossouw
+       </surname>
+       <given-names>
+        JE
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Prentice
+       </surname>
+       <given-names>
+        RL
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Menopausal hormone therapy and health outcomes during the intervention and extended poststopping phases of the Women’s Health Initiative randomized trials
+     </article-title>
+     <source>
+      JAMA
+     </source>
+     <year>
+      2013
+     </year>
+     <volume>
+      310
+     </volume>
+     <fpage>
+      1353
+     </fpage>
+     <lpage>
+      1368
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      24084921
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B6">
+    <label>
+     6
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Chlebowski
+       </surname>
+       <given-names>
+        RT
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Anderson
+       </surname>
+       <given-names>
+        GL
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Aragaki
+       </surname>
+       <given-names>
+        AK
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Manson
+       </surname>
+       <given-names>
+        JE
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Stefanick
+       </surname>
+       <given-names>
+        ML
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Pan
+       </surname>
+       <given-names>
+        K
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Association of menopausal hormone therapy with breast cancer incidence and mortality during long-term follow-up of the Women’s Health Initiative randomized clinical trials
+     </article-title>
+     <source>
+      JAMA
+     </source>
+     <year>
+      2020
+     </year>
+     <volume>
+      324
+     </volume>
+     <fpage>
+      369
+     </fpage>
+     <lpage>
+      380
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      32721007
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B7">
+    <label>
+     7
+    </label>
+    <element-citation publication-type="journal">
+     <collab>
+      “The 2022 Hormone Therapy Position Statement of The North American Menopause Society” Advisory Panel
+     </collab>
+     <article-title>
+      The 2022 hormone therapy position statement of The North American Menopause Society
+     </article-title>
+     <source>
+      Menopause
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      29
+     </volume>
+     <fpage>
+      767
+     </fpage>
+     <lpage>
+      794
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      35797481
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B8">
+    <label>
+     8
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Fournier
+       </surname>
+       <given-names>
+        A
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Berrino
+       </surname>
+       <given-names>
+        F
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Riboli
+       </surname>
+       <given-names>
+        E
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Avenel
+       </surname>
+       <given-names>
+        V
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Clavel-Chapelon
+       </surname>
+       <given-names>
+        F
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Breast cancer risk in relation to different types of hormone replacement therapy in the E3N-EPIC cohort
+     </article-title>
+     <source>
+      Int J Cancer
+     </source>
+     <year>
+      2005
+     </year>
+     <volume>
+      114
+     </volume>
+     <fpage>
+      448
+     </fpage>
+     <lpage>
+      454
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      15551359
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B9">
+    <label>
+     9
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Reed
+       </surname>
+       <given-names>
+        MJ
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kloosterboer
+       </surname>
+       <given-names>
+        HJ
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Tibolone: a selective tissue estrogenic activity regulator (STEAR)
+     </article-title>
+     <source>
+      Maturitas
+     </source>
+     <year>
+      2004
+     </year>
+     <volume>
+      48 Suppl 1
+     </volume>
+     <fpage>
+      S4
+     </fpage>
+     <lpage>
+      S6
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      15337241
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B10">
+    <label>
+     10
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Kloosterboer
+       </surname>
+       <given-names>
+        HJ
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Tissue-selectivity: the mechanism of action of tibolone
+     </article-title>
+     <source>
+      Maturitas
+     </source>
+     <year>
+      2004
+     </year>
+     <volume>
+      48 Suppl 1
+     </volume>
+     <fpage>
+      S30
+     </fpage>
+     <lpage>
+      S40
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      15337246
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B11">
+    <label>
+     11
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Kenemans
+       </surname>
+       <given-names>
+        P
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Speroff
+       </surname>
+       <given-names>
+        L
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Tibolone: clinical recommendations and practical guidelines. A report of the International Tibolone Consensus Group
+     </article-title>
+     <source>
+      Maturitas
+     </source>
+     <year>
+      2005
+     </year>
+     <volume>
+      51
+     </volume>
+     <fpage>
+      21
+     </fpage>
+     <lpage>
+      28
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      15883105
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B12">
+    <label>
+     12
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Huang
+       </surname>
+       <given-names>
+        KE
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Baber
+       </surname>
+       <given-names>
+        R
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Updated clinical recommendations for the use of tibolone in Asian women
+     </article-title>
+     <source>
+      Climacteric
+     </source>
+     <year>
+      2010
+     </year>
+     <volume>
+      13
+     </volume>
+     <fpage>
+      317
+     </fpage>
+     <lpage>
+      327
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      20443720
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B13">
+    <label>
+     13
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Mendoza
+       </surname>
+       <given-names>
+        N
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Abad
+       </surname>
+       <given-names>
+        P
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Baró
+       </surname>
+       <given-names>
+        F
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Cancelo
+       </surname>
+       <given-names>
+        MJ
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Llaneza
+       </surname>
+       <given-names>
+        P
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Manubens
+       </surname>
+       <given-names>
+        M
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Spanish Menopause Society position statement: use of tibolone in postmenopausal women
+     </article-title>
+     <source>
+      Menopause
+     </source>
+     <year>
+      2013
+     </year>
+     <volume>
+      20
+     </volume>
+     <fpage>
+      754
+     </fpage>
+     <lpage>
+      760
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      23793166
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B14">
+    <label>
+     14
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Biglia
+       </surname>
+       <given-names>
+        N
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Maffei
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Lello
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Nappi
+       </surname>
+       <given-names>
+        RE
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Tibolone in postmenopausal women: a review based on recent randomised controlled clinical trials
+     </article-title>
+     <source>
+      Gynecol Endocrinol
+     </source>
+     <year>
+      2010
+     </year>
+     <volume>
+      26
+     </volume>
+     <fpage>
+      804
+     </fpage>
+     <lpage>
+      814
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      20586550
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B15">
+    <label>
+     15
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Lello
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Capozzi
+       </surname>
+       <given-names>
+        A
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Scambia
+       </surname>
+       <given-names>
+        G
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Franceschini
+       </surname>
+       <given-names>
+        G
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Tibolone and breast tissue: a review
+     </article-title>
+     <source>
+      Reprod Sci
+     </source>
+     <year>
+      2023
+     </year>
+     <volume>
+      30
+     </volume>
+     <fpage>
+      3403
+     </fpage>
+     <lpage>
+      3409
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      37450250
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B16">
+    <label>
+     16
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Del Río
+       </surname>
+       <given-names>
+        JP
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Molina
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Hidalgo-Lanussa
+       </surname>
+       <given-names>
+        O
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Garcia-Segura
+       </surname>
+       <given-names>
+        LM
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Barreto
+       </surname>
+       <given-names>
+        GE
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Tibolone as hormonal therapy and neuroprotective agent
+     </article-title>
+     <source>
+      Trends Endocrinol Metab
+     </source>
+     <year>
+      2020
+     </year>
+     <volume>
+      31
+     </volume>
+     <fpage>
+      742
+     </fpage>
+     <lpage>
+      759
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      32507541
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B17">
+    <label>
+     17
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Wang
+       </surname>
+       <given-names>
+        PH
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Cheng
+       </surname>
+       <given-names>
+        MH
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Chao
+       </surname>
+       <given-names>
+        HT
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Chao
+       </surname>
+       <given-names>
+        KC
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Effects of tibolone on the breast of postmenopausal women
+     </article-title>
+     <source>
+      Taiwan J Obstet Gynecol
+     </source>
+     <year>
+      2007
+     </year>
+     <volume>
+      46
+     </volume>
+     <fpage>
+      121
+     </fpage>
+     <lpage>
+      126
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      17638619
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B18">
+    <label>
+     18
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Erel
+       </surname>
+       <given-names>
+        CT
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Senturk
+       </surname>
+       <given-names>
+        LM
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kaleli
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Tibolone and breast cancer
+     </article-title>
+     <source>
+      Postgrad Med J
+     </source>
+     <year>
+      2006
+     </year>
+     <volume>
+      82
+     </volume>
+     <fpage>
+      658
+     </fpage>
+     <lpage>
+      662
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      17068276
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B19">
+    <label>
+     19
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Palomba
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Di Carlo
+       </surname>
+       <given-names>
+        C
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Morelli
+       </surname>
+       <given-names>
+        M
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Russo
+       </surname>
+       <given-names>
+        T
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Noia
+       </surname>
+       <given-names>
+        R
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Nappi
+       </surname>
+       <given-names>
+        C
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Effect of tibolone on breast symptoms resulting from postmenopausal hormone replacement therapy
+     </article-title>
+     <source>
+      Maturitas
+     </source>
+     <year>
+      2003
+     </year>
+     <volume>
+      45
+     </volume>
+     <fpage>
+      267
+     </fpage>
+     <lpage>
+      273
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      12927313
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B20">
+    <label>
+     20
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        von Schoultz
+       </surname>
+       <given-names>
+        B
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      The effects of tibolone and oestrogen-based HT on breast cell proliferation and mammographic density
+     </article-title>
+     <source>
+      Maturitas
+     </source>
+     <year>
+      2004
+     </year>
+     <volume>
+      49
+     </volume>
+     <fpage>
+      S16
+     </fpage>
+     <lpage>
+      S21
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      15351103
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B21">
+    <label>
+     21
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Valdivia
+       </surname>
+       <given-names>
+        I
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Ortega
+       </surname>
+       <given-names>
+        D
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Mammographic density in postmenopausal women treated with tibolone, estriol or conventional hormone replacement therapy
+     </article-title>
+     <source>
+      Clin Drug Investig
+     </source>
+     <year>
+      2000
+     </year>
+     <volume>
+      20
+     </volume>
+     <fpage>
+      101
+     </fpage>
+     <lpage>
+      107
+     </lpage>
+    </element-citation>
+   </ref>
+   <ref id="B22">
+    <label>
+     22
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Colacurci
+       </surname>
+       <given-names>
+        N
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Fornaro
+       </surname>
+       <given-names>
+        F
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        De Franciscis
+       </surname>
+       <given-names>
+        P
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Palermo
+       </surname>
+       <given-names>
+        M
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        del Vecchio
+       </surname>
+       <given-names>
+        W
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Effects of different types of hormone replacement therapy on mammographic density
+     </article-title>
+     <source>
+      Maturitas
+     </source>
+     <year>
+      2001
+     </year>
+     <volume>
+      40
+     </volume>
+     <fpage>
+      159
+     </fpage>
+     <lpage>
+      164
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      11716994
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B23">
+    <label>
+     23
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Valdivia
+       </surname>
+       <given-names>
+        I
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Campodónico
+       </surname>
+       <given-names>
+        I
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Tapia
+       </surname>
+       <given-names>
+        A
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Capetillo
+       </surname>
+       <given-names>
+        M
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Espinoza
+       </surname>
+       <given-names>
+        A
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Lavín
+       </surname>
+       <given-names>
+        P
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Effects of tibolone and continuous combined hormone therapy on mammographic breast density and breast histochemical markers in postmenopausal women
+     </article-title>
+     <source>
+      Fertil Steril
+     </source>
+     <year>
+      2004
+     </year>
+     <volume>
+      81
+     </volume>
+     <fpage>
+      617
+     </fpage>
+     <lpage>
+      623
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      15037411
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B24">
+    <label>
+     24
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Christodoulakos
+       </surname>
+       <given-names>
+        GE
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Lambrinoudaki
+       </surname>
+       <given-names>
+        IV
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Vourtsi
+       </surname>
+       <given-names>
+        AD
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Panoulis
+       </surname>
+       <given-names>
+        KP
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kelekis
+       </surname>
+       <given-names>
+        DA
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Creatsas
+       </surname>
+       <given-names>
+        GC
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Mammographic changes associated with raloxifene and tibolone therapy in postmenopausal women: a prospective study
+     </article-title>
+     <source>
+      Menopause
+     </source>
+     <year>
+      2002
+     </year>
+     <volume>
+      9
+     </volume>
+     <fpage>
+      110
+     </fpage>
+     <lpage>
+      116
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      11875329
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B25">
+    <label>
+     25
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Tice
+       </surname>
+       <given-names>
+        JA
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Cummings
+       </surname>
+       <given-names>
+        SR
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Smith-Bindman
+       </surname>
+       <given-names>
+        R
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Ichikawa
+       </surname>
+       <given-names>
+        L
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Barlow
+       </surname>
+       <given-names>
+        WE
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kerlikowske
+       </surname>
+       <given-names>
+        K
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Using clinical factors and mammographic breast density to estimate breast cancer risk: development and validation of a new predictive model
+     </article-title>
+     <source>
+      Ann Intern Med
+     </source>
+     <year>
+      2008
+     </year>
+     <volume>
+      148
+     </volume>
+     <fpage>
+      337
+     </fpage>
+     <lpage>
+      347
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      18316752
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B26">
+    <label>
+     26
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Bodewes
+       </surname>
+       <given-names>
+        FTH
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        van Asselt
+       </surname>
+       <given-names>
+        AA
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Dorrius
+       </surname>
+       <given-names>
+        MD
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Greuter
+       </surname>
+       <given-names>
+        MJW
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        de Bock
+       </surname>
+       <given-names>
+        GH
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Mammographic breast density and the risk of breast cancer: a systematic review and meta-analysis
+     </article-title>
+     <source>
+      Breast
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      66
+     </volume>
+     <fpage>
+      62
+     </fpage>
+     <lpage>
+      68
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      36183671
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B27">
+    <label>
+     27
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Kloosterboer
+       </surname>
+       <given-names>
+        HJ
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Tibolone: a steroid with a tissue-specific mode of action
+     </article-title>
+     <source>
+      J Steroid Biochem Mol Biol
+     </source>
+     <year>
+      2001
+     </year>
+     <volume>
+      76
+     </volume>
+     <fpage>
+      231
+     </fpage>
+     <lpage>
+      238
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      11384882
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B28">
+    <label>
+     28
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Escande
+       </surname>
+       <given-names>
+        A
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Servant
+       </surname>
+       <given-names>
+        N
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Rabenoelina
+       </surname>
+       <given-names>
+        F
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Auzou
+       </surname>
+       <given-names>
+        G
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kloosterboer
+       </surname>
+       <given-names>
+        H
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Cavaillès
+       </surname>
+       <given-names>
+        V
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Regulation of activities of steroid hormone receptors by tibolone and its primary metabolites
+     </article-title>
+     <source>
+      J Steroid Biochem Mol Biol
+     </source>
+     <year>
+      2009
+     </year>
+     <volume>
+      116
+     </volume>
+     <fpage>
+      8
+     </fpage>
+     <lpage>
+      14
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      19464167
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B29">
+    <label>
+     29
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Swegle
+       </surname>
+       <given-names>
+        JM
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kelly
+       </surname>
+       <given-names>
+        MW
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Tibolone: a unique version of hormone replacement therapy
+     </article-title>
+     <source>
+      Ann Pharmacother
+     </source>
+     <year>
+      2004
+     </year>
+     <volume>
+      38
+     </volume>
+     <fpage>
+      874
+     </fpage>
+     <lpage>
+      881
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      15026563
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B30">
+    <label>
+     30
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Chetrite
+       </surname>
+       <given-names>
+        G
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kloosterboer
+       </surname>
+       <given-names>
+        HJ
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Pasqualini
+       </surname>
+       <given-names>
+        JR
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Effect of tibolone (Org OD14) and its metabolites on estrone sulphatase activity in MCF-7 and T-47D mammary cancer cells
+     </article-title>
+     <source>
+      Anticancer Res
+     </source>
+     <year>
+      1997
+     </year>
+     <volume>
+      17
+     </volume>
+     <fpage>
+      135
+     </fpage>
+     <lpage>
+      140
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      9066643
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B31">
+    <label>
+     31
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Chetrite
+       </surname>
+       <given-names>
+        GS
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kloosterboer
+       </surname>
+       <given-names>
+        HJ
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Philippe
+       </surname>
+       <given-names>
+        JC
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Pasqualini
+       </surname>
+       <given-names>
+        JR
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Effects of Org OD14 (Livial) and its metabolites on 17 beta-hydroxysteroid dehydrogenase activity in hormone-dependent MCF-7 and T-47D breast cancer cells
+     </article-title>
+     <source>
+      Anticancer Res
+     </source>
+     <year>
+      1999
+     </year>
+     <volume>
+      19
+     </volume>
+     <fpage>
+      261
+     </fpage>
+     <lpage>
+      267
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      10226552
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B32">
+    <label>
+     32
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Chetrite
+       </surname>
+       <given-names>
+        GS
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Cortes-Prieto
+       </surname>
+       <given-names>
+        J
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Pasqualini
+       </surname>
+       <given-names>
+        JR
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Effect of tibolone and its principal metabolites (3α- and 3β-hydroxy, 3α-sulfate, and 4-ene derivatives) on estrone sulfatase activity in normal and cancerous human breast tissue
+     </article-title>
+     <source>
+      Horm Mol Biol Clin Investig
+     </source>
+     <year>
+      2011
+     </year>
+     <volume>
+      8
+     </volume>
+     <fpage>
+      491
+     </fpage>
+     <lpage>
+      498
+     </lpage>
+    </element-citation>
+   </ref>
+   <ref id="B33">
+    <label>
+     33
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Falany
+       </surname>
+       <given-names>
+        JL
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Macrina
+       </surname>
+       <given-names>
+        N
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Falany
+       </surname>
+       <given-names>
+        CN
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Sulfation of tibolone and tibolone metabolites by expressed human cytosolic sulfotransferases
+     </article-title>
+     <source>
+      J Steroid Biochem Mol Biol
+     </source>
+     <year>
+      2004
+     </year>
+     <volume>
+      88
+     </volume>
+     <fpage>
+      383
+     </fpage>
+     <lpage>
+      391
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      15145448
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B34">
+    <label>
+     34
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Gompel
+       </surname>
+       <given-names>
+        A
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Chaouat
+       </surname>
+       <given-names>
+        M
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Jacob
+       </surname>
+       <given-names>
+        D
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Perrot
+       </surname>
+       <given-names>
+        JY
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kloosterboer
+       </surname>
+       <given-names>
+        HJ
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Rostene
+       </surname>
+       <given-names>
+        W
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      In vitro studies of tibolone in breast cells
+     </article-title>
+     <source>
+      Fertil Steril
+     </source>
+     <year>
+      2002
+     </year>
+     <volume>
+      78
+     </volume>
+     <fpage>
+      351
+     </fpage>
+     <lpage>
+      359
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      12137874
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B35">
+    <label>
+     35
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Beral
+       </surname>
+       <given-names>
+        V
+       </given-names>
+      </name>
+     </person-group>
+     <collab>
+      Million Women Study Collaborators
+     </collab>
+     <article-title>
+      Breast cancer and hormone-replacement therapy in the Million Women Study
+     </article-title>
+     <source>
+      Lancet
+     </source>
+     <year>
+      2003
+     </year>
+     <volume>
+      362
+     </volume>
+     <fpage>
+      419
+     </fpage>
+     <lpage>
+      427
+     </lpage>
+     <comment>
+      Erratum in: Lancet 2003; 362: 1160
+     </comment>
+     <pub-id pub-id-type="pmid">
+      12927427
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B36">
+    <label>
+     36
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Shapiro
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      The Million Women Study: potential biases do not allow uncritical acceptance of the data
+     </article-title>
+     <source>
+      Climacteric
+     </source>
+     <year>
+      2004
+     </year>
+     <volume>
+      7
+     </volume>
+     <fpage>
+      3
+     </fpage>
+     <lpage>
+      7
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      15259277
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B37">
+    <label>
+     37
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Whitehead
+       </surname>
+       <given-names>
+        M
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Farmer
+       </surname>
+       <given-names>
+        R
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      The million women study: a critique
+     </article-title>
+     <source>
+      Endocrine
+     </source>
+     <year>
+      2004
+     </year>
+     <volume>
+      24
+     </volume>
+     <fpage>
+      187
+     </fpage>
+     <lpage>
+      193
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      15542884
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B38">
+    <label>
+     38
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Opatrny
+       </surname>
+       <given-names>
+        L
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Dell’Aniello
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Assouline
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Suissa
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Hormone replacement therapy use and variations in the risk of breast cancer
+     </article-title>
+     <source>
+      BJOG
+     </source>
+     <year>
+      2008
+     </year>
+     <volume>
+      115
+     </volume>
+     <fpage>
+      169
+     </fpage>
+     <lpage>
+      175
+     </lpage>
+     <comment>
+      discussion 175
+     </comment>
+     <pub-id pub-id-type="pmid">
+      18081598
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B39">
+    <label>
+     39
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Cummings
+       </surname>
+       <given-names>
+        SR
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Ettinger
+       </surname>
+       <given-names>
+        B
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Delmas
+       </surname>
+       <given-names>
+        PD
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kenemans
+       </surname>
+       <given-names>
+        P
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Stathopoulos
+       </surname>
+       <given-names>
+        V
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Verweij
+       </surname>
+       <given-names>
+        P
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      The effects of tibolone in older postmenopausal women
+     </article-title>
+     <source>
+      N Engl J Med
+     </source>
+     <year>
+      2008
+     </year>
+     <volume>
+      359
+     </volume>
+     <fpage>
+      697
+     </fpage>
+     <lpage>
+      708
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      18703472
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B40">
+    <label>
+     40
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Formoso
+       </surname>
+       <given-names>
+        G
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Perrone
+       </surname>
+       <given-names>
+        E
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Maltoni
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Balduzzi
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Wilkinson
+       </surname>
+       <given-names>
+        J
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Basevi
+       </surname>
+       <given-names>
+        V
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Short-term and long-term effects of tibolone in postmenopausal women
+     </article-title>
+     <source>
+      Cochrane Database Syst Rev
+     </source>
+     <year>
+      2016
+     </year>
+     <volume>
+      10
+     </volume>
+     <elocation-id>
+      CD008536
+     </elocation-id>
+     <pub-id pub-id-type="pmid">
+      27733017
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B41">
+    <label>
+     41
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Kenemans
+       </surname>
+       <given-names>
+        P
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Bundred
+       </surname>
+       <given-names>
+        NJ
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Foidart
+       </surname>
+       <given-names>
+        JM
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kubista
+       </surname>
+       <given-names>
+        E
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        von Schoultz
+       </surname>
+       <given-names>
+        B
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Sismondi
+       </surname>
+       <given-names>
+        P
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Safety and efficacy of tibolone in breast-cancer patients with vasomotor symptoms: a double-blind, randomised, non-inferiority trial
+     </article-title>
+     <source>
+      Lancet Oncol
+     </source>
+     <year>
+      2009
+     </year>
+     <volume>
+      10
+     </volume>
+     <fpage>
+      135
+     </fpage>
+     <lpage>
+      146
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      19167925
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B42">
+    <label>
+     42
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Cordina-Duverger
+       </surname>
+       <given-names>
+        E
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Truong
+       </surname>
+       <given-names>
+        T
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Anger
+       </surname>
+       <given-names>
+        A
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Sanchez
+       </surname>
+       <given-names>
+        M
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Arveux
+       </surname>
+       <given-names>
+        P
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kerbrat
+       </surname>
+       <given-names>
+        P
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Risk of breast cancer by type of menopausal hormone therapy: a case-control study among post-menopausal women in France
+     </article-title>
+     <source>
+      PLoS One
+     </source>
+     <year>
+      2013
+     </year>
+     <volume>
+      8
+     </volume>
+     <elocation-id>
+      e78016
+     </elocation-id>
+     <pub-id pub-id-type="pmid">
+      24223752
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B43">
+    <label>
+     43
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Román
+       </surname>
+       <given-names>
+        M
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Sakshaug
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Graff-Iversen
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Vangen
+       </surname>
+       <given-names>
+        S
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Weiderpass
+       </surname>
+       <given-names>
+        E
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Ursin
+       </surname>
+       <given-names>
+        G
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Postmenopausal hormone therapy and the risk of breast cancer in Norway
+     </article-title>
+     <source>
+      Int J Cancer
+     </source>
+     <year>
+      2016
+     </year>
+     <volume>
+      138
+     </volume>
+     <fpage>
+      584
+     </fpage>
+     <lpage>
+      593
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      26289549
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B44">
+    <label>
+     44
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Baek
+       </surname>
+       <given-names>
+        JK
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kim
+       </surname>
+       <given-names>
+        HI
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kang
+       </surname>
+       <given-names>
+        MJ
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Seon
+       </surname>
+       <given-names>
+        KE
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kim
+       </surname>
+       <given-names>
+        EH
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Seo
+       </surname>
+       <given-names>
+        SK
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Relationship between the type of hormone replacement therapy and incidence of breast cancer in Korea
+     </article-title>
+     <source>
+      Climacteric
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      25
+     </volume>
+     <fpage>
+      516
+     </fpage>
+     <lpage>
+      522
+     </lpage>
+     <pub-id pub-id-type="pmid">
+      35674251
+     </pub-id>
+    </element-citation>
+   </ref>
+  </ref-list>
+ </back>
+ <floats-group>
+  <fig id="F1" position="float">
+   <label>
+    Fig. 1
+   </label>
+   <caption>
+    <title>
+     Effect of tibolone in the estrogen metabolism in the breast tissue. HSD: hydroxysteroid dehydrogenase.
+    </title>
+   </caption>
+   <graphic position="float" xlink:href="jmm-29-92-g001"/>
+  </fig>
+  <table-wrap id="T1" position="float">
+   <label>
+    Table 1
+   </label>
+   <caption>
+    <title>
+     Tibolone use and risk of breast cancer
+    </title>
+   </caption>
+   <alternatives>
+    <graphic position="float" xlink:href="jmm-29-92-i001"/>
+    <table frame="hsides" rules="rows">
+     <col span="1" width="26.05%"/>
+     <col span="1" width="27.81%"/>
+     <col span="1" width="28.3%"/>
+     <col span="1" width="17.85%"/>
+     <thead>
+      <tr>
+       <th align="center" colspan="1" rowspan="1" style="background-color:rgb(232,220,217)" valign="middle">
+        Study
+       </th>
+       <th align="center" colspan="1" rowspan="1" style="background-color:rgb(232,220,217)" valign="middle">
+        Description
+       </th>
+       <th align="center" colspan="1" rowspan="1" style="background-color:rgb(232,220,217)" valign="middle">
+        Population of tibolone users in the study
+        <sup>
+         a
+        </sup>
+       </th>
+       <th align="center" colspan="1" rowspan="1" style="background-color:rgb(232,220,217)" valign="middle">
+        RR of breast cancer (95% CI)
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td align="left" colspan="1" rowspan="1" valign="top">
+        Beral (2003) (Million Woman Study) [
+        <xref ref-type="bibr" rid="B35">
+         35
+        </xref>
+        ]
+       </td>
+       <td align="left" colspan="1" rowspan="1" valign="top">
+        Observational study
+       </td>
+       <td align="left" colspan="1" rowspan="1" valign="top">
+        18,186 women aged 50 to 64
+       </td>
+       <td align="center" colspan="1" rowspan="1" valign="top">
+        1.45 (1.25–1.67)
+       </td>
+      </tr>
+      <tr>
+       <td align="left" colspan="1" rowspan="1" style="background-color:rgb(243,238,236)" valign="top">
+        Cummings et al. (2008) (LIFT trial) [
+        <xref ref-type="bibr" rid="B39">
+         39
+        </xref>
+        ]
+       </td>
+       <td align="left" colspan="1" rowspan="1" style="background-color:rgb(243,238,236)" valign="top">
+        Randomized controlled trial
+       </td>
+       <td align="left" colspan="1" rowspan="1" style="background-color:rgb(243,238,236)" valign="top">
+        4,538 women with osteoporosis aged 60 to 85
+       </td>
+       <td align="center" colspan="1" rowspan="1" style="background-color:rgb(243,238,236)" valign="top">
+        0.32 (0.13–0.80)
+       </td>
+      </tr>
+      <tr>
+       <td align="left" colspan="1" rowspan="1" valign="top">
+        Opatrny et al. (2008) [
+        <xref ref-type="bibr" rid="B38">
+         38
+        </xref>
+        ]
+       </td>
+       <td align="left" colspan="1" rowspan="1" valign="top">
+        Case-control study (UK General Practice Research Database)
+       </td>
+       <td align="left" colspan="1" rowspan="1" valign="top">
+        61 cases and 385 controls aged 50–75 years
+       </td>
+       <td align="center" colspan="1" rowspan="1" valign="top">
+        0.86 (0.65–1.13)
+       </td>
+      </tr>
+      <tr>
+       <td align="left" colspan="1" rowspan="1" style="background-color:rgb(243,238,236)" valign="top">
+        Kenemans et al. (2009) (LIBERATE trial) [
+        <xref ref-type="bibr" rid="B41">
+         41
+        </xref>
+        ]
+       </td>
+       <td align="left" colspan="1" rowspan="1" style="background-color:rgb(243,238,236)" valign="top">
+        Randomized controlled trial
+       </td>
+       <td align="left" colspan="1" rowspan="1" style="background-color:rgb(243,238,236)" valign="top">
+        3,098 women treated with surgery for breast cancer (1,556 in the tibolone group and 1,542 in the placebo group)
+       </td>
+       <td align="center" colspan="1" rowspan="1" style="background-color:rgb(243,238,236)" valign="top">
+        1.40 (1.14–1.70)
+       </td>
+      </tr>
+      <tr>
+       <td align="left" colspan="1" rowspan="1" valign="top">
+        Cordina-Duverger et al. (2013) [
+        <xref ref-type="bibr" rid="B42">
+         42
+        </xref>
+        ]
+       </td>
+       <td align="left" colspan="1" rowspan="1" valign="top">
+        Case-control study
+       </td>
+       <td align="left" colspan="1" rowspan="1" valign="top">
+        17 cases and 8 controls aged 35–74 years old
+       </td>
+       <td align="center" colspan="1" rowspan="1" valign="top">
+        2.42 (0.96–6.10)
+       </td>
+      </tr>
+      <tr>
+       <td align="left" colspan="1" rowspan="1" style="background-color:rgb(243,238,236)" valign="top">
+        Román et al. (2016) [
+        <xref ref-type="bibr" rid="B43">
+         43
+        </xref>
+        ]
+       </td>
+       <td align="left" colspan="1" rowspan="1" style="background-color:rgb(243,238,236)" valign="top">
+        Observational study (Norwegian Prescription Database, the Cancer Registry of Norway)
+       </td>
+       <td align="left" colspan="1" rowspan="1" style="background-color:rgb(243,238,236)" valign="top">
+        9,420 women aged 45 to 79 years with no previous history of cancer
+       </td>
+       <td align="center" colspan="1" rowspan="1" style="background-color:rgb(243,238,236)" valign="top">
+        1.91 (1.61–2.28)
+       </td>
+      </tr>
+      <tr>
+       <td align="left" colspan="1" rowspan="1" valign="top">
+        Baek et al. (2022) [
+        <xref ref-type="bibr" rid="B44">
+         44
+        </xref>
+        ]
+       </td>
+       <td align="left" colspan="1" rowspan="1" valign="top">
+        Case-control study (Korean National Health Insurance Service database)
+       </td>
+       <td align="left" colspan="1" rowspan="1" valign="top">
+        14,250 women who used tibolone for more than 1 year aged &gt; 50 years
+       </td>
+       <td align="center" colspan="1" rowspan="1" valign="top">
+        0.77 (0.66–0.90)
+       </td>
+      </tr>
+     </tbody>
+    </table>
+   </alternatives>
+   <table-wrap-foot>
+    <fn>
+     <p>
+      RR: relative risk, CI: confidence interval, UK: United Kingdom.
+     </p>
+     <p>
+      <sup>
+       a
+      </sup>
+      Total study population are mentioned in the manuscript.
+     </p>
+    </fn>
+   </table-wrap-foot>
+  </table-wrap>
+ </floats-group>
+</article>

@@ -1,0 +1,19 @@
+Title: Enabling human-centered AI: A new junction and shared journey between AI
+  and HCI communities
+URL: http://arxiv.org/abs/2111.08460v4
+Summary: Artificial intelligence (AI) has brought benefits, but it may also cause harm
+if it is not appropriately developed. Current development is mainly driven by a
+"technology-centered" approach, causing many failures. For example, the AI
+Incident Database has documented over a thousand AI-related accidents. To
+address these challenges, a human-centered AI (HCAI) approach has been promoted
+and has received a growing level of acceptance over the last few years. HCAI
+calls for combining AI with user experience (UX) design will enable the
+development of AI systems (e.g., autonomous vehicles, intelligent user
+interfaces, or intelligent decision-making systems) to achieve its design goals
+such as usable/explainable AI, human-controlled AI, and ethical AI. While HCAI
+promotion continues, it has not specifically addressed the collaboration
+between AI and human-computer interaction (HCI) communities, resulting in
+uncertainty about what action should be taken by both sides to apply HCAI in
+developing AI systems. This Viewpoint focuses on the collaboration between the
+AI and HCI communities, which leads to nine recommendations for effective
+collaboration to enable HCAI in developing AI systems.

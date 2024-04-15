@@ -1,0 +1,2351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article article-type="editorial" dtd-version="1.3" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN?>
+ <?DTDIdentifier.IdentifierType public?>
+ <?SourceDTD.DTDName JATS-journalpublishing1-3.dtd?>
+ <?SourceDTD.Version 1.3?>
+ <?ConverterInfo.XSLTName jats2jats3.xsl?>
+ <?ConverterInfo.Version 1?>
+ <?properties open_access?>
+ <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+  <restricted-by>
+   pmc
+  </restricted-by>
+ </processing-meta>
+ <front>
+  <journal-meta>
+   <journal-id journal-id-type="nlm-ta">
+    Cancers (Basel)
+   </journal-id>
+   <journal-id journal-id-type="iso-abbrev">
+    Cancers (Basel)
+   </journal-id>
+   <journal-id journal-id-type="publisher-id">
+    cancers
+   </journal-id>
+   <journal-title-group>
+    <journal-title>
+     Cancers
+    </journal-title>
+   </journal-title-group>
+   <issn pub-type="epub">
+    2072-6694
+   </issn>
+   <publisher>
+    <publisher-name>
+     MDPI
+    </publisher-name>
+   </publisher>
+  </journal-meta>
+  <article-meta>
+   <article-id pub-id-type="pmcid">
+    10669992
+   </article-id>
+   <article-id pub-id-type="doi">
+    10.3390/cancers15225392
+   </article-id>
+   <article-id pub-id-type="publisher-id">
+    cancers-15-05392
+   </article-id>
+   <article-categories>
+    <subj-group subj-group-type="heading">
+     <subject>
+      Editorial
+     </subject>
+    </subj-group>
+   </article-categories>
+   <title-group>
+    <article-title>
+     Updates on Breast Cancer
+    </article-title>
+   </title-group>
+   <contrib-group>
+    <contrib contrib-type="author">
+     <contrib-id authenticated="true" contrib-id-type="orcid">
+      https://orcid.org/0000-0002-0374-5054
+     </contrib-id>
+     <name>
+      <surname>
+       Pesapane
+      </surname>
+      <given-names>
+       Filippo
+      </given-names>
+     </name>
+     <xref ref-type="corresp" rid="c1-cancers-15-05392">
+      *
+     </xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <contrib-id authenticated="true" contrib-id-type="orcid">
+      https://orcid.org/0000-0003-3979-8075
+     </contrib-id>
+     <name>
+      <surname>
+       Nicosia
+      </surname>
+      <given-names>
+       Luca
+      </given-names>
+     </name>
+    </contrib>
+    <contrib contrib-type="author">
+     <contrib-id authenticated="true" contrib-id-type="orcid">
+      https://orcid.org/0000-0002-3437-8939
+     </contrib-id>
+     <name>
+      <surname>
+       Cassano
+      </surname>
+      <given-names>
+       Enrico
+      </given-names>
+     </name>
+    </contrib>
+   </contrib-group>
+   <aff id="af1-cancers-15-05392">
+    Breast Imaging Division, IEO European Institute of Oncology IRCCS, 20141 Milan, Italy;
+    <email>
+     luca.nicosia@ieo.it
+    </email>
+    (L.N.);
+    <email>
+     enrico.cassano@ieo.it
+    </email>
+    (E.C.)
+   </aff>
+   <author-notes>
+    <corresp id="c1-cancers-15-05392">
+     <label>
+      *
+     </label>
+     Correspondence:
+     <email>
+      filippo.pesapane@ieo.it
+     </email>
+     ; Tel.: +39-02-57489-1
+    </corresp>
+   </author-notes>
+   <pub-date pub-type="epub">
+    <day>
+     13
+    </day>
+    <month>
+     11
+    </month>
+    <year>
+     2023
+    </year>
+   </pub-date>
+   <pub-date pub-type="collection">
+    <month>
+     11
+    </month>
+    <year>
+     2023
+    </year>
+   </pub-date>
+   <volume>
+    15
+   </volume>
+   <issue>
+    22
+   </issue>
+   <elocation-id>
+    5392
+   </elocation-id>
+   <history>
+    <date date-type="received">
+     <day>
+      20
+     </day>
+     <month>
+      9
+     </month>
+     <year>
+      2023
+     </year>
+    </date>
+    <date date-type="accepted">
+     <day>
+      09
+     </day>
+     <month>
+      11
+     </month>
+     <year>
+      2023
+     </year>
+    </date>
+   </history>
+   <permissions>
+    <copyright-statement>
+     © 2023 by the authors.
+    </copyright-statement>
+    <copyright-year>
+     2023
+    </copyright-year>
+    <license>
+     <ali:license_ref content-type="ccbylicense" specific-use="textmining" xmlns:ali="http://www.niso.org/schemas/ali/1.0/">
+      https://creativecommons.org/licenses/by/4.0/
+     </ali:license_ref>
+     <license-p>
+      Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (
+      <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+       https://creativecommons.org/licenses/by/4.0/
+      </ext-link>
+      ).
+     </license-p>
+    </license>
+   </permissions>
+  </article-meta>
+ </front>
+ <body>
+  <p>
+   This collection of 18 articles, comprising 12 original studies, 1 systematic review, and 5 reviews, is a collaborative effort by distinguished experts in breast cancer research, and it has been edited by Dr. Enrico Cassano and Dr. Filippo Pesapane, who both work at an international breast cancer referral center [
+   <xref ref-type="bibr" rid="B1-cancers-15-05392">
+    1
+   </xref>
+   ].
+  </p>
+  <p>
+   Breast cancer, a globally prevalent malignancy primarily afflicting women [
+   <xref ref-type="bibr" rid="B2-cancers-15-05392">
+    2
+   </xref>
+   ], remains a pivotal focus of medical research and innovation. In our Special Issue, titled “Updates on Breast Cancer”, we present the latest developments in breast cancer diagnostics, treatments, and patient care, offering an in-depth exploration of the multifaceted nature of breast cancer and the way in which science is transforming this field.
+  </p>
+  <p>
+   Nowadays, though precision diagnosis and personalized medicine are cornerstones of effective breast cancer management, achieving consistent and reproducible diagnostic assessments remains a challenge. Cserni B. et al. [
+   <xref ref-type="bibr" rid="B3-cancers-15-05392">
+    3
+   </xref>
+   ] introduce a groundbreaking methodology known as the ONEST (Observers Needed to Evaluate Subjective Tests) analysis. By determining the optimal number of observers required for reliable tumor-infiltrating lymphocyte categorization, ONEST has the potential to revolutionize diagnostic accuracy, providing a more robust and consistent framework for assessing breast cancer pathology.
+  </p>
+  <p>
+   Precision diagnosis also allows clinicians to understand the molecular intricacies of breast cancer. Monteiro F.L. et al. [
+   <xref ref-type="bibr" rid="B4-cancers-15-05392">
+    4
+   </xref>
+   ] performed a meticulous analysis that unveils the enigmatic role played by SETD7, a lysine N-methyltransferase, in breast cancer. Among her notable findings is the correlation between high SETD7 expression and worse recurrence-free survival in the basal-like subtype, underscoring this molecule’s clinical significance as a potential treatment-predictive marker.
+  </p>
+  <p>
+   The study of Nicosia L. et al. [
+   <xref ref-type="bibr" rid="B5-cancers-15-05392">
+    5
+   </xref>
+   ] introduces a novel nomogram aimed at predicting the likelihood of upstaging low-grade ductal carcinoma in situ in patients who have previously undergone vacuum-assisted breast biopsy, followed by surgical excision. This innovative tool leverages radiological and pathological criteria to provide a tailored framework for making treatment decisions. By identifying patients with a low risk of upstaging to infiltrating carcinomas, this nomogram has the potential to reduce overtreatment and improve patient outcomes, once again showing that personalized medicine is increasingly paramount in breast cancer care.
+  </p>
+  <p>
+   Radiomics and artificial intelligence (AI) are also driving significant advances in precision diagnosis. Petrillo et al. [
+   <xref ref-type="bibr" rid="B6-cancers-15-05392">
+    6
+   </xref>
+   ] launch a comprehensive investigation, leveraging radiomics features derived from contrast-enhanced mammography to predict various histological outcomes.
+  </p>
+  <p>
+   Radiomics, the extraction and analysis of quantitative features from medical images, holds promise in terms of providing valuable information beyond what the human eye can perceive [
+   <xref ref-type="bibr" rid="B7-cancers-15-05392">
+    7
+   </xref>
+   ,
+   <xref ref-type="bibr" rid="B8-cancers-15-05392">
+    8
+   </xref>
+   ,
+   <xref ref-type="bibr" rid="B9-cancers-15-05392">
+    9
+   </xref>
+   ]. The results of Petrillo et al.’s study rested on the analysis of a staggering 837 textural metrics that demonstrate an accuracy of 88.98%, enabling the differentiation of malignant and benign lesions. Beyond this distinction, the study attempted to predict histological grading, the presence of hormone receptors, and the status of human epidermal growth factor receptor 2 (HER2) in breast cancer patients.
+  </p>
+  <p>
+   As we continue to harness the capabilities of radiomics and AI, we move closer to developing more effective breast cancer management practices, offering hope and improved prospects for afflicted women.
+  </p>
+  <p>
+   Mohammad Alkhaleefah M. et al. [
+   <xref ref-type="bibr" rid="B10-cancers-15-05392">
+    10
+   </xref>
+   ] present an innovative deep learning model named Connected-SegNets. This model is engineered for the precise segmentation of breast tumors from X-ray images, incorporating skip connections between layers, thus replacing the conventional loss function with intersection over union to fortify robustness against noise during training.
+  </p>
+  <p>
+   These findings all highlight the immense potential of radiomics and AI in the realm of breast cancer care [
+   <xref ref-type="bibr" rid="B7-cancers-15-05392">
+    7
+   </xref>
+   ,
+   <xref ref-type="bibr" rid="B8-cancers-15-05392">
+    8
+   </xref>
+   ,
+   <xref ref-type="bibr" rid="B9-cancers-15-05392">
+    9
+   </xref>
+   ]. However, while the integration of AI into radiology is revolutionizing breast cancer diagnosis, continuing to focus on the patient and preserving the doctor–patient relationship is crucial. Derevianko et al.’s study [
+   <xref ref-type="bibr" rid="B11-cancers-15-05392">
+    11
+   </xref>
+   ] delves into the impact of AI on doctor–patient communication, particularly within the context of cancer diagnosis. Their systematic review emphasizes the need for transparent and informative communication to establish patient trust in AI-driven diagnostic processes, ultimately improving healthcare interactions. Ad it remains uncertain to what extent and under which conditions the general population will embrace the use of AI [
+   <xref ref-type="bibr" rid="B12-cancers-15-05392">
+    12
+   </xref>
+   ], this study highlights the need to conduct larger-scale research to better understand women’s demands and concerns regarding the potential applications of AI in breast cancer care.
+  </p>
+  <p>
+   In addition to these improvements in breast cancer diagnosis, advances in postoperative surveillance have significantly contributed to the improved survival rates identified in breast cancer patients. Yang L. et al. [
+   <xref ref-type="bibr" rid="B13-cancers-15-05392">
+    13
+   </xref>
+   ] present a multicenter real-world study conducted across medical centers in China. Their study investigates the prognostic value of intensive postoperative bone scans for patients with breast cancer and bone metastasis. The findings provide compelling evidence of the benefits of this screening method, showcasing its potential to extend both overall survival and overall survival after bone metastasis.
+  </p>
+  <p>
+   Despite such improvement, in a breast cancer scenario, triple-negative breast cancer (TNBC) remains a formidable clinical challenge due to its limited therapeutic options. Kholod O. et al. [
+   <xref ref-type="bibr" rid="B14-cancers-15-05392">
+    14
+   </xref>
+   ] decode the immune-related gene signatures that hold the key to predicting chemoimmunotherapy outcomes in TNBC patients, analyzing a vast dataset encompassing 422 patients across 24 studies. Through an algorithmic approach, they categorize patients into 12 homogenous subgroups based on various parameters, including tumor mutational burden, relapse status, tumor cellularity, menopausal status, and tumor stage.
+  </p>
+  <p>
+   A comprehensive analysis of the clinical utility of genomic tests in breast cancer care is provided by Galland et al. [
+   <xref ref-type="bibr" rid="B15-cancers-15-05392">
+    15
+   </xref>
+   ], who explore the clinical utility of genomic tests evaluating homologous recombination repair deficiency in breast cancer treatment decisions. Moreover, Safe S. et al. [
+   <xref ref-type="bibr" rid="B16-cancers-15-05392">
+    16
+   </xref>
+   ] show the roles played by the aryl hydrocarbon receptor and its ligands in breast cancer progression and the potentialities for homologous recombination repair deficiency in early and metastatic breast cancer. Finally, Valenzuela-Palomo et al. [
+   <xref ref-type="bibr" rid="B17-cancers-15-05392">
+    17
+   </xref>
+   ] delve into the impacts of these variants on splicing, a crucial step in gene expression regulation. Their use of minigene assays to analyze 16 PALB2 variants at intron/exon boundaries reveals that 12 of these variants disrupt splicing, with 6 variants being classified as likely pathogenic in nature. This study offers essential insights into the clinical management of carrier patients and their families, enabling tailored prevention and therapy protocols.
+  </p>
+  <p>
+   Our Special Issue exceeds the traditional boundaries of breast cancer research, exploring a diverse array of topics that all enrich our understanding of this complex disease. From the characterization of circulating tumor cells using cutting-edge technology like the Parsortix
+   <sup>
+    ®
+   </sup>
+   PC1 System [
+   <xref ref-type="bibr" rid="B18-cancers-15-05392">
+    18
+   </xref>
+   ] to investigating the clinical landscape of HER2-Low breast cancer [
+   <xref ref-type="bibr" rid="B19-cancers-15-05392">
+    19
+   </xref>
+   ], these studies broaden our horizons. With regard to radiation therapy, which is a crucial component of breast cancer treatment, Riaz et al. [
+   <xref ref-type="bibr" rid="B20-cancers-15-05392">
+    20
+   </xref>
+   ] analyze recent advances in optimizing radiation therapy decisions for early invasive breast cancer. Their exploration of strategies to identify patients who may benefit from tailored radiation therapy regimens shows a commitment to enhancing patient care and outcomes. Lastly, Zahari et al. [
+   <xref ref-type="bibr" rid="B21-cancers-15-05392">
+    21
+   </xref>
+   ] provide a review of the role played by the cancer cell secretome in breast cancer progression, explaining how the secretome shapes the tumor microenvironment, influences treatment resistance, and offer insights into potential therapeutic strategies targeting its components.
+  </p>
+  <p>
+   In conclusion, our Special Issue, titled “Updates on Breast Cancer,” shows the remarkable progress taking place within the field of breast cancer research. Technological innovations like radiomics and AI, together with the collective efforts of dedicated researchers, have paved the way for precision diagnosis, enhanced treatment strategies, and more personalized patient care. As we journey through this compendium of research, we are reminded that the pursuit of knowledge and innovation is limitless. The future of breast cancer care is being shaped right now, guided by the dedication and unwavering commitment of the scientific community. We invite our readers to help us to embrace these advancements, as we look forward to a brighter and more promising future in the battle against breast cancer.
+  </p>
+ </body>
+ <back>
+  <fn-group>
+   <fn>
+    <p>
+     <bold>
+      Disclaimer/Publisher’s Note:
+     </bold>
+     The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+    </p>
+   </fn>
+  </fn-group>
+  <notes notes-type="COI-statement">
+   <title>
+    Conflicts of Interest
+   </title>
+   <p>
+    The authors declare no conflict of interest.
+   </p>
+  </notes>
+  <ref-list>
+   <title>
+    References
+   </title>
+   <ref id="B1-cancers-15-05392">
+    <label>
+     1.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Pesapane
+       </surname>
+       <given-names>
+        F.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Penco
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Rotili
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Nicosia
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Bozzini
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Trentin
+       </surname>
+       <given-names>
+        C.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Dominelli
+       </surname>
+       <given-names>
+        V.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Priolo
+       </surname>
+       <given-names>
+        F.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Farina
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Marinucci
+       </surname>
+       <given-names>
+        I.
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      How we provided appropriate breast imaging practices in the epicentre of the COVID-19 outbreak in Italy
+     </article-title>
+     <source>
+      Br. J. Radiol.
+     </source>
+     <year>
+      2020
+     </year>
+     <volume>
+      93
+     </volume>
+     <fpage>
+      20200679
+     </fpage>
+     <pub-id pub-id-type="doi">
+      10.1259/bjr.20200679
+     </pub-id>
+     <?supplied-pmid 32877209?>
+     <pub-id pub-id-type="pmid">
+      32877209
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B2-cancers-15-05392">
+    <label>
+     2.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Sung
+       </surname>
+       <given-names>
+        H.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Ferlay
+       </surname>
+       <given-names>
+        J.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Siegel
+       </surname>
+       <given-names>
+        R.L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Laversanne
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Soerjomataram
+       </surname>
+       <given-names>
+        I.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Jemal
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Bray
+       </surname>
+       <given-names>
+        F.
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries
+     </article-title>
+     <source>
+      CA Cancer J. Clin.
+     </source>
+     <year>
+      2021
+     </year>
+     <volume>
+      71
+     </volume>
+     <fpage>
+      209
+     </fpage>
+     <lpage>
+      249
+     </lpage>
+     <pub-id pub-id-type="doi">
+      10.3322/caac.21660
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      33538338
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B3-cancers-15-05392">
+    <label>
+     3.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Cserni
+       </surname>
+       <given-names>
+        B.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kilmartin
+       </surname>
+       <given-names>
+        D.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        O’Loughlin
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Andreu
+       </surname>
+       <given-names>
+        X.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Bago-Horvath
+       </surname>
+       <given-names>
+        Z.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Bianchi
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Chmielik
+       </surname>
+       <given-names>
+        E.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Figueiredo
+       </surname>
+       <given-names>
+        P.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Floris
+       </surname>
+       <given-names>
+        G.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Foschini
+       </surname>
+       <given-names>
+        M.P.
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      ONEST (Observers Needed to Evaluate Subjective Tests) Analysis of Stromal Tumour-Infiltrating Lymphocytes (sTILs) in Breast Cancer and Its Limitations
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2023
+     </year>
+     <volume>
+      15
+     </volume>
+     <elocation-id>
+      1199
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers15041199
+     </pub-id>
+     <?supplied-pmid 36831541?>
+     <pub-id pub-id-type="pmid">
+      36831541
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B4-cancers-15-05392">
+    <label>
+     4.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Monteiro
+       </surname>
+       <given-names>
+        F.L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Stepanauskaite
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Williams
+       </surname>
+       <given-names>
+        C.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Helguero
+       </surname>
+       <given-names>
+        L.A.
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      SETD7 Expression Is Associated with Breast Cancer Survival Outcomes for Specific Molecular Subtypes: A Systematic Analysis of Publicly Available Datasets
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      14
+     </volume>
+     <elocation-id>
+      6029
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers14246029
+     </pub-id>
+     <?supplied-pmid 36551516?>
+     <pub-id pub-id-type="pmid">
+      36551516
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B5-cancers-15-05392">
+    <label>
+     5.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Nicosia
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Bozzini
+       </surname>
+       <given-names>
+        A.C.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Penco
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Trentin
+       </surname>
+       <given-names>
+        C.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Pizzamiglio
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Lazzeroni
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Lissidini
+       </surname>
+       <given-names>
+        G.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Veronesi
+       </surname>
+       <given-names>
+        P.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Farante
+       </surname>
+       <given-names>
+        G.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Frassoni
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      A Model to Predict Upstaging to Invasive Carcinoma in Patients Preoperatively Diagnosed with Low-Grade Ductal Carcinoma In Situ of the Breast
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      14
+     </volume>
+     <elocation-id>
+      370
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers14020370
+     </pub-id>
+     <?supplied-pmid 35053533?>
+     <pub-id pub-id-type="pmid">
+      35053533
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B6-cancers-15-05392">
+    <label>
+     6.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Petrillo
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Fusco
+       </surname>
+       <given-names>
+        R.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Di Bernardo
+       </surname>
+       <given-names>
+        E.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Petrosino
+       </surname>
+       <given-names>
+        T.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Barretta
+       </surname>
+       <given-names>
+        M.L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Porto
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Granata
+       </surname>
+       <given-names>
+        V.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Di Bonito
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Fanizzi
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Massafra
+       </surname>
+       <given-names>
+        R.
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Prediction of Breast Cancer Histological Outcome by Radiomics and Artificial Intelligence Analysis in Contrast-Enhanced Mammography
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      14
+     </volume>
+     <elocation-id>
+      2132
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers14092132
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      35565261
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B7-cancers-15-05392">
+    <label>
+     7.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Pesapane
+       </surname>
+       <given-names>
+        F.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        De Marco
+       </surname>
+       <given-names>
+        P.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Rapino
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Lombardo
+       </surname>
+       <given-names>
+        E.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Nicosia
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Tantrige
+       </surname>
+       <given-names>
+        P.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Rotili
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Bozzini
+       </surname>
+       <given-names>
+        A.C.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Penco
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Dominelli
+       </surname>
+       <given-names>
+        V.
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      How Radiomics Can Improve Breast Cancer Diagnosis and Treatment
+     </article-title>
+     <source>
+      J. Clin. Med.
+     </source>
+     <year>
+      2023
+     </year>
+     <volume>
+      12
+     </volume>
+     <elocation-id>
+      1372
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/jcm12041372
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      36835908
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B8-cancers-15-05392">
+    <label>
+     8.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Pesapane
+       </surname>
+       <given-names>
+        F.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Rotili
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Agazzi
+       </surname>
+       <given-names>
+        G.M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Botta
+       </surname>
+       <given-names>
+        F.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Raimondi
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Penco
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Dominelli
+       </surname>
+       <given-names>
+        V.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Cremonesi
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Jereczek-Fossa
+       </surname>
+       <given-names>
+        B.A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Carrafiello
+       </surname>
+       <given-names>
+        G.
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Recent Radiomics Advancements in Breast Cancer: Lessons and Pitfalls for the Next Future
+     </article-title>
+     <source>
+      Curr. Oncol.
+     </source>
+     <year>
+      2021
+     </year>
+     <volume>
+      28
+     </volume>
+     <fpage>
+      2351
+     </fpage>
+     <lpage>
+      2372
+     </lpage>
+     <pub-id pub-id-type="doi">
+      10.3390/curroncol28040217
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      34202321
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B9-cancers-15-05392">
+    <label>
+     9.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Pesapane
+       </surname>
+       <given-names>
+        F.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Suter
+       </surname>
+       <given-names>
+        M.B.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Rotili
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Penco
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Nigro
+       </surname>
+       <given-names>
+        O.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Cremonesi
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Bellomi
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Jereczek-Fossa
+       </surname>
+       <given-names>
+        B.A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Pinotti
+       </surname>
+       <given-names>
+        G.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Cassano
+       </surname>
+       <given-names>
+        E.
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Will traditional biopsy be substituted by radiomics and liquid biopsy for breast cancer diagnosis and characterisation?
+     </article-title>
+     <source>
+      Med. Oncol.
+     </source>
+     <year>
+      2020
+     </year>
+     <volume>
+      37
+     </volume>
+     <fpage>
+      29
+     </fpage>
+     <pub-id pub-id-type="doi">
+      10.1007/s12032-020-01353-1
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      32180032
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B10-cancers-15-05392">
+    <label>
+     10.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Alkhaleefah
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Tan
+       </surname>
+       <given-names>
+        T.H.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Chang
+       </surname>
+       <given-names>
+        C.H.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Wang
+       </surname>
+       <given-names>
+        T.C.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Ma
+       </surname>
+       <given-names>
+        S.C.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Chang
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Chang
+       </surname>
+       <given-names>
+        Y.L.
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Connected-SegNets: A Deep Learning Model for Breast Tumor Segmentation from X-ray Images
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      14
+     </volume>
+     <elocation-id>
+      4030
+     </elocation-id>
+     <comment>
+      Correction in
+      <italic toggle="yes">
+       Cancers
+      </italic>
+      <bold>
+       2023
+      </bold>
+      ,
+      <italic toggle="yes">
+       15
+      </italic>
+      , 2237
+     </comment>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers14164030
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      36011022
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B11-cancers-15-05392">
+    <label>
+     11.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Derevianko
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Pizzoli
+       </surname>
+       <given-names>
+        S.F.M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Pesapane
+       </surname>
+       <given-names>
+        F.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Rotili
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Monzani
+       </surname>
+       <given-names>
+        D.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Grasso
+       </surname>
+       <given-names>
+        R.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Cassano
+       </surname>
+       <given-names>
+        E.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Pravettoni
+       </surname>
+       <given-names>
+        G.
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      The Use of Artificial Intelligence (AI) in the Radiology Field: What Is the State of Doctor-Patient Communication in Cancer Diagnosis?
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2023
+     </year>
+     <volume>
+      15
+     </volume>
+     <elocation-id>
+      470
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers15020470
+     </pub-id>
+     <?supplied-pmid 36672417?>
+     <pub-id pub-id-type="pmid">
+      36672417
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B12-cancers-15-05392">
+    <label>
+     12.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Pesapane
+       </surname>
+       <given-names>
+        F.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Rotili
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Valconi
+       </surname>
+       <given-names>
+        E.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Agazzi
+       </surname>
+       <given-names>
+        G.M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Montesano
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Penco
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Nicosia
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Bozzini
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Meneghetti
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Latronico
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Women’s perceptions and attitudes to the use of AI in breast cancer screening: A survey in a cancer referral centre
+     </article-title>
+     <source>
+      Br. J. Radiol.
+     </source>
+     <year>
+      2023
+     </year>
+     <volume>
+      96
+     </volume>
+     <fpage>
+      20220569
+     </fpage>
+     <pub-id pub-id-type="doi">
+      10.1259/bjr.20220569
+     </pub-id>
+     <?supplied-pmid 36314388?>
+     <pub-id pub-id-type="pmid">
+      36314388
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B13-cancers-15-05392">
+    <label>
+     13.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Yang
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Du
+       </surname>
+       <given-names>
+        W.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Hu
+       </surname>
+       <given-names>
+        T.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Liu
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Cai
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Liu
+       </surname>
+       <given-names>
+        Q.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Yu
+       </surname>
+       <given-names>
+        Z.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Liu
+       </surname>
+       <given-names>
+        G.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Wang
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Survival in Breast Cancer Patients with Bone Metastasis: A Multicenter Real-World Study on the Prognostic Impact of Intensive Postoperative Bone Scan after Initial Diagnosis of Breast Cancer (CSBrS-023)
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      14
+     </volume>
+     <elocation-id>
+      5835
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers14235835
+     </pub-id>
+     <?supplied-pmid 36497317?>
+     <pub-id pub-id-type="pmid">
+      36497317
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B14-cancers-15-05392">
+    <label>
+     14.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Kholod
+       </surname>
+       <given-names>
+        O.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Basket
+       </surname>
+       <given-names>
+        W.I.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Mitchem
+       </surname>
+       <given-names>
+        J.B.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kaifi
+       </surname>
+       <given-names>
+        J.T.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Hammer
+       </surname>
+       <given-names>
+        R.D.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Papageorgiou
+       </surname>
+       <given-names>
+        C.N.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Shyu
+       </surname>
+       <given-names>
+        C.R.
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Immune-Related Gene Signatures to Predict the Effectiveness of Chemoimmunotherapy in Triple-Negative Breast Cancer Using Exploratory Subgroup Discovery
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      14
+     </volume>
+     <elocation-id>
+      5806
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers14235806
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      36497286
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B15-cancers-15-05392">
+    <label>
+     15.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Galland
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Roussot
+       </surname>
+       <given-names>
+        N.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Desmoulins
+       </surname>
+       <given-names>
+        I.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Mayeur
+       </surname>
+       <given-names>
+        D.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kaderbhai
+       </surname>
+       <given-names>
+        C.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Ilie
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Hennequin
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Reda
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Albuisson
+       </surname>
+       <given-names>
+        J.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Arnould
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      Clinical Utility of Genomic Tests Evaluating Homologous Recombination Repair Deficiency (HRD) for Treatment Decisions in Early and Metastatic Breast Cancer
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2023
+     </year>
+     <volume>
+      15
+     </volume>
+     <elocation-id>
+      1299
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers15041299
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      36831640
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B16-cancers-15-05392">
+    <label>
+     16.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Safe
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Zhang
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      The Role of the Aryl Hydrocarbon Receptor (AhR) and Its Ligands in Breast Cancer
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      14
+     </volume>
+     <elocation-id>
+      5574
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers14225574
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      36428667
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B17-cancers-15-05392">
+    <label>
+     17.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Valenzuela-Palomo
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Sanoguera-Miralles
+       </surname>
+       <given-names>
+        L.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Bueno-Martinez
+       </surname>
+       <given-names>
+        E.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Esteban-Sanchez
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Llinares-Burguet
+       </surname>
+       <given-names>
+        I.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Garcia-Alvarez
+       </surname>
+       <given-names>
+        A.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Perez-Segura
+       </surname>
+       <given-names>
+        P.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Gomez-Barrero
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        de la Hoya
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Velasco-Sampedro
+       </surname>
+       <given-names>
+        E.A.
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Splicing Analysis of 16 PALB2 ClinVar Variants by Minigene Assays: Identification of Six Likely Pathogenic Variants
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      14
+     </volume>
+     <elocation-id>
+      4541
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers14184541
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      36139699
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B18-cancers-15-05392">
+    <label>
+     18.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Cohen
+       </surname>
+       <given-names>
+        E.N.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Jayachandran
+       </surname>
+       <given-names>
+        G.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Moore
+       </surname>
+       <given-names>
+        R.G.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Cristofanilli
+       </surname>
+       <given-names>
+        M.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Lang
+       </surname>
+       <given-names>
+        J.E.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Khoury
+       </surname>
+       <given-names>
+        J.D.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Press
+       </surname>
+       <given-names>
+        M.F.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Kim
+       </surname>
+       <given-names>
+        K.K.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Khazan
+       </surname>
+       <given-names>
+        N.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Zhang
+       </surname>
+       <given-names>
+        Q.
+       </given-names>
+      </name>
+      <etal/>
+     </person-group>
+     <article-title>
+      A Multi-Center Clinical Study to Harvest and Characterize Circulating Tumor Cells from Patients with Metastatic Breast Cancer Using the Parsortix
+      <sup>
+       ®
+      </sup>
+      PC1 System
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      14
+     </volume>
+     <elocation-id>
+      5328
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers14215238
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      36358747
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B19-cancers-15-05392">
+    <label>
+     19.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Zhang
+       </surname>
+       <given-names>
+        H.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Peng
+       </surname>
+       <given-names>
+        Y.
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Current Biological, Pathological and Clinical Landscape of HER2-Low Breast Cancer
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2022
+     </year>
+     <volume>
+      15
+     </volume>
+     <elocation-id>
+      126
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers15010126
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      36612123
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B20-cancers-15-05392">
+    <label>
+     20.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Riaz
+       </surname>
+       <given-names>
+        N.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Jeen
+       </surname>
+       <given-names>
+        T.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Whelan
+       </surname>
+       <given-names>
+        T.J.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Nielsen
+       </surname>
+       <given-names>
+        T.O.
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Recent Advances in Optimizing Radiation Therapy Decisions in Early Invasive Breast Cancer
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2023
+     </year>
+     <volume>
+      15
+     </volume>
+     <elocation-id>
+      1260
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers15041260
+     </pub-id>
+     <pub-id pub-id-type="pmid">
+      36831598
+     </pub-id>
+    </element-citation>
+   </ref>
+   <ref id="B21-cancers-15-05392">
+    <label>
+     21.
+    </label>
+    <element-citation publication-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>
+        Zahari
+       </surname>
+       <given-names>
+        S.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Syafruddin
+       </surname>
+       <given-names>
+        S.E.
+       </given-names>
+      </name>
+      <name>
+       <surname>
+        Mohtar
+       </surname>
+       <given-names>
+        M.A.
+       </given-names>
+      </name>
+     </person-group>
+     <article-title>
+      Impact of the Cancer Cell Secretome in Driving Breast Cancer Progression
+     </article-title>
+     <source>
+      Cancers
+     </source>
+     <year>
+      2023
+     </year>
+     <volume>
+      15
+     </volume>
+     <elocation-id>
+      2653
+     </elocation-id>
+     <pub-id pub-id-type="doi">
+      10.3390/cancers15092653
+     </pub-id>
+     <?supplied-pmid 37174117?>
+     <pub-id pub-id-type="pmid">
+      37174117
+     </pub-id>
+    </element-citation>
+   </ref>
+  </ref-list>
+ </back>
+</article>

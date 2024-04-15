@@ -1,0 +1,24 @@
+Title: Effect of Bi-substitution on Structural Stability and Improved
+  Thermoelectric Performance of p-type Half-Heusler TaSbRu: A First-principles
+  Study
+URL: http://arxiv.org/abs/2008.12564v1
+Summary: Recently, Fang et al. have predicted a high ZT of 1.54 in TaSbRu alloys at
+1200 K from first-principles without considering spin-orbit interaction,
+accurate electronic structure, details of phonon scattering, and
+energy-dependent holes relaxation time. Here, we report the details of
+structural stability and thermoelectric performance of Bi-Substituted p-type
+TaSbRu from first-principles calculations considering theses important
+parameters. This indirect bandgap semiconductor (Eg=0.8 eV by TB-mBJ+SOC) has
+highly dispersive and degenerate valence bands, which lead to a maximum power
+factor, 3.8 mWm-1K-2 at 300K. As Sb-5p has a small contribution to the bandgap
+formation, the substitution of Bi on the Sb site does not cause significant
+change to the electronic structure. Although the Seebeck coefficient increases
+by Bi due to slight changes in the bandgap, electrical conductivity, and hence,
+the power factor reduces to ~3 mW m-1K-2 at 300K (50% Bi). On the other side,
+lattice thermal conductivity drops effectively to 5 from 20 W/m K as Bi
+introduces a significant contribution in the acoustic phonon region and
+intensify phonon scattering. Thus, ZT value is improved through
+Bi-substitution, reaching 1.1 (50% Bi) at 1200 K from 0.45 (pure TaSbRu) only.
+Therefore, the present study suggests how to improve the TE performance of
+Sb-based half-Heusler compounds and TaSbRu (with 50% Bi) is a promising
+material for high-temperature applications.

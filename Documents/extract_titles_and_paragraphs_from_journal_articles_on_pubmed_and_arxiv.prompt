@@ -1,0 +1,33 @@
+
+Prompt: 
+
+I want to extract titles and paragraphs of journal articles downloaded from PubMed.org, Arxiv.org and other research sites in XML formats.  Then I want to create summaries from these extracts. 
+
+	https://pubmed.ncbi.nlm.nih.gov/
+	https://www.arxiv.org 
+
+if available, use published XML schemas for these websites.  
+
+
+Extract the Title of an article from this tag path
+
+<body><sec id="Sec{N}"><title> 
+	where N represents title elements from 1 to N
+	
+	for this tag instance: 
+		<body><sec id="Sec1"><title>Introduction</title>
+
+Extract all paragraphs from this tag path:
+
+	<body><sec id="Sec{N}"><p id="Par{N}"> 
+		where N represents paragraph elements from 1 to N
+		
+	<p id="Par10">
+			<p id="Par10">
+    The suppressive role of oncogenesis of autophagy is demonstrated by its capacity to eliminate damaged organelles and proteins, control inflammatory responses, protect gene stability to maintain cellular homeostasis and restrain tumor cell dissemination and invasion from their primary sites [
+    <xref ref-type="bibr" rid="CR28">
+     28
+    </xref>
+    ]. In addition, when certain autophagy-related proteins are abnormally expressed, they hinder the initiation of autophagy, thereby promoting tumor growth, proliferation, dissemination and invasion. For instance, Beclin 1, a key protein involved in autophagosome formation, has exhibited reduced expression in patients afflicted with breast, cervical, and pancreatic cancers. This decline in Beclin 1 levels suggests that inhibition of autophagy may enhance tumor growth and proliferation 
+
+   </p>

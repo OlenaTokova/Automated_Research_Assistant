@@ -1,0 +1,11 @@
+Found articles related to 'big data':
+
+Title: Big Data Research on Severe Asthma.
+Link: https://doi.org/10.4046/trd.2023.0186
+
+Title: Illness trajectories in the age of big data.
+Link: https://doi.org/10.1136/bmj.q510
+
+Title: Editorial: Medical big data in cancer research.
+Link: https://doi.org/10.3389/fmolb.2024.1395607
+

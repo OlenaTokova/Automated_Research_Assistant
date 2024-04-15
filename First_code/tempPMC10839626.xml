@@ -1,0 +1,5768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article article-type="research-article" dtd-version="1.3" id="cjp212364" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?>
+ <?DTDIdentifier.IdentifierType public?>
+ <?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?>
+ <?SourceDTD.Version 1.1?>
+ <?ConverterInfo.XSLTName jats-oasis2jats3.xsl?>
+ <?ConverterInfo.Version 1?>
+ <?properties open_access?>
+ <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+  <restricted-by>
+   pmc
+  </restricted-by>
+ </processing-meta>
+ <front>
+  <journal-meta>
+   <journal-id journal-id-type="nlm-ta">
+    J Pathol Clin Res
+   </journal-id>
+   <journal-id journal-id-type="iso-abbrev">
+    J Pathol Clin Res
+   </journal-id>
+   <journal-id journal-id-type="doi">
+    10.1002/(ISSN)2056-4538
+   </journal-id>
+   <journal-id journal-id-type="publisher-id">
+    CJP2
+   </journal-id>
+   <journal-title-group>
+    <journal-title>
+     The Journal of Pathology: Clinical Research
+    </journal-title>
+   </journal-title-group>
+   <issn pub-type="epub">
+    2056-4538
+   </issn>
+   <publisher>
+    <publisher-name>
+     John Wiley &amp; Sons, Inc.
+    </publisher-name>
+    <publisher-loc>
+     Hoboken, USA
+    </publisher-loc>
+   </publisher>
+  </journal-meta>
+  <article-meta>
+   <article-id pub-id-type="pmcid">
+    10839626
+   </article-id>
+   <article-id pub-id-type="doi">
+    10.1002/2056-4538.12364
+   </article-id>
+   <article-id pub-id-type="publisher-id">
+    CJP212364
+   </article-id>
+   <article-categories>
+    <subj-group subj-group-type="overline">
+     <subject>
+      Original Article
+     </subject>
+    </subj-group>
+    <subj-group subj-group-type="heading">
+     <subject>
+      Original Articles
+     </subject>
+    </subj-group>
+   </article-categories>
+   <title-group>
+    <article-title>
+     <styled-content style="fixed-case" toggle="no">
+      NDRG1
+     </styled-content>
+     is a prognostic biomarker in breast cancer and breast cancer brain metastasis
+    </article-title>
+    <alt-title alt-title-type="right-running-head">
+     <styled-content style="fixed-case" toggle="no">
+      NDRG1
+     </styled-content>
+     in breast cancer brain metastases
+    </alt-title>
+    <alt-title alt-title-type="left-running-head">
+     V Joshi
+     <italic toggle="no">
+      et al
+     </italic>
+    </alt-title>
+   </title-group>
+   <contrib-group>
+    <contrib contrib-type="author" id="cjp212364-cr-0001">
+     <name>
+      <surname>
+       Joshi
+      </surname>
+      <given-names>
+       Vaibhavi
+      </given-names>
+     </name>
+     <contrib-id authenticated="false" contrib-id-type="orcid">
+      https://orcid.org/0000-0002-1309-1664
+     </contrib-id>
+     <xref ref-type="aff" rid="cjp212364-aff-0001">
+      <sup>
+       1
+      </sup>
+     </xref>
+    </contrib>
+    <contrib contrib-type="author" id="cjp212364-cr-0002">
+     <name>
+      <surname>
+       Stacey
+      </surname>
+      <given-names>
+       Andrew
+      </given-names>
+     </name>
+     <xref ref-type="aff" rid="cjp212364-aff-0001">
+      <sup>
+       1
+      </sup>
+     </xref>
+    </contrib>
+    <contrib contrib-type="author" id="cjp212364-cr-0003">
+     <name>
+      <surname>
+       Feng
+      </surname>
+      <given-names>
+       Yufan
+      </given-names>
+     </name>
+     <contrib-id authenticated="false" contrib-id-type="orcid">
+      https://orcid.org/0000-0002-3449-6636
+     </contrib-id>
+     <xref ref-type="aff" rid="cjp212364-aff-0001">
+      <sup>
+       1
+      </sup>
+     </xref>
+    </contrib>
+    <contrib contrib-type="author" id="cjp212364-cr-0004">
+     <name>
+      <surname>
+       Kalita‐de Croft
+      </surname>
+      <given-names>
+       Priyakshi
+      </given-names>
+     </name>
+     <contrib-id authenticated="false" contrib-id-type="orcid">
+      https://orcid.org/0000-0001-8877-7655
+     </contrib-id>
+     <xref ref-type="aff" rid="cjp212364-aff-0001">
+      <sup>
+       1
+      </sup>
+     </xref>
+    </contrib>
+    <contrib contrib-type="author" id="cjp212364-cr-0005">
+     <name>
+      <surname>
+       Duijf
+      </surname>
+      <given-names>
+       Pascal HG
+      </given-names>
+     </name>
+     <contrib-id authenticated="false" contrib-id-type="orcid">
+      https://orcid.org/0000-0001-8646-9843
+     </contrib-id>
+     <xref ref-type="aff" rid="cjp212364-aff-0002">
+      <sup>
+       2
+      </sup>
+     </xref>
+    </contrib>
+    <contrib contrib-type="author" id="cjp212364-cr-0006">
+     <name>
+      <surname>
+       Simpson
+      </surname>
+      <given-names>
+       Peter T
+      </given-names>
+     </name>
+     <contrib-id authenticated="false" contrib-id-type="orcid">
+      https://orcid.org/0000-0002-4816-8289
+     </contrib-id>
+     <xref ref-type="aff" rid="cjp212364-aff-0001">
+      <sup>
+       1
+      </sup>
+     </xref>
+    </contrib>
+    <contrib contrib-type="author" corresp="yes" id="cjp212364-cr-0007">
+     <name>
+      <surname>
+       Lakhani
+      </surname>
+      <given-names>
+       Sunil R
+      </given-names>
+     </name>
+     <contrib-id authenticated="false" contrib-id-type="orcid">
+      https://orcid.org/0000-0003-4067-2760
+     </contrib-id>
+     <xref ref-type="aff" rid="cjp212364-aff-0001">
+      <sup>
+       1
+      </sup>
+     </xref>
+     <xref ref-type="aff" rid="cjp212364-aff-0003">
+      <sup>
+       3
+      </sup>
+     </xref>
+     <address>
+      <email>
+       s.lakhani@uq.edu.au
+      </email>
+     </address>
+    </contrib>
+    <contrib contrib-type="author" corresp="yes" id="cjp212364-cr-0008">
+     <name>
+      <surname>
+       McCart Reed
+      </surname>
+      <given-names>
+       Amy E
+      </given-names>
+     </name>
+     <contrib-id authenticated="false" contrib-id-type="orcid">
+      https://orcid.org/0000-0001-5387-2791
+     </contrib-id>
+     <xref ref-type="aff" rid="cjp212364-aff-0001">
+      <sup>
+       1
+      </sup>
+     </xref>
+     <address>
+      <email>
+       amy.reed@uq.edu.au
+      </email>
+     </address>
+    </contrib>
+   </contrib-group>
+   <aff id="cjp212364-aff-0001">
+    <label>
+     <sup>
+      1
+     </sup>
+    </label>
+    <named-content content-type="organisation-division">
+     UQ Centre for Clinical Research, Faculty of Medicine
+    </named-content>
+    <institution>
+     The University of Queensland
+    </institution>
+    <city>
+     Brisbane
+    </city>
+    <country country="AU">
+     Australia
+    </country>
+   </aff>
+   <aff id="cjp212364-aff-0002">
+    <label>
+     <sup>
+      2
+     </sup>
+    </label>
+    <named-content content-type="organisation-division">
+     Centre for Cancer Biology, Clinical and Health Sciences
+    </named-content>
+    <institution>
+     University of South Australia &amp; SA Pathology
+    </institution>
+    <city>
+     Adelaide
+    </city>
+    <country country="AU">
+     Australia
+    </country>
+   </aff>
+   <aff id="cjp212364-aff-0003">
+    <label>
+     <sup>
+      3
+     </sup>
+    </label>
+    <named-content content-type="organisation-division">
+     Pathology Queensland
+    </named-content>
+    <institution>
+     The Royal Brisbane and Women's Hospital
+    </institution>
+    <city>
+     Brisbane
+    </city>
+    <country country="AU">
+     Australia
+    </country>
+   </aff>
+   <author-notes>
+    <corresp id="correspondenceTo">
+     <label>
+      *
+     </label>
+     Correspondence to: Sunil R Lakhani or Amy E McCart Reed, UQ Centre for Clinical Research, Faculty of Medicine, The University of Queensland, Brisbane, Queensland 4029, Australia. E‐mail:
+     <email>
+      s.lakhani@uq.edu.au
+     </email>
+     (SR Lakhani) or E‐mail:
+     <email>
+      amy.reed@uq.edu.au
+     </email>
+     (AE McCart Reed)
+     <break/>
+    </corresp>
+   </author-notes>
+   <pub-date pub-type="epub">
+    <day>
+     05
+    </day>
+    <month>
+     2
+    </month>
+    <year>
+     2024
+    </year>
+   </pub-date>
+   <pub-date pub-type="collection">
+    <month>
+     3
+    </month>
+    <year>
+     2024
+    </year>
+   </pub-date>
+   <volume>
+    10
+   </volume>
+   <issue seq="70">
+    2
+   </issue>
+   <issue-id pub-id-type="doi">
+    10.1002/cjp2.v10.2
+   </issue-id>
+   <elocation-id>
+    e12364
+   </elocation-id>
+   <history>
+    <date date-type="rev-recd">
+     <day>
+      28
+     </day>
+     <month>
+      11
+     </month>
+     <year>
+      2023
+     </year>
+    </date>
+    <date date-type="received">
+     <day>
+      12
+     </day>
+     <month>
+      10
+     </month>
+     <year>
+      2023
+     </year>
+    </date>
+    <date date-type="accepted">
+     <day>
+      10
+     </day>
+     <month>
+      1
+     </month>
+     <year>
+      2024
+     </year>
+    </date>
+   </history>
+   <permissions>
+    <!--&#x000a9; 2024 John Wiley and Sons Ltd and The Pathological Society of Great Britain and Ireland-->
+    <copyright-statement content-type="article-copyright">
+     © 2024 The Authors.
+     <italic toggle="yes">
+      The Journal of Pathology: Clinical Research
+     </italic>
+     published by The Pathological Society of Great Britain and Ireland and John Wiley &amp; Sons Ltd.
+    </copyright-statement>
+    <license>
+     <ali:license_ref content-type="ccbylicense" specific-use="textmining" xmlns:ali="http://www.niso.org/schemas/ali/1.0/">
+      https://creativecommons.org/licenses/by/4.0/
+     </ali:license_ref>
+     <license-p>
+      This is an open access article under the terms of the
+      <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+       http://creativecommons.org/licenses/by/4.0/
+      </ext-link>
+      License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+     </license-p>
+    </license>
+   </permissions>
+   <self-uri content-type="pdf" xlink:href="file:CJP2-10-e12364.pdf"/>
+   <abstract>
+    <title>
+     Abstract
+    </title>
+    <p>
+     Brain metastases are secondary brain tumours characterised by their aggressive nature and poor prognosis. Breast cancer is one of the most common primary tumours in women to spread to the brain. A lack of biomarkers predicting likely spread to the brain and limited therapeutic interventions represents major areas of clinical unmet need. We investigated N‐myc downregulated gene‐1 (NDRG1) as a clinically relevant biomarker in breast cancer brain metastasis patients. NDRG1 expression was investigated using immunohistochemistry on tissue microarrays of two clinical cohorts: (i) brain metastatic breast cancers (
+     <italic toggle="no">
+      n
+     </italic>
+     = 48) and brain metastases (
+     <italic toggle="no">
+      n
+     </italic>
+     = 64; including a subset of 39 patient‐matched breast and brain metastasis cases) and (ii) unselected primary breast cancers (
+     <italic toggle="no">
+      n
+     </italic>
+     = 336). NDRG1 was highly expressed in breast‐to‐brain metastases, as well as in high‐grade primary breast cancers. High NDRG1 expression and also an absence of expression were associated with worse survival outcomes in both breast cancer and breast cancer brain metastasis patients. This establishes NDRG1 as a ‘Goldilocks’ protein, where too much or too little has a negative effect on survival. We pose that this accounts for its previous categorisation as both tumour suppressor and oncoprotein. Additionally, a shift in NDRG1 localisation with a gain of nuclear expression was seen at the brain metastasis stage. Significant survival benefit in cases expressing cytoplasmic NDRG1 was observed, whereas NDRG1 localisation in the nucleus showed a clear association with poorer survival.
+     <italic toggle="no">
+      In vitro
+     </italic>
+     analyses revealed that hypoxic stress significantly elevated NDRG1 expression and resulted in its nuclear localisation. Our findings suggest NDRG1 expression and subcellular localisation are clinically relevant biomarkers for poor prognosis in breast cancer and breast cancer brain metastasis.
+    </p>
+   </abstract>
+   <kwd-group kwd-group-type="author-generated">
+    <kwd id="cjp212364-kwd-0001">
+     breast cancer
+    </kwd>
+    <kwd id="cjp212364-kwd-0002">
+     brain metastasis
+    </kwd>
+    <kwd id="cjp212364-kwd-0003">
+     biomarker
+    </kwd>
+    <kwd id="cjp212364-kwd-0004">
+     NDRG1
+    </kwd>
+    <kwd id="cjp212364-kwd-0005">
+     prognosis
+    </kwd>
+    <kwd id="cjp212364-kwd-0006">
+     Goldilocks
+    </kwd>
+   </kwd-group>
+   <funding-group>
+    <award-group id="funding-0001">
+     <funding-source>
+      <institution-wrap>
+       <institution>
+        National Health and Medical Research Council
+       </institution>
+       <institution-id institution-id-type="doi">
+        10.13039/501100000925
+       </institution-id>
+      </institution-wrap>
+     </funding-source>
+     <award-id>
+      APP1113867
+     </award-id>
+    </award-group>
+   </funding-group>
+   <counts>
+    <fig-count count="6"/>
+    <table-count count="3"/>
+    <page-count count="16"/>
+    <word-count count="8444"/>
+   </counts>
+   <custom-meta-group>
+    <custom-meta>
+     <meta-name>
+      source-schema-version-number
+     </meta-name>
+     <meta-value>
+      2.0
+     </meta-value>
+    </custom-meta>
+    <custom-meta>
+     <meta-name>
+      cover-date
+     </meta-name>
+     <meta-value>
+      March 2024
+     </meta-value>
+    </custom-meta>
+    <custom-meta>
+     <meta-name>
+      details-of-publishers-convertor
+     </meta-name>
+     <meta-value>
+      Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.6 mode:remove_FC converted:05.02.2024
+     </meta-value>
+    </custom-meta>
+   </custom-meta-group>
+  </article-meta>
+  <notes>
+   <fn-group id="cjp212364-ntgp-0001">
+    <fn id="cjp212364-note-0001">
+     <p>
+      No conflicts of interest were declared.
+     </p>
+    </fn>
+   </fn-group>
+  </notes>
+ </front>
+ <body id="cjp212364-body-0001">
+  <sec id="cjp212364-sec-0001">
+   <title>
+    Introduction
+   </title>
+   <p>
+    Breast cancer (BC) is one of the most prevalent cancers in the world, the most common in women and the cause of approximately 685,000 annual deaths worldwide [
+    <xref ref-type="bibr" rid="cjp212364-bib-0001">
+     1
+    </xref>
+    ]. BC is highly heterogeneous with a range of distinct molecular and biological features. The clinical classification of BC is based on the expression of the oestrogen receptor (ER), progesterone receptor (PR) and human epidermal growth factor receptor 2 (HER2), resulting in groups of hormone receptor‐positive (ER and PR positive), HER2‐positive and triple‐negative BC [triple‐negative breast cancer (TNBC); lacking ER and PR and without HER2 amplification] [
+    <xref ref-type="bibr" rid="cjp212364-bib-0002">
+     2
+    </xref>
+    ,
+    <xref ref-type="bibr" rid="cjp212364-bib-0003">
+     3
+    </xref>
+    ,
+    <xref ref-type="bibr" rid="cjp212364-bib-0004">
+     4
+    </xref>
+    ]. BC deaths typically result from metastatic spread [
+    <xref ref-type="bibr" rid="cjp212364-bib-0005">
+     5
+    </xref>
+    ], and BC cases without metastasis (‘early stage’) are considered treatable and eligible for curative therapy, whereas metastatic BC is often considered incurable [
+    <xref ref-type="bibr" rid="cjp212364-bib-0006">
+     6
+    </xref>
+    ]. Up to 30% of patients with metastatic BC present with brain metastases (BrMs), resulting in a poor prognosis (median survival range of 7–17 months) [
+    <xref ref-type="bibr" rid="cjp212364-bib-0007">
+     7
+    </xref>
+    ]. HER2‐positive and TNBC patients are at a higher risk of developing BrMs. BrMs are aggressive, have limited treatment options and severely affect patient quality of life. A lack of treatment options is one of the major challenges in the clinical management of BrM, highlighting the requirement for developing better therapeutic approaches [
+    <xref ref-type="bibr" rid="cjp212364-bib-0008">
+     8
+    </xref>
+    ]. As such, prevention, or early detection of BrM, where surgery may be beneficial, is important for improving outcomes for patients. Indeed, predicting which patients may progress to a BrM and could, therefore, be monitored more closely is clinically important. In this study, we consider N‐myc downstream‐regulated gene 1 (NDRG1) as a potential biomarker for risk prediction of BrM progression.
+   </p>
+   <p>
+    NDRG1 has been variably reported as a metastasis suppressor, a biomarker of poor outcome and a facilitator of disease progression in many cancers [
+    <xref ref-type="bibr" rid="cjp212364-bib-0009">
+     9
+    </xref>
+    ,
+    <xref ref-type="bibr" rid="cjp212364-bib-0010">
+     10
+    </xref>
+    ]. A member of the NDRG family, NDRG1, is a 43 kDa protein with multiple reported isoforms, and its expression is associated with cellular processes such as differentiation, stress response and cell growth [
+    <xref ref-type="bibr" rid="cjp212364-bib-0011">
+     11
+    </xref>
+    ]. NDRG1 has been shown to suppress metastasis in pancreatic, ovarian and colorectal cancers, whereas in lung, cervical and hepatocellular cancers, NDRG1 has been associated with tumour progression [
+    <xref ref-type="bibr" rid="cjp212364-bib-0009">
+     9
+    </xref>
+    ]. There are limited data on the role NDRG1 plays in BC progression. Villodre
+    <italic toggle="yes">
+     et al
+    </italic>
+    demonstrated that NDRG1 is an independent factor of worse prognosis in pre‐treated inflammatory BC patients [
+    <xref ref-type="bibr" rid="cjp212364-bib-0012">
+     12
+    </xref>
+    ] and reported elevated NDRG1 expression to be linked with poorer clinical outcomes in the aggressive phenotypes of BC (HER2+, ER− or TNBC). Additionally, using publicly available datasets,
+    <italic toggle="yes">
+     NDRG1
+    </italic>
+    expression was shown to be higher in BrM compared with the corresponding primary tumours. They went on to show that over‐expression of NDRG1 drives brain metastatic progression in mouse models [
+    <xref ref-type="bibr" rid="cjp212364-bib-0013">
+     13
+    </xref>
+    ]. We present a study investigating the expression of NDRG1 in a clinical cohort of matched breast and metastatic brain tumours, and demonstrate the importance of NDRG1 subcellular localisation in prognostication.
+   </p>
+  </sec>
+  <sec id="cjp212364-sec-0002" sec-type="materials-and-methods">
+   <title>
+    Materials and methods
+   </title>
+   <sec id="cjp212364-sec-0003">
+    <title>
+     Clinical samples
+    </title>
+    <p>
+     The study has ethical approval from the Royal Brisbane Women's Hospital (RBWH) (2005/022) and The University of Queensland (2005000785) for the use of clinical data and samples from BC and BrM patients.
+    </p>
+    <p>
+     Two independent clinical cohorts were studied: (1) the Queensland Follow‐Up (QFU) cohort, which is comprised of formalin‐fixed paraffin‐embedded (FFPE) breast tumours from 336 patients that underwent breast tumour resection at the RBWH between 1987 and 1994, along with their long‐term clinical follow‐up information (median: 13.5 years; range: 0.2–42 years) and (2) the Queensland breast cancer brain metastasis (QBBM) cohort, composed of archival FFPE primary BC from brain metastatic patients (
+     <italic toggle="yes">
+      n
+     </italic>
+     = 48) and BrM samples (
+     <italic toggle="yes">
+      n
+     </italic>
+     = 64), including 39 matched BC‐BrM pairs, treated between the years 2000 and 2018. Pathology reports, clinical diagnostic information and survival data were obtained from Pathology Queensland, Queensland Health and the Queensland Cancer Registry. The clinicopathological information, such as the histological type, grade and stage, was curated. Tumours were sampled in tissue microarrays as 0.6 mm (QFU) or 1 mm (QBBM) cores for immunohistochemistry analysis. Complete treatment information is limited in these cohorts because of the historical nature of the dataset. Survival analysis was assessed as BC‐specific survival (BCSS)—calculated from the time of BC diagnosis to the last follow‐up, and BrM specific survival (BrMSS)—calculated from the time of BrM resection to the last known follow‐up.
+    </p>
+   </sec>
+   <sec id="cjp212364-sec-0004">
+    <title>
+     Immunohistochemistry
+    </title>
+    <p>
+     Antigen retrieval was performed on 4 μm sections with heat‐induced epitope retrieval in a decloaking chamber (Nexgen, Biocare Medical, Concord, CA, USA) with sodium citrate (0.01
+     <sc>
+      m
+     </sc>
+     , pH 6.0), 110 °C for 20 min. The MACH1 Universal HRP Detection Kit (Biocare Medical, LLC.) was used for visualisation. The non‐specific background staining was blocked using the MACH1 sniper blocking reagent (BioCare Medical) for 30 min, followed by overnight incubation with the NDRG1 antibody (1:250; Abcam, EPR5593). The slides were treated with MACH1 secondary antibody conjugated with universal horseradish peroxidase (HRP polymer) for 30 min at room temperature and were counterstained with haematoxylin.
+    </p>
+    <p>
+     The scoring for both patient cohorts was performed with a pathologist (AS). A positive stain was defined as &gt;1% of cells displaying unequivocal staining, whereas a negative finding was defined as &lt;1% positivity. The intensity of stained cells was scored as weak (1+), moderate (2+) and strong (3+). Additionally, the subcellular localisation pattern of protein expression was documented as either cytoplasmic or cytoplasmic + membrane (grouped under non‐nuclear staining); or nuclear and cytoplasmic ± membrane (grouped under nuclear staining).
+    </p>
+   </sec>
+   <sec id="cjp212364-sec-0005">
+    <title>
+     Cell lines and culture
+    </title>
+    <p>
+     Human BC cell lines MDA‐MB‐231 and BT‐474 were obtained from the American Type Culture Collection. Brain seeking BC cell lines MDA‐MB‐231.Br and BT‐474.Br were kindly provided by Dr. Dihua Yu (MD Anderson Cancer Center, Houston, TX, USA). MDA‐MB‐231 and MDA‐MB‐231.Br were maintained in DMEM (Gibco, New York, USA; Cat# 1195065), BT‐474 and BT‐474.Br were maintained in RPMI (Gibco; Cat# 11875093) and all were supplemented with 10% foetal bovine serum (Gibco/Invitrogen, New York, USA; Cat#10099141) and antibiotic/antimycotic (Ab/Am; 1×, Gibco/Invitrogen; Cat# 11360).
+    </p>
+   </sec>
+   <sec id="cjp212364-sec-0006">
+    <title>
+     Immunofluorescence and imaging
+    </title>
+    <p>
+     Cells were seeded on autoclaved glass coverslips at a density of 0.1–0.3 × 10
+     <sup>
+      4
+     </sup>
+     cells/24 wells. Cells were cultured either in a standard incubator under normoxic conditions (21% O
+     <sub>
+      2
+     </sub>
+     ) or, in hypoxic conditions (3.8% O
+     <sub>
+      2
+     </sub>
+     ) in a O
+     <sub>
+      2
+     </sub>
+     ‐controlled incubator (Cell IQ™ CO
+     <sub>
+      2
+     </sub>
+     /O
+     <sub>
+      2
+     </sub>
+     Incubator, Panasonic) for 24 h. Cells were fixed with 4% paraformaldehyde, washed with ice cold 1× PBS and permeabilised with 0.5% Triton‐X for 5 min. Cells were blocked with 2% bovine serum albumin (BSA) in PBS for 30 min before overnight incubation with a primary antibody cocktail for NDRG1 (1:1000; Abcam, EPR5593) and Beta‐catenin (1:400; BD biosciences, 610153) in a humidified chamber. Cells were washed with PBS and then incubated with secondary antibodies [goat anti‐rabbit IgG (H + L) Alexa Flour 594, Invitrogen; goat anti‐mouse IgG Alexa Flour 488, Invitrogen] before confocal microscopy imaging. The nuclear localisation of NDRG1 was quantified using the Zeiss Zen 3.5 (blue edition) software. Regions of interest (ROI,
+     <italic toggle="yes">
+      n
+     </italic>
+     = 14) were selected, and the mean fluorescent intensity of NDRG1 within the ROI was measured and normalised to the area of the ROI. Orthogonal images from Z‐stack files were developed using the Fiji‐ImageJ software [
+     <xref ref-type="bibr" rid="cjp212364-bib-0014">
+      14
+     </xref>
+     ].
+    </p>
+   </sec>
+   <sec id="cjp212364-sec-0007">
+    <title>
+     Western blotting
+    </title>
+    <p>
+     Extracted protein samples were quantified using the Pierce BCA Protein Assay Kit (ThermoScientific, Rockford, IL, USA; Cat#23225). A total of 20 μg of each sample was resolved on 4–12% bis‐tris SDS‐PAGE gels (Bolt, Invitrogen, ThermoScientific). The separated proteins were transferred onto a PVDF membrane (polyvinylidene fluoride; Millipore, MA, USA; Cat# IPVH00010) and were blocked for 1 h with 5% BSA solution in TBS with 0.1% Tween‐20 (TBST) (Sigma Life Science, MO, USA; Cat# P2287). Membranes were probed with either NDRG1 (1:10,000 Abcam, Cambridge, UK, EPR5593) or Beta actin (1:10,000; Cell signalling, Danvers, MA, USA; Cat# 8H10D10) at 4 °C, washed thrice with TBST, incubated for 1 h with HRP linked‐secondary antibody (anti‐mouse/anti‐rabbit) and visualised with SuperSignal ECL HRP substrate (West PicoPlus, Thermo Scientific) and the Chemidoc MP Imaging System (Bio Rad, South Granville, NSW, Australia).
+    </p>
+   </sec>
+   <sec id="cjp212364-sec-0008">
+    <title>
+     <styled-content style="fixed-case" toggle="no">
+      <italic toggle="no">
+       NDRG1
+      </italic>
+     </styled-content>
+     copy number and expression in primary and brain metastatic breast cancers
+    </title>
+    <p>
+     In BC samples from The Cancer Genome Atlas (TCGA) [
+     <xref ref-type="bibr" rid="cjp212364-bib-0015">
+      15
+     </xref>
+     ] and the Metastatic Breast Cancer project (
+     <ext-link ext-link-type="uri" xlink:href="https://mbcproject.org">
+      https://mbcproject.org
+     </ext-link>
+     ) [
+     <xref ref-type="bibr" rid="cjp212364-bib-0016">
+      16
+     </xref>
+     ],
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     DNA copy number (determined using GISTIC, where gain is three copies and amplification is &gt;3) was compared with
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     mRNA expression levels (RNAseq RSEM).
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     (Ensembl ID ENSG00000104419) expression in primary BCs (
+     <italic toggle="yes">
+      n
+     </italic>
+     = 45) was also compared with the expression in matched BrMs (
+     <italic toggle="yes">
+      n
+     </italic>
+     = 45; total
+     <italic toggle="yes">
+      n
+     </italic>
+     = 90) in previously published samples [
+     <xref ref-type="bibr" rid="cjp212364-bib-0017">
+      17
+     </xref>
+     ]. Exome‐capture RNA sequencing data were batch‐corrected, and
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     expression values were represented as log
+     <sub>
+      2
+     </sub>
+     ‐transformed trimmed M of means (TMM) normalised counts per million (CPM) [i.e. log
+     <sub>
+      2
+     </sub>
+     (TMM‐CPM + 1)]. Since data were normally distributed, as determined using Kolmogorov–Smirnov tests, a two‐sided paired Student
+     <italic toggle="yes">
+      t
+     </italic>
+     test was applied to assess whether
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     expression was statistically significantly different in primary compared with matched brain metastatic BCs. Additionally,
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     (probe ID ‘g5174656_3p_s_at’) expression levels were assessed in an independent dataset comprising 19 HER2+ nonmetastatic primary BCs and 19 unmatched HER2+ BC BrMs [
+     <xref ref-type="bibr" rid="cjp212364-bib-0018">
+      18
+     </xref>
+     ]. Data were not normally distributed (
+     <italic toggle="yes">
+      p =
+     </italic>
+     0.0303; Kolmogorov–Smirnov test). Hence, to determine whether expression levels were statistically significantly different between the groups, a two‐sided Mann–Whitney
+     <italic toggle="yes">
+      U
+     </italic>
+     test was applied.
+    </p>
+   </sec>
+   <sec id="cjp212364-sec-0009">
+    <title>
+     Survival analyses of
+     <styled-content style="fixed-case" toggle="no">
+      <italic toggle="no">
+       NDRG1
+      </italic>
+     </styled-content>
+     transcript levels in breast cancer
+    </title>
+    <p>
+     Kaplan–Meier recurrence‐free survival analysis in publicly available data from BC patients was performed using the Kaplan–Meier plotter (
+     <ext-link ext-link-type="uri" xlink:href="https://kmplot.com">
+      https://kmplot.com
+     </ext-link>
+     ) [
+     <xref ref-type="bibr" rid="cjp212364-bib-0019">
+      19
+     </xref>
+     ]. The median expression of
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     (probe ID ‘200632_s_at’) was used as the cut‐off between the
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     ‐low and
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     ‐high expressing patients.
+    </p>
+   </sec>
+   <sec id="cjp212364-sec-0010">
+    <title>
+     Gene expression signatures in breast cancer
+    </title>
+    <p>
+     Single‐sample gene set enrichment analysis scores were determined using hypoxia and angiogenesis gene expression signatures in BC samples of the TCGA RNAseq dataset. Hypoxia signatures: ‘Winter’: 99‐gene expression signature [
+     <xref ref-type="bibr" rid="cjp212364-bib-0020">
+      20
+     </xref>
+     ]; ‘West’: 26‐gene signature [
+     <xref ref-type="bibr" rid="cjp212364-bib-0021">
+      21
+     </xref>
+     ]; ‘Sorensen’: 27‐gene signature [
+     <xref ref-type="bibr" rid="cjp212364-bib-0022">
+      22
+     </xref>
+     ]; ‘Seigneuric’ [
+     <xref ref-type="bibr" rid="cjp212364-bib-0023">
+      23
+     </xref>
+     ]; ‘Ragnum’: 32‐gene signature [
+     <xref ref-type="bibr" rid="cjp212364-bib-0024">
+      24
+     </xref>
+     ]; ‘Hu’: 13‐gene signature [
+     <xref ref-type="bibr" rid="cjp212364-bib-0025">
+      25
+     </xref>
+     ]; ‘Elvidge’ [
+     <xref ref-type="bibr" rid="cjp212364-bib-0026">
+      26
+     </xref>
+     ]; ‘Buffa’: 51‐gene signature [
+     <xref ref-type="bibr" rid="cjp212364-bib-0027">
+      27
+     </xref>
+     ]; and ‘HIF‐induced gene expression’: ‘Regulation of gene expression by hypoxia inducible factor’ signature from Reactome [
+     <xref ref-type="bibr" rid="cjp212364-bib-0028">
+      28
+     </xref>
+     ]. Angiogenesis signatures: ‘Masiero’: 43‐gene signature [
+     <xref ref-type="bibr" rid="cjp212364-bib-0029">
+      29
+     </xref>
+     ]; ‘integrins in angiogenesis’, were from PathCards (
+     <ext-link ext-link-type="uri" xlink:href="https://pathcards.genecards.org">
+      https://pathcards.genecards.org
+     </ext-link>
+     ) [
+     <xref ref-type="bibr" rid="cjp212364-bib-0030">
+      30
+     </xref>
+     ]. These signature scores were compared with the
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     expression levels in each sample using Spearman's rank correlations.
+    </p>
+   </sec>
+   <sec id="cjp212364-sec-0011">
+    <title>
+     Statistical analysis
+    </title>
+    <p>
+     Raw data from each experiment were analysed using GraphPad Prism (v9.0). For the multivariate survival analysis, we utilised the
+     <italic toggle="yes">
+      Survivalanalysis
+     </italic>
+     package in R [
+     <xref ref-type="bibr" rid="cjp212364-bib-0031">
+      31
+     </xref>
+     ]. The statistical tests performed for each experiment and the
+     <italic toggle="yes">
+      p
+     </italic>
+     value are indicated in the respective figure legends. A
+     <italic toggle="yes">
+      p
+     </italic>
+     value was considered significant if
+     <italic toggle="yes">
+      p
+     </italic>
+     &lt; 0.05.
+    </p>
+   </sec>
+  </sec>
+  <sec id="cjp212364-sec-0012" sec-type="results">
+   <title>
+    Results
+   </title>
+   <sec id="cjp212364-sec-0013">
+    <title>
+     <styled-content style="fixed-case" toggle="no">
+      NDRG1
+     </styled-content>
+     expression differs across breast cancer subtypes
+    </title>
+    <p>
+     To investigate NDRG1 expression in BC, we applied immunohistochemistry in an unselected, archival BC cohort of 336 patients with &gt;25 years of clinical follow‐up. Table
+     <xref ref-type="table" rid="cjp212364-tbl-0001">
+      1
+     </xref>
+     summarises the clinicopathological characteristics of the tumours. NDRG1 expression was observed in many of the cases (
+     <italic toggle="yes">
+      n
+     </italic>
+     = 239/336; 72%), and cases were stratified into groups based on the intensity of expression (NDRG1 high; 2+ and 3+, Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0001">
+      1A
+     </xref>
+     ); low (1+, Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0001">
+      1B
+     </xref>
+     ) and negative (0, Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0001">
+      1C
+     </xref>
+     ). We found significant variability in NDRG1 expression within and across the histological and hormone receptor subtypes of BC. NDRG1 high cases were enriched for invasive carcinoma‐no special type (IC‐NST), mixed types of carcinomas (excluding mixed ductal–lobular) and metaplastic BC, whereas mixed ductal–lobular invasive carcinomas showed the lowest proportion (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0001">
+      1D
+     </xref>
+     ). IC‐NST cases with low NDRG1 expression were associated with a significantly improved BCSS (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0001">
+      1E
+     </xref>
+     ;
+     <italic toggle="yes">
+      p
+     </italic>
+     = 0.0082). Conversely, NDRG1‐negative cases exhibited significantly reduced survival outcomes compared with NDRG1 low tumours (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0001">
+      1E,F
+     </xref>
+     ,
+     <italic toggle="yes">
+      p
+     </italic>
+     = 0.015). Within the tumour grades, high NDRG1 expression was enriched for Grade 3 tumours (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0001">
+      1G
+     </xref>
+     ). Considering survival, in Grade 1 and 2 tumours, cases with low NDRG1 expression showed significantly improved BCSS (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0001">
+      1H
+     </xref>
+     ), whereas no significant difference was seen in Grade 3 cases (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0001">
+      1I
+     </xref>
+     ). Within the hormone receptor subtypes, TNBC and HER2+ groups had higher proportions of NDRG1 high cases, whereas ER+ tumours showed an equal distribution of high and low NDRG1 expressions (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0001">
+      1J
+     </xref>
+     ). No survival advantage was observed for NDRG1‐low tumours in the HER2+ or TNBC group (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0001">
+      1L,M
+     </xref>
+     ); however, NDRG1‐low tumours in the ER+ group showed a significantly improved BCSS (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0001">
+      1K
+     </xref>
+     ).
+    </p>
+    <table-wrap content-type="Table" id="cjp212364-tbl-0001" position="float">
+     <label>
+      Table 1
+     </label>
+     <caption>
+      <p>
+       Clinicopathological characteristics of breast cancer tumours stratified by NDRG1 expression
+      </p>
+     </caption>
+     <table frame="hsides" rules="groups">
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <thead valign="bottom">
+       <tr style="border-bottom:solid 1px #000000">
+        <th align="left" colspan="1" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom"/>
+        <th align="center" colspan="4" rowspan="1" style="border-bottom:solid 1px #000000" valign="bottom">
+         NDRG1
+        </th>
+        <th align="left" colspan="1" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">
+         <italic toggle="yes">
+          p
+         </italic>
+         value (Chi‐square)
+        </th>
+       </tr>
+       <tr style="border-bottom:solid 1px #000000">
+        <th align="center" colspan="1" rowspan="1" valign="bottom">
+         Neg (
+         <italic toggle="yes">
+          n
+         </italic>
+         , %)
+        </th>
+        <th align="center" colspan="1" rowspan="1" valign="bottom">
+         Low (
+         <italic toggle="yes">
+          n
+         </italic>
+         , %)
+        </th>
+        <th align="center" colspan="1" rowspan="1" valign="bottom">
+         High (
+         <italic toggle="yes">
+          n
+         </italic>
+         , %)
+        </th>
+        <th align="center" colspan="1" rowspan="1" valign="bottom">
+         Total (
+         <italic toggle="yes">
+          n
+         </italic>
+         , %)
+        </th>
+       </tr>
+      </thead>
+      <tbody valign="top">
+       <tr>
+        <td align="left" colspan="6" rowspan="1" valign="top">
+         Age (years)
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         ≤50
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         22 (22)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         26 (26)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         51 (52)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         99 (100)
+        </td>
+        <td align="char" char="." colspan="1" rowspan="2" valign="top">
+         0.2977
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         &gt;50
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         63 (29)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         62 (28)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         93 (43)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         218 (100)
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="6" rowspan="1" valign="top">
+         Prognostic group
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         HER2+
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         8 (17)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         10 (21)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         29 (62)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         47 (100)
+        </td>
+        <td align="char" char="." colspan="1" rowspan="3" valign="top">
+         <bold>
+          0.0001
+         </bold>
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         ER+
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         70 (32)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         74 (34)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         74 (34)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         216 (100)
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         TNBC
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         10 (16)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         7 (11)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         45 (73)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         62 (100)
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="6" rowspan="1" valign="top">
+         Grade
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         1
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         19 (42)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         11 (25)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         15 (33)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         45 (100)
+        </td>
+        <td align="char" char="." colspan="1" rowspan="3" valign="top">
+         <bold>
+          0.0001
+         </bold>
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         2
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         54 (35)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         49 (32)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         50 (33)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         153 (100)
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         3
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         18 (13)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         32 (24)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         86 (63)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         136 (100)
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="6" rowspan="1" valign="top">
+         Lymph node status
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         Neg
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         24 (30)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         13 (17)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         42 (53)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         79 (100)
+        </td>
+        <td align="char" char="." colspan="1" rowspan="2" valign="top">
+         0.3808
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         Pos
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         23 (30)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         19 (25)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         34 (45)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         76 (100)
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="6" rowspan="1" valign="top">
+         Size (cm)
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         &lt;2
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         31 (29)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         34 (31)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         43 (40)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         108 (100)
+        </td>
+        <td align="char" char="." colspan="1" rowspan="3" valign="top">
+         0.2265
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         2–5
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         33 (31)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         21 (19)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         54 (50)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         108 (100)
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" style="padding-left:10%" valign="top">
+         &gt;5
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         9 (39)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         4 (17)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         10 (44)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         23 (100)
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <table-wrap-foot id="cjp212364-ntgp-0002">
+      <fn id="cjp212364-note-0002">
+       <p>
+        Bold font indicates significant
+        <italic toggle="yes">
+         p
+        </italic>
+        values.
+       </p>
+      </fn>
+     </table-wrap-foot>
+    </table-wrap>
+    <fig fig-type="Figure" id="cjp212364-fig-0001" position="float">
+     <label>
+      Figure 1
+     </label>
+     <caption>
+      <p>
+       NDRG1 expression in breast cancer. Representative IHC images of breast tumour cores stained with NDRG1 stratified as (A) high, (B) low and (C) negative for NDRG1 expression. (D) Chi‐square analysis of proportions of breast cancer cases with low, high and negative NDRG1 expressions compared across the histological subtypes. KM analysis of NDRG1 high, low and negative tumours for BCSS in (E) IC‐NST and (F) all tumours. (G) Chi‐square analysis of proportions of breast cancer cases with high, low, and negative NDRG1 expressions compared across tumour grades. KM analysis of NDRG1 expression and BCSS in (H) grades 1 and 2 and (I) grade 3 tumours. (J) Chi‐square analysis of proportions of breast cancer cases with high, low and negative NDRG1 expressions compared across breast cancer clinical subtypes. KM analysis of NDRG1 expression and BCSS in (K) HER2+, (L) ER+ and (M) TNBC cases. BCSS, Breast cancer‐specific survival; ER+, oestrogen receptor; HER2+, Human epidermal growth factor receptor 2; IHC, immunohistochemistry; KM, Kaplan–Meier; TNBC, triple‐negative breast cancer.
+      </p>
+     </caption>
+     <graphic id="jats-graphic-1" position="anchor" xlink:href="CJP2-10-e12364-g006"/>
+    </fig>
+   </sec>
+   <sec id="cjp212364-sec-0014">
+    <title>
+     <styled-content style="fixed-case" toggle="no">
+      NDRG1
+     </styled-content>
+     expression correlates with progression from breast cancer to brain metastasis
+    </title>
+    <p>
+     We then investigated NDRG1 expression in a cohort of BC to BrM tumours using immunohistochemistry. This cohort comprised 48 BC and 64 BrM samples, of which there were 39 patient‐matched BC‐BrM pairs. Table
+     <xref ref-type="table" rid="cjp212364-tbl-0002">
+      2
+     </xref>
+     summarises the clinicopathological characteristics of the BC‐BrM cohort based on NDRG1 expression. NDRG1 expression was first compared between the primary BC and secondary BrM tumours (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0002">
+      2A
+     </xref>
+     ). Broadly, NDRG1 expression was observed in a higher proportion of the BrMs compared with the primary BCs (
+     <italic toggle="yes">
+      p
+     </italic>
+     = 0.0475, Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0002">
+      2B
+     </xref>
+     ); a significant increase was notable in the HER2+ group (
+     <italic toggle="yes">
+      p
+     </italic>
+     = 0.0498, Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0002">
+      2C
+     </xref>
+     ). The expression pattern of NDRG1 from BC to BrM stage across each subtype is shown in Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0002">
+      2D–F
+     </xref>
+     . Within HER2+ cases, along with the significant gain in NDRG1 positivity, a shift from low to medium NDRG1 expression intensity was also observed (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0002">
+      2D
+     </xref>
+     ). Similarly, in ER+ and TNBC cases, despite no significant changes in the proportion of NDRG1‐negative cases, there was a substantial shift from the NDRG1 low and medium groups to NDRG1 high‐intensity group (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0002">
+      2E,F
+     </xref>
+     ). Kaplan–Meier analyses showed that NDRG1 positivity in the primary BC cases was significantly associated with poorer BCSS (
+     <italic toggle="yes">
+      p
+     </italic>
+     = 0.0477, Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0002">
+      2G
+     </xref>
+     ) and poorer BrMSS (
+     <italic toggle="yes">
+      p
+     </italic>
+     = 0.0318, Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0002">
+      2H
+     </xref>
+     ). No significant difference was seen in BrMSS based on NDRG1 expression in BrM (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0002">
+      2I
+     </xref>
+     ). BCSS and BrMSS within each subtype were also compared, and although no significant difference was observed, the trend of NDRG1 positivity and worse survival association was maintained (supplementary material, Figure
+     <xref ref-type="supplementary-material" rid="cjp212364-supitem-0001">
+      S1
+     </xref>
+     ).
+    </p>
+    <table-wrap content-type="Table" id="cjp212364-tbl-0002" position="float">
+     <label>
+      Table 2
+     </label>
+     <caption>
+      <p>
+       Clinicopathological characteristics of BC‐BrM tumours including 39 matched pairs stratified by NDRG1 localisation
+      </p>
+     </caption>
+     <table frame="hsides" rules="groups">
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <thead valign="bottom">
+       <tr style="border-bottom:solid 1px #000000">
+        <th align="left" colspan="2" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom"/>
+        <th align="center" colspan="3" rowspan="1" style="border-bottom:solid 1px #000000" valign="bottom">
+         NDRG1 localisation
+        </th>
+        <th align="center" colspan="1" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">
+         Total (
+         <italic toggle="yes">
+          n
+         </italic>
+         , %)
+        </th>
+        <th align="center" colspan="1" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">
+         <italic toggle="yes">
+          p
+         </italic>
+         value
+        </th>
+        <th align="center" colspan="1" rowspan="2" style="border-bottom:solid 1px #000000" valign="bottom">
+         Test
+        </th>
+       </tr>
+       <tr style="border-bottom:solid 1px #000000">
+        <th align="center" colspan="1" rowspan="1" valign="bottom">
+         Cyto and/or Cyto + memb (
+         <italic toggle="yes">
+          n
+         </italic>
+         , %)
+        </th>
+        <th align="center" colspan="1" rowspan="1" valign="bottom">
+         Nuc and/or Cyto + memb (
+         <italic toggle="yes">
+          n
+         </italic>
+         , %)
+        </th>
+        <th align="center" colspan="1" rowspan="1" valign="bottom">
+         Neg (
+         <italic toggle="yes">
+          n
+         </italic>
+         , %)
+        </th>
+       </tr>
+      </thead>
+      <tbody valign="top">
+       <tr>
+        <td align="left" colspan="8" rowspan="1" valign="top">
+         Primary BC
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="4" style="padding-left:10%" valign="top">
+         HR status
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         ER pos
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         6 (46)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         1 (8)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         6 (46)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         13 (100)
+        </td>
+        <td align="char" char="." colspan="1" rowspan="3" valign="top">
+         <bold>
+          0.0166
+         </bold>
+        </td>
+        <td align="left" colspan="1" rowspan="4" valign="top">
+         Chi‐square
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         HER2 pos
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         3 (30)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         1 (10)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         6 (60)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         10 (100)
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         TNBC
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         20 (80)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         3 (12)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         2 (8)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         25 (100)
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Total
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         29
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         5
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         14
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top"/>
+        <td align="left" colspan="1" rowspan="1" valign="top"/>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="2" style="padding-left:10%" valign="top">
+         Grade
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         1/2
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         6 (60)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         0 (0)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         4 (40)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         10 (100)
+        </td>
+        <td align="char" char="." colspan="1" rowspan="2" valign="top">
+         0.3654
+        </td>
+        <td align="left" colspan="1" rowspan="2" valign="top">
+         Chi‐square
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         3
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         22 (61)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         5 (14)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         9 (25)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         36 (100)
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="2" rowspan="1" style="padding-left:10%" valign="top">
+         Time to neurosurgery (median years)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         2.776
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         1.590
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         2.858
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top"/>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         <bold>
+          0.0440
+         </bold>
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Kruskal–Wallis
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="2" rowspan="1" valign="top">
+         Brain metastases
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         24 (34)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         37 (52)
+        </td>
+        <td align="center" colspan="1" rowspan="1" valign="top">
+         10 (14)
+        </td>
+        <td align="char" char="(" colspan="1" rowspan="1" valign="top">
+         71 (100)
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         <bold>
+          0.0001
+         </bold>
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Chi‐square
+         <xref ref-type="table-fn" rid="cjp212364-note-0004">
+          *
+         </xref>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <table-wrap-foot id="cjp212364-ntgp-0003">
+      <fn id="cjp212364-note-0003">
+       <p>
+        Bold font indicates significant
+        <italic toggle="yes">
+         p
+        </italic>
+        values.
+       </p>
+      </fn>
+      <fn id="cjp212364-note-0004">
+       <label>
+        *
+       </label>
+       <p>
+        Compared to total BC samples above.
+       </p>
+      </fn>
+     </table-wrap-foot>
+    </table-wrap>
+    <fig fig-type="Figure" id="cjp212364-fig-0002" position="float">
+     <label>
+      Figure 2
+     </label>
+     <caption>
+      <p>
+       NDRG1 expression in breast cancer brain metastasis. (A) Representative IHC images of NDRG1 expression change in patient‐matched BC‐BrM sample. (B) Chi‐square analysis of proportions of matched BC and BrM cases with positive and negative NDRG1. (C) Chi‐square analysis of proportions of BC and BrM cases with NDRG1 expression compared across BC clinical subtypes. Alluvial plot representing the change in NDRG1 expression across the primary breast cancer to secondary brain metastasis stage of tumour in (D) ER+, I HER2+ and (F) TN subtypes of BC. (G) KM analysis of NDRG1 expression and BCSS in BC tumours. (H) KM analysis of NDRG1 expression and BrMSS in BC tumours. (I) KM analysis of NDRG1 expression and BrMSS in BrM tumours. BCSS, breast cancer‐specific survival; BrMSS, brain metastasis‐specific survival; ER+, oestrogen receptor; HER2+, human epidermal growth factor receptor 2; IHC, immunohistochemistry; KM, Kaplan–Meier; TNBC, triple‐negative breast cancer.
+      </p>
+     </caption>
+     <graphic id="jats-graphic-3" position="anchor" xlink:href="CJP2-10-e12364-g002"/>
+    </fig>
+   </sec>
+   <sec id="cjp212364-sec-0015">
+    <title>
+     Nuclear localisation of
+     <styled-content style="fixed-case" toggle="no">
+      NDRG1
+     </styled-content>
+     is associated with poor prognosis
+    </title>
+    <p>
+     NDRG1 is localized in cellular compartments such as the plasma membrane, mitochondria and peri‐nuclear regions, which suggests diverse and potentially organelle‐specific functions [
+     <xref ref-type="bibr" rid="cjp212364-bib-0032">
+      32
+     </xref>
+     ]. NDRG1 displayed either cytoplasmic (C), cytoplasmic and membrane (C + M), or cytoplasmic, membrane and nuclear co‐localisation (C + M + N) patterns across our cohorts (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0003">
+      3A
+     </xref>
+     ). Nuclear NDRG1 has previously been shown to be associated with poor survival outcomes in gastric cancer [
+     <xref ref-type="bibr" rid="cjp212364-bib-0033">
+      33
+     </xref>
+     ] and has not been explored in BC or BrM. Hence, we compared the survival associations between the nuclear and non‐nuclear NDRG1 cases. The predominant phenotype in the BC cohort was non‐nuclear (C/C + M, 62.7%), with 10% of cases displaying nuclear expression (supplementary material, Figure
+     <xref ref-type="supplementary-material" rid="cjp212364-supitem-0001">
+      S2
+     </xref>
+     ). Grade 3 tumours were significantly enriched for nuclear NDRG1 expression, whereas only 5% of Grade 1 and 2 tumours showed the expression of nuclear NDRG1 (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0003">
+      3B
+     </xref>
+     ). Consistent with tumour grade, HER2+ and TNBC showed a higher proportion of cases with nuclear NDRG1 expression compared with ER+ cases, which consisted of 62% of non‐nuclear NDRG1 cases (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0003">
+      3C
+     </xref>
+     ) in BC and BC‐BrM patients. For BC patients, BCSS trended towards worse outcomes for cases with nuclear NDRG1 compared with those cases without (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0003">
+      3D
+     </xref>
+     ). BCSS for all three subtypes stratified by NDRG1 localisation did not show any significant changes in survival outcomes but showed similar trends for poor survival for cases with nuclear localisation (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0003">
+      3E–G
+     </xref>
+     ).
+    </p>
+    <fig fig-type="Figure" id="cjp212364-fig-0003" position="float">
+     <label>
+      Figure 3
+     </label>
+     <caption>
+      <p>
+       Subcellular localisation of NDRG1 in BC tumours. (A) Representative IHC images of NDRG1 localisation in BC as cytoplasmic (C), cytoplasmic + membrane (C + M) and cytoplasmic + nuclear + membrane (C + M + N). Chi‐square analysis of NDRG1 expression stratified by nuclear (C + N and/or +M) versus non‐nuclear localisations (C and/or C + M) compared across (B) tumour grade and (C) clinical BC subtypes. KM analysis of NDRG1 expression stratified by nuclear (C + N and/or +M) versus non‐nuclear localisations (C and/or C + M) and BCSS in (D) all BC tumours, (E) ER+ tumours, (F) HER2+ tumours and (G) TNBC. BCSS, breast cancer‐specific survival; ER+, oestrogen receptor; HER2+, human epidermal growth factor receptor 2; IHC, immunohistochemistry; KM, Kaplan–Meier; TNBC, triple‐negative breast cancer.
+      </p>
+     </caption>
+     <graphic id="jats-graphic-5" position="anchor" xlink:href="CJP2-10-e12364-g001"/>
+    </fig>
+    <p>
+     We then evaluated NDRG1 sub‐cellular localisation in the matched BC‐BrM pairs (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0004">
+      4A
+     </xref>
+     ) and observed a significant gain of nuclear expression in BrM compared with the original primary BC (
+     <italic toggle="yes">
+      p
+     </italic>
+     = 0.0004, Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0004">
+      4B
+     </xref>
+     ). This nuclear gain was observed across all three clinical subtypes with the most striking gain of nuclear expression in the TNBCs (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0004">
+      4C
+     </xref>
+     ). In primary BC, no significant differences in BCSS were observed (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0004">
+      4D
+     </xref>
+     ) likely because of the low numbers expressing NDRG1 in the nucleus. Equally, nuclear NDRG1 in primary BC tumours did not show any significant trend towards BrMSS, although non‐nuclear localisation is significantly associated with worse BCSS (
+     <italic toggle="yes">
+      p
+     </italic>
+     = 0.0210, Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0004">
+      4E
+     </xref>
+     ). Nuclear NDRG1 in BrM tumours did not show survival differences (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0004">
+      4F
+     </xref>
+     ), but given BrMSS is uniformly poor, it is challenging to significantly stratify further within this group. We also compared C and C + M localisations of NDRG1 with survival outcomes and saw a significant association of C + M NDRG1 expression with worse survival outcomes in BC patients, especially in ER+ patients. In BrM patients, neither nuclear nor C + M localisation showed survival associations (supplementary material, Figure
+     <xref ref-type="supplementary-material" rid="cjp212364-supitem-0001">
+      S2
+     </xref>
+     ).
+    </p>
+    <fig fig-type="Figure" id="cjp212364-fig-0004" position="float">
+     <label>
+      Figure 4
+     </label>
+     <caption>
+      <p>
+       Subcellular localisation of NDRG1 in matched BC‐BrM tumours. (A) Representative IHC image of nuclear gain in BrM between matched BC‐BrM tumour cores. Nuclear NDRG1 is indicated by blue arrows in BrM tumour. (B) Chi‐square analysis of proportions of matched BC and BrM cases stratified by NDRG1 subcellular localisation. (C) Chi‐square analysis of proportions of matched BC and BrM cases for NDRG1 subcellular localisation compared across clinical BC subtypes (HER2+, ER+ and TNBC). KM analysis of NDRG1 subcellular localisation and (D) BCSS in BC tumours, (E) BrMSS in BC tumours and (F) BrMSS in BrM tumours. BCSS, breast cancer‐specific survival; BrMSS, brain metastasis‐specific survival; ER+, oestrogen receptor; HER2+, human epidermal growth factor receptor 2; IHC, immunohistology; KM, Kaplan–Meier; TNBC, triple‐negative breast cancer.
+      </p>
+     </caption>
+     <graphic id="jats-graphic-7" position="anchor" xlink:href="CJP2-10-e12364-g003"/>
+    </fig>
+    <p>
+     We then considered the prognostic value of the NDRG1 expression and localisation status compared with standard clinicopathology variables within the QFU dataset. As shown in Table
+     <xref ref-type="table" rid="cjp212364-tbl-0003">
+      3
+     </xref>
+     , in a multivariate analysis, NDRG1 expression status adds significant prognostic value, with a lack of expression [hazard ratio (HR) = 2.33;
+     <italic toggle="yes">
+      p
+     </italic>
+     = 1.48E‐03] adding greater prognostic value than ER positivity (HR = 0.62;
+     <italic toggle="yes">
+      p
+     </italic>
+     = 1.03E‐01). While NDRG1 localisation was prognostic (HR = 1.36;
+     <italic toggle="yes">
+      p
+     </italic>
+     = 2.85E‐01), an absence of staining contributed more value in the current dataset (HR = 1.99;
+     <italic toggle="yes">
+      p
+     </italic>
+     = 1.20E‐03). Notably, HER2 status was the most prognostic variable, reflecting the historical nature of this cohort and it being pre‐HER2‐targetted therapy implementation.
+    </p>
+    <table-wrap content-type="Table" id="cjp212364-tbl-0003" position="float">
+     <label>
+      Table 3
+     </label>
+     <caption>
+      <p>
+       Multivariate analysis of clinicopathologic variables and NDRG1
+      </p>
+     </caption>
+     <table frame="hsides" rules="groups">
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <col align="left" span="1"/>
+      <thead valign="bottom">
+       <tr style="border-bottom:solid 1px #000000">
+        <th align="left" colspan="1" rowspan="1" valign="bottom"/>
+        <th align="left" colspan="1" rowspan="1" valign="bottom">
+         Variable
+        </th>
+        <th align="left" colspan="1" rowspan="1" valign="bottom">
+         Variable test
+        </th>
+        <th align="left" colspan="1" rowspan="1" valign="bottom">
+         Value
+        </th>
+        <th align="center" colspan="1" rowspan="1" valign="bottom">
+         HR
+        </th>
+        <th align="center" colspan="1" rowspan="1" valign="bottom">
+         Lower CI
+        </th>
+        <th align="center" colspan="1" rowspan="1" valign="bottom">
+         Upper CI
+        </th>
+        <th align="center" colspan="1" rowspan="1" valign="bottom">
+         <italic toggle="yes">
+          p
+         </italic>
+         value
+        </th>
+       </tr>
+      </thead>
+      <tbody valign="top">
+       <tr>
+        <td align="left" colspan="1" rowspan="6" valign="top">
+         NDRG1 expression
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         ER
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         ER: Pos
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Pos
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.62
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.35
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.10
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.03E−01
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         PR
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         PR: Pos
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Pos
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.81
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.48
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.37
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         4.25E−01
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Age
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Age: ≥50
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         ≥50
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.90
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.62
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.32
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         5.97E−01
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         NDRG1 status
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         NDRG1: High
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         High
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.39
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.83
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         2.32
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         2.10E−01
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         NDRG1 status
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         NDRG1: Neg
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Neg
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         2.33
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.38
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         3.94
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.48E−03
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         HER2
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         HER2: Pos
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Pos
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         2.78
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.77
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         4.35
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         8.23E−06
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="6" valign="top">
+         NDRG1 localisation
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         ER
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         ER: Pos
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Pos
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.58
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.33
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.01
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         5.43E−02
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         PR
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         PR: Pos
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Pos
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.80
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.47
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.35
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         4.03E−01
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Age
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Age: ≥50
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         ≥50
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.92
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.63
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.34
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         6.58E−01
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         NDRG1 localisation
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         NDRG1: Cyto + Memb and/or Nuc
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Cyto + Memb and/or Nuc
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.36
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         0.77
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         2.41
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         2.85E−01
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         NDRG1 localisation
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         NDRG1: Neg
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Neg
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.99
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.31
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         3.03
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.20E−03
+        </td>
+       </tr>
+       <tr>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         HER2
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         HER2: Pos
+        </td>
+        <td align="left" colspan="1" rowspan="1" valign="top">
+         Pos
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         2.79
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         1.78
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         4.39
+        </td>
+        <td align="char" char="." colspan="1" rowspan="1" valign="top">
+         8.27E−06
+        </td>
+       </tr>
+      </tbody>
+     </table>
+    </table-wrap>
+   </sec>
+   <sec id="cjp212364-sec-0016">
+    <title>
+     <styled-content style="fixed-case" toggle="no">
+      NDRG1
+     </styled-content>
+     expression is associated with
+     <styled-content style="fixed-case" toggle="no">
+      <italic toggle="no">
+       NDRG1
+      </italic>
+     </styled-content>
+     amplification
+    </title>
+    <p>
+     Given the association of over‐expression with poor survival, we considered that there may be a molecular origin for the increased NDRG1 expression.
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     is located on chromosome arm 8q, which is frequently gained in primary and metastatic BCs [
+     <xref ref-type="bibr" rid="cjp212364-bib-0034">
+      34
+     </xref>
+     ]. In two independent datasets, we found that
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     is frequently gained (three copies) or amplified (greater than three copies) in primary and metastatic BCs (59.7% and 63.7%, respectively; Kruskal–Wallis
+     <italic toggle="yes">
+      p
+     </italic>
+     &lt; 0.0001; Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0005">
+      5A
+     </xref>
+     ) and that this is also associated with increased NDRG1 expression (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0005">
+      5B
+     </xref>
+     ; Kruskal–Wallis
+     <italic toggle="yes">
+      p
+     </italic>
+     = 0.0002, respectively). Additionally, consistent with previous work in inflammatory BC [
+     <xref ref-type="bibr" rid="cjp212364-bib-0012">
+      12
+     </xref>
+     ], pooled primary BCs [
+     <xref ref-type="bibr" rid="cjp212364-bib-0035">
+      35
+     </xref>
+     ] and our protein data,
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     expression is associated with poor prognosis in BC (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0005">
+      5C
+     </xref>
+     ).
+    </p>
+    <fig fig-type="Figure" id="cjp212364-fig-0005" position="float">
+     <label>
+      Figure 5
+     </label>
+     <caption>
+      <p>
+       NDRG1 expression is associated with
+       <italic toggle="yes">
+        NDRG1
+       </italic>
+       amplification, poor prognosis and brain metastasis in breast cancer. NDRG1 expression levels according to
+       <italic toggle="yes">
+        NDRG1
+       </italic>
+       copy number status using The Cancer Genome Atlas (TCGA) dataset (A) and the Metastatic Breast Cancer (MBC) project dataset (B).
+       <italic toggle="yes">
+        p
+       </italic>
+       values: Kruskal–Wallis tests (KW) and Mann–Whitney
+       <italic toggle="yes">
+        U
+       </italic>
+       tests. (C) Recurrence‐free survival analysis of breast cancer patients (
+       <italic toggle="yes">
+        n
+       </italic>
+       = 4,929) using the median NDRG1 expression as the cut‐off between patients expressing low and high NDRG1 levels. HR, hazard ratio. (D) Distribution of fractions of patients with respective
+       <italic toggle="yes">
+        NDRG1
+       </italic>
+       copy number statuses in primary and metastatic breast cancers in the TCGA and MBC datasets. (E, F) NDRG1 expression levels in primary and metastatic breast cancers in 45 matched pairs (E) and 38 independent samples (F).
+       <italic toggle="yes">
+        p
+       </italic>
+       values: paired Student
+       <italic toggle="yes">
+        t
+       </italic>
+       test and Mann–Whitney
+       <italic toggle="yes">
+        U
+       </italic>
+       test, respectively.
+      </p>
+     </caption>
+     <graphic id="jats-graphic-9" position="anchor" xlink:href="CJP2-10-e12364-g004"/>
+    </fig>
+    <p>
+     We then investigated
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     copy number status and expression in primary BCs and BC BrMs. First,
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     is more frequently amplified in BrMs than in primary BCs (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0005">
+      5D
+     </xref>
+     ;
+     <italic toggle="yes">
+      p
+     </italic>
+     &lt; 0.0001). Second, in two independent datasets,
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     expression is significantly higher in BrMs than in primary BCs, both in a paired analysis of 45 primary‐metastatic cancer pairs (
+     <italic toggle="yes">
+      p
+     </italic>
+     = 0.0347; paired Student
+     <italic toggle="yes">
+      t
+     </italic>
+     test) (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0005">
+      5E
+     </xref>
+     ) and in an unpaired analysis of 90 samples (
+     <italic toggle="yes">
+      p
+     </italic>
+     = 0.0497; Mann–Whitney
+     <italic toggle="yes">
+      U
+     </italic>
+     test) (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0005">
+      5F
+     </xref>
+     ). Thus,
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     amplification and increased expression are associated with BC BrM.
+    </p>
+   </sec>
+   <sec id="cjp212364-sec-0017">
+    <title>
+     Hypoxic stress upregulates
+     <styled-content style="fixed-case" toggle="no">
+      NDRG1
+     </styled-content>
+     expression and subcellular localisation
+    </title>
+    <p>
+     We considered what might drive the localisation of NDRG1 in BC and BrMs. NDRG1 relocates to the trophoblast nucleus under hypoxic stress [
+     <xref ref-type="bibr" rid="cjp212364-bib-0036">
+      36
+     </xref>
+     ], and hypoxia is one of the major hallmarks of cancer. Tumours of the brain often create an hypoxic environment. Thus, to determine whether hypoxic stress was influencing NDRG1 localisation in BC and its metastases, we cultured MDAMB231 (TNBC) and BT474 (HER2+) and their brain metastatic derivatives (.Br) in hypoxic conditions (3.8% O
+     <sub>
+      2
+     </sub>
+     ) over a 24‐h time course. An overall increase in NDRG1 expression was observed across all four cell lines in a time‐dependent manner under hypoxic conditions compared with cells incubated under normoxia (19% O
+     <sub>
+      2
+     </sub>
+     ; Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0006">
+      6A–D
+     </xref>
+     ). This was confirmed in three independent experiments, with a significant increase at the 24‐h time point (supplementary material, Figure
+     <xref ref-type="supplementary-material" rid="cjp212364-supitem-0001">
+      S3
+     </xref>
+     ).
+    </p>
+    <fig fig-type="Figure" id="cjp212364-fig-0006" position="float">
+     <label>
+      Figure 6
+     </label>
+     <caption>
+      <p>
+       Change in NDRG1 expression under hypoxia. Representative immunoblots of NDRG1 protein expression in (A) MDAMB231, (B) MDAMB231 BR, (C) BT474 and (D) BT474 BR cells cultured under hypoxia. Confocal microscopy images of NDRG1 and Beta‐catenin expression in (E) MDAMB231, (F) MDAMB231 BR, (G) BT474 and (H) BT474 BR cells cultured under normoxia (upper panel) and hypoxia (lower panel). Schematic representation of quantification analysis method using ZEN 3.5 lite for confocal images. Quantification of nuclear NDRG1 expression in (I) MDAMB231, (J) MDAMB231 BR, (K) BT474 and (L) BT474 BR cells cultured under hypoxic and normoxic conditions. Single‐sample gene set enrichment analysis (ssGSEA) scores for (M) hypoxia signatures and (N) angiogenesis signatures compared with
+       <italic toggle="yes">
+        NDRG1
+       </italic>
+       expression using RNAseq data from breast cancers in the TCGA dataset. Colour scale: Spearman correlation
+       <italic toggle="yes">
+        R
+       </italic>
+       . Spearman
+       <italic toggle="yes">
+        p
+       </italic>
+       values: ****
+       <italic toggle="yes">
+        p
+       </italic>
+       &lt; 0.0001; ***
+       <italic toggle="yes">
+        p
+       </italic>
+       &lt; 0.001; **
+       <italic toggle="yes">
+        p
+       </italic>
+       &lt; 0.01.
+      </p>
+     </caption>
+     <graphic id="jats-graphic-11" position="anchor" xlink:href="CJP2-10-e12364-g005"/>
+    </fig>
+    <p>
+     It has also been reported that NDRG1 can modulate the nuclear translocation of beta‐catenin and hence influence epithelial‐to‐mesenchymal transition in prostate and colon cancer cells [
+     <xref ref-type="bibr" rid="cjp212364-bib-0037">
+      37
+     </xref>
+     ]. To investigate whether NDRG1 subcellular localisation correlates with beta‐catenin localisation, confocal microscopy was used. Consistent with the immunoblots, we observed that the overall NDRG1 expression was higher in cells grown under hypoxic conditions, with enrichment particularly in the cytoplasm (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0006">
+      6E–H
+     </xref>
+     ). Z‐stack images were used to assess this localisation in the YZ plane of all four cell lines. With respect to beta‐catenin, as expected, TNBC cells (MDA‐MB‐231) exhibited low and scattered expression, whereas strong membrane staining was evident in HER2+ cells (BT‐474). No change in beta‐catenin localisation or expression was found in cells between normoxic and hypoxic conditions. Quantification of nuclear NDRG1 expression was performed using the Zen3.5 Lite software, and the mean values of multiple ROIs (
+     <italic toggle="yes">
+      n
+     </italic>
+     = 14) were calculated. A significant gain in nuclear NDRG1 under hypoxia was observed for all cell lines (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0006">
+      6I–L
+     </xref>
+     ). To assess whether this association may also exist in an independent cohort of BC patients, we determined hypoxia and angiogenesis gene expression scores in BC samples from TCGA and compared these with the
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     expression levels. This revealed that eight of nine hypoxia signatures showed highly statistically significant positive associations with
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     mRNA (Spearman
+     <italic toggle="yes">
+      p
+     </italic>
+     &lt; 0.0001) (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0006">
+      6M
+     </xref>
+     ). Conversely, both angiogenesis signatures correlated negatively with
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     expression (Spearman
+     <italic toggle="yes">
+      p
+     </italic>
+     &lt; 0.01) (Figure
+     <xref ref-type="fig" rid="cjp212364-fig-0006">
+      6N
+     </xref>
+     ). Thus, these data suggest that
+     <italic toggle="yes">
+      NDRG1
+     </italic>
+     expression also increases under hypoxic conditions in BC patients.
+    </p>
+   </sec>
+  </sec>
+  <sec id="cjp212364-sec-0018" sec-type="discussion">
+   <title>
+    Discussion
+   </title>
+   <p>
+    Although NDRG1 is established as a metastasis suppressor [
+    <xref ref-type="bibr" rid="cjp212364-bib-0038">
+     38
+    </xref>
+    ], increasing evidence demonstrating its pro‐tumorigenic and pro‐metastatic roles [
+    <xref ref-type="bibr" rid="cjp212364-bib-0039">
+     39
+    </xref>
+    ,
+    <xref ref-type="bibr" rid="cjp212364-bib-0040">
+     40
+    </xref>
+    ,
+    <xref ref-type="bibr" rid="cjp212364-bib-0041">
+     41
+    </xref>
+    ] has raised intriguing questions about its biology. Berghoff
+    <italic toggle="yes">
+     et al
+    </italic>
+    recently reported the involvement of NDRG1 in BC BrM progression using
+    <italic toggle="yes">
+     in vitro
+    </italic>
+    and
+    <italic toggle="yes">
+     in vivo
+    </italic>
+    models. They reported high NDRG1 expression in slow‐cycling BC cells involved in the development of BrMs and further showed that downregulating NDRG1 resulted in a complete suppression of BrM development [
+    <xref ref-type="bibr" rid="cjp212364-bib-0042">
+     42
+    </xref>
+    ]. Villodre
+    <italic toggle="yes">
+     et al
+    </italic>
+    investigated NDRG1 in both inflammatory BC [
+    <xref ref-type="bibr" rid="cjp212364-bib-0012">
+     12
+    </xref>
+    ] and BC BrM [
+    <xref ref-type="bibr" rid="cjp212364-bib-0013">
+     13
+    </xref>
+    ], and reported that NDRG1 expression was significantly higher in ER‐negative and Grade 3 BC. They also showed depleting NDRG1 significantly reduced the colony forming, migratory and invasive properties of BC cells including the capacity of BC cells to establish BrMs.
+   </p>
+   <p>
+    Our clinicopathological analysis of NDRG1 corroborates and extends these studies. We examined a cohort of matched primary BC BrM tumours as well as a cohort of unselected BC and found NDRG1 expression in the majority of tumours in both the cohorts, further supporting NDRG1's role as an oncoprotein [
+    <xref ref-type="bibr" rid="cjp212364-bib-0015">
+     15
+    </xref>
+    ]. Conversely, a complete absence of NDRG1 also demonstrated a significant association with poor survival, arguing for its role as a tumour suppressor. Such a ‘Goldilocks’ or ‘sweet‐spot’ protein dosage is not a new concept in broader signalling pathway research but is certainly the one that can account for the previous inconsistent findings for NDRG1 across different cancer types [
+    <xref ref-type="bibr" rid="cjp212364-bib-0043">
+     43
+    </xref>
+    ,
+    <xref ref-type="bibr" rid="cjp212364-bib-0044">
+     44
+    </xref>
+    ,
+    <xref ref-type="bibr" rid="cjp212364-bib-0045">
+     45
+    </xref>
+    ].
+   </p>
+   <p>
+    Considering the high levels of NDRG1 expression, we observed a significant association with worse BCSS in our two independent cohorts, demonstrating the potential of NDRG1 as a prognostic indicator in BC. Within the matched BC‐BrM patient cohort, NDRG1 positivity was higher at the BrM stage of tumour progression. This NDRG1 gain at the BrM stage was maintained across all three BC clinical subtypes in matched cases, with the most significant shift in HER2+ cases. Unlike HER2+ cases, ER+ cases did not exhibit a shift from negative to positive NDRG1 expression at the BrM stage, but an overall gain of NDRG1 expression was still evident. In TNBC, 90% of cases were positive for NDRG1 in the primary BC itself, but the distinction observed at the BrM stage was the transition into stronger NDRG1 expression from medium and low NDRG1 cases. Considering the matched pairs of primaries to BrMs, it was clear that NDRG1 expression is activated at some point during either colonisation or expansion in the brain, with an increase in positivity and intensity shown. NDRG1 expression across tumour grades also indicated an association of NDRG1 high expression with higher tumour grade. Additionally, HER2+ and TNBC cases contained a much higher proportion of NDRG1 high cases, whereas ER+ tumours had an equal proportion of NDRG1 high and low expressions. NDRG1 high expression in both HER2+ and TNBC subtypes is likely reflective of the association of NDRG1 expression with more aggressive subtypes of BC, also confirming the work of Villodre
+    <italic toggle="yes">
+     et al
+    </italic>
+    [
+    <xref ref-type="bibr" rid="cjp212364-bib-0012">
+     12
+    </xref>
+    ].
+   </p>
+   <p>
+    NDRG1 expression in the primary BC was significantly associated with poorer BrMSS. NDRG1 has been shown to exhibit variability in its function depending on the tumour type or cell type it is expressed in. Our findings demonstrate that high NDRG1, as well as no NDRG1 expression, could potentially lead to the same clinical outcomes of poorer prognosis in BC, hinting at another layer of context‐dependent complexity.
+   </p>
+   <p>
+    At the subcellular level, NDRG1 shows a variable localisation pattern, primarily concentrated in the cytoplasm, while also being detected in the plasma membrane and to a lesser extent, the nucleus [
+    <xref ref-type="bibr" rid="cjp212364-bib-0032">
+     32
+    </xref>
+    ]. NDRG1 localisation in hepatocellular carcinoma, and prostate, colon and pancreatic cancer has been shown to have functional implications [
+    <xref ref-type="bibr" rid="cjp212364-bib-0032">
+     32
+    </xref>
+    ,
+    <xref ref-type="bibr" rid="cjp212364-bib-0046">
+     46
+    </xref>
+    ,
+    <xref ref-type="bibr" rid="cjp212364-bib-0047">
+     47
+    </xref>
+    ]. Work by Villodore
+    <italic toggle="yes">
+     et al
+    </italic>
+    and Berghoff
+    <italic toggle="yes">
+     et al
+    </italic>
+    noted cytoplasmic and membranous NDRG1 staining, but the relationship with patient prognosis has not yet been reported in BC. Nuclear expression of NDRG1 was significantly enriched for Grade 3 tumours in the BC patient cohort, as well as specifically in the HER2+ and TNBC cases. Nuclear NDRG1 expression trended towards poor BCSS, and this trend was seen across both HER2+ and TNBC subtypes. Few BC cases exhibited nuclear NDRG1 expression, similar to what was seen in the primary BC of the BC‐BrM cohort, and within the matched pairs, a significant gain of nuclear NDRG1 expression was evident at the BrM stage. Localisation changes were compared across BC and BrM and revealed that HER2+ cases were more likely to gain cytoplasmic and membranous NDRG1 expressions, whereas ER+ and TNBC tumours showed a nuclear gain. Interestingly, 80% of TNBC cases switched to a gain of nuclear expression at the BrM stage, indicating that even though most of the TNBC tumours were positive for NDRG1 expression in both BC and BrM, there was a clear distinction in the localisation of NDRG1 expression. BrMSS outcomes are limited because of the poor clinical journey of BrM patients; however, BrM cases with nuclear expression of NDRG1 still trended towards the worst BrMSS, indicating the nuclear NDRG1 association with BrM. Furthermore, our multivariate analysis shows that NDRG1 expression (either high or absent) and localisation were second only to HER2 status as prognostic variables of value.
+   </p>
+   <p>
+    NDRG1 is a stress‐responsive protein activated under hypoxia, a central hallmark of cancer progression [
+    <xref ref-type="bibr" rid="cjp212364-bib-0048">
+     48
+    </xref>
+    ,
+    <xref ref-type="bibr" rid="cjp212364-bib-0049">
+     49
+    </xref>
+    ,
+    <xref ref-type="bibr" rid="cjp212364-bib-0050">
+     50
+    </xref>
+    ]. While NDRG1 has been shown to translocate to the nucleus under hypoxic influence in trophoblasts [
+    <xref ref-type="bibr" rid="cjp212364-bib-0036">
+     36
+    </xref>
+    ], no such response has been reported in the context of BC or its metastasis. Considering that HER2+ and TNBC tumours showed a greater enrichment overall for NDRG1, we studied BT474 and MDAMB231 cell lines in a hypoxic environment. Total NDRG1 expression was found to be significantly increased under hypoxia for multiple time points in both BT474 and MDAMB231 as well as in their brain‐seeking derivative cells, and we show concomitant nuclear enrichment. Interestingly, nuclear enrichment of NDRG1 was not observed in a similar hypoxic stress study in hepatocellular carcinoma [
+    <xref ref-type="bibr" rid="cjp212364-bib-0051">
+     51
+    </xref>
+    ]. We also identified a strong positive correlation between NDRG1 expression and hypoxia signatures in BC samples, confirming the close association between NDRG1 and hypoxia. Additionally, NDRG1 expression was found to negatively correlate with an angiogenesis signature, another hallmark process in cancer [
+    <xref ref-type="bibr" rid="cjp212364-bib-0052">
+     52
+    </xref>
+    ].
+   </p>
+   <p>
+    The exact function of NDRG1 in the nucleus remains unclear, and the lack of a nuclear localisation signal in the NDRG1 protein sequence is curious. Park
+    <italic toggle="yes">
+     et al
+    </italic>
+    previously discussed two isoforms of NDRG1: full length (FL) and truncated (T), in prostate and pancreatic cancer cells [
+    <xref ref-type="bibr" rid="cjp212364-bib-0032">
+     32
+    </xref>
+    ]. FL NDRG1 and phosphorylated NDRG1 (Ser330) were localized in the nucleus, whereas the T NDRG1 was detected in the cytoplasm only. Contrary to these findings, Shi
+    <italic toggle="yes">
+     et al
+    </italic>
+    , in their work in trophoblasts [
+    <xref ref-type="bibr" rid="cjp212364-bib-0036">
+     36
+    </xref>
+    ], showed that deletion of the N‐terminus region of NDRG1 did not influence the nuclear localisation of NDRG1 under hypoxia. Our study used a C‐terminus antibody (ab124689), which was in agreement with the Park
+    <italic toggle="yes">
+     et al
+    </italic>
+    work, and we detected both cytoplasmic and nuclear NDRG1. It is evident from our data that nuclear NDRG1 is an important consideration moving forward to further understand NDRG1's role in breast and other cancer progression. The association between nuclear staining and poorer outcome in our study may relate to the enhanced level of cellular stressors like genomic instability and hypoxia in aggressive tumours and metastases [
+    <xref ref-type="bibr" rid="cjp212364-bib-0053">
+     53
+    </xref>
+    ], but it is evident that more detailed investigation of nuclear NDRG1 is essential.
+   </p>
+   <p>
+    Taken together, our data confirm that both high NDRG1 protein expression and an absence of NDRG1 correlate with poorer outcomes in BC and also in BrM. We thus consider NDRG1 to be a ‘Goldilocks’ cancer protein, where too much or too little has a significant impact on survival. We show that nuclear localisation of NDRG1 is the prominent phenotype in BrMs and that hypoxic conditions promote an increase in expression and nuclear localisation. The function of NDRG1 in BC and its metastases remains elusive but an intriguing prospect for future studies.
+   </p>
+  </sec>
+  <sec sec-type="supplementary-material">
+   <title>
+    Supporting information
+   </title>
+   <supplementary-material content-type="local-data" id="cjp212364-supitem-0001" position="float">
+    <caption>
+     <p>
+      <bold>
+       Figure S1.
+      </bold>
+      NDRG1 expression in breast cancer brain metastasis
+     </p>
+     <p>
+      <bold>
+       Figure S2.
+      </bold>
+      KM analysis of NDRG1 subcellular localization and BCSS stratified by clinical subtype (E) ER+, (F) HER2+, and (G) TNBC
+     </p>
+     <p>
+      <bold>
+       Figure S3.
+      </bold>
+      Change in NDRG1 expression under hypoxia
+     </p>
+    </caption>
+    <media xlink:href="CJP2-10-e12364-s001.pdf">
+     <caption>
+      <p>
+       Click here for additional data file.
+      </p>
+     </caption>
+    </media>
+   </supplementary-material>
+  </sec>
+ </body>
+ <back>
+  <ack id="cjp212364-sec-0019">
+   <title>
+    Acknowledgements
+   </title>
+   <p>
+    We would like to express our gratitude to the patients and their families for their participation in this study. We also acknowledge the invaluable support of Metro North Hospital and Health Services in the collection of clinical subject data and materials.
+   </p>
+   <p>
+    This work was supported by funding from the National Health and Medical Research Council of Australia (APP1113867) to SRL.
+   </p>
+  </ack>
+  <sec id="cjp212364-sec-0029" sec-type="data-availability">
+   <title>
+    Data availability statement
+   </title>
+   <p>
+    The data that support the findings of this study are available from the corresponding author upon reasonable request.
+   </p>
+  </sec>
+  <ref-list content-type="cited-references" id="cjp212364-bibl-0001">
+   <title>
+    References
+   </title>
+   <ref id="cjp212364-bib-0001">
+    <label>
+     1
+    </label>
+    <mixed-citation id="cjp212364-cit-0001" publication-type="miscellaneous">
+     <collab collab-type="authors">
+      World Health Organisation
+     </collab>
+     .
+     <article-title>
+      Breast cancer
+     </article-title>
+     .
+     <year>
+      2023
+     </year>
+     . [Accessed 3 January 2024]. Available from:
+     <ext-link ext-link-type="uri" xlink:href="https://www.who.int/news-room/fact-sheets/detail/breast-cancer">
+      https://www.who.int/news-room/fact-sheets/detail/breast-cancer
+     </ext-link>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0002">
+    <label>
+     2
+    </label>
+    <mixed-citation id="cjp212364-cit-0002" publication-type="journal">
+     <string-name>
+      <surname>
+       Tsang
+      </surname>
+      <given-names>
+       J
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Tse
+      </surname>
+      <given-names>
+       GM
+      </given-names>
+     </string-name>
+     .
+     <article-title>
+      Molecular classification of breast cancer
+     </article-title>
+     .
+     <source>
+      Adv Anat Pathol
+     </source>
+     <year>
+      2020
+     </year>
+     ;
+     <volume>
+      27
+     </volume>
+     :
+     <fpage>
+      27
+     </fpage>
+     –
+     <lpage>
+      35
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      31045583
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0003">
+    <label>
+     3
+    </label>
+    <mixed-citation id="cjp212364-cit-0003" publication-type="journal">
+     <string-name>
+      <surname>
+       Dai
+      </surname>
+      <given-names>
+       X
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Cheng
+      </surname>
+      <given-names>
+       H
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Bai
+      </surname>
+      <given-names>
+       Z
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Breast cancer cell line classification and its relevance with breast tumor subtyping
+     </article-title>
+     .
+     <source>
+      J Cancer
+     </source>
+     <year>
+      2017
+     </year>
+     ;
+     <volume>
+      8
+     </volume>
+     :
+     <fpage>
+      3131
+     </fpage>
+     –
+     <lpage>
+      3141
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      29158785
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0004">
+    <label>
+     4
+    </label>
+    <mixed-citation id="cjp212364-cit-0004" publication-type="journal">
+     <string-name>
+      <surname>
+       do Nascimento
+      </surname>
+      <given-names>
+       RG
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Otoni
+      </surname>
+      <given-names>
+       KM
+      </given-names>
+     </string-name>
+     .
+     <article-title>
+      Histological and molecular classification of breast cancer: what do we know?
+     </article-title>
+     <source>
+      Mastology
+     </source>
+     <year>
+      2020
+     </year>
+     ;
+     <volume>
+      30
+     </volume>
+     :
+     <fpage>
+      1
+     </fpage>
+     –
+     <lpage>
+      8
+     </lpage>
+     .
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0005">
+    <label>
+     5
+    </label>
+    <mixed-citation id="cjp212364-cit-0005" publication-type="journal">
+     <string-name>
+      <surname>
+       Weigelt
+      </surname>
+      <given-names>
+       B
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Peterse
+      </surname>
+      <given-names>
+       JL
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Van't Veer
+      </surname>
+      <given-names>
+       LJ
+      </given-names>
+     </string-name>
+     .
+     <article-title>
+      Breast cancer metastasis: markers and models
+     </article-title>
+     .
+     <source>
+      Nat Rev Cancer
+     </source>
+     <year>
+      2005
+     </year>
+     ;
+     <volume>
+      5
+     </volume>
+     :
+     <fpage>
+      591
+     </fpage>
+     –
+     <lpage>
+      602
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      16056258
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0006">
+    <label>
+     6
+    </label>
+    <mixed-citation id="cjp212364-cit-0006" publication-type="journal">
+     <string-name>
+      <surname>
+       Lu
+      </surname>
+      <given-names>
+       J
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Steeg
+      </surname>
+      <given-names>
+       PS
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Price
+      </surname>
+      <given-names>
+       JE
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Breast cancer metastasis: challenges and opportunities
+     </article-title>
+     .
+     <source>
+      Cancer Res
+     </source>
+     <year>
+      2009
+     </year>
+     ;
+     <volume>
+      69
+     </volume>
+     :
+     <fpage>
+      4951
+     </fpage>
+     –
+     <lpage>
+      4953
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      19470768
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0007">
+    <label>
+     7
+    </label>
+    <mixed-citation id="cjp212364-cit-0007" publication-type="journal">
+     <string-name>
+      <surname>
+       Witzel
+      </surname>
+      <given-names>
+       I
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Laakmann
+      </surname>
+      <given-names>
+       E
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Weide
+      </surname>
+      <given-names>
+       R
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Treatment and outcomes of patients in the Brain Metastases in Breast Cancer Network Registry
+     </article-title>
+     .
+     <source>
+      Eur J Cancer
+     </source>
+     <year>
+      2018
+     </year>
+     ;
+     <volume>
+      102
+     </volume>
+     :
+     <fpage>
+      1
+     </fpage>
+     –
+     <lpage>
+      9
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      30099223
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0008">
+    <label>
+     8
+    </label>
+    <mixed-citation id="cjp212364-cit-0008" publication-type="journal">
+     <string-name>
+      <surname>
+       Colleoni
+      </surname>
+      <given-names>
+       M
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Sun
+      </surname>
+      <given-names>
+       Z
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Price
+      </surname>
+      <given-names>
+       KN
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Annual hazard rates of recurrence for breast cancer during 24 years of follow‐up: results from the international breast cancer study group trials I to V
+     </article-title>
+     .
+     <source>
+      J Clin Oncol
+     </source>
+     <year>
+      2016
+     </year>
+     ;
+     <volume>
+      34
+     </volume>
+     :
+     <fpage>
+      927
+     </fpage>
+     –
+     <lpage>
+      935
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      26786933
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0009">
+    <label>
+     9
+    </label>
+    <mixed-citation id="cjp212364-cit-0009" publication-type="journal">
+     <string-name>
+      <surname>
+       Joshi
+      </surname>
+      <given-names>
+       V
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Lakhani
+      </surname>
+      <given-names>
+       SR
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       McCart Reed
+      </surname>
+      <given-names>
+       AE
+      </given-names>
+     </string-name>
+     .
+     <article-title>
+      NDRG1 in cancer: a suppressor, promoter, or both?
+     </article-title>
+     <source>
+      Cancers (Basel)
+     </source>
+     <year>
+      2022
+     </year>
+     ;
+     <volume>
+      14
+     </volume>
+     :
+     <fpage>
+      5739
+     </fpage>
+     .
+     <pub-id pub-id-type="pmid">
+      36497221
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0010">
+    <label>
+     10
+    </label>
+    <mixed-citation id="cjp212364-cit-0010" publication-type="journal">
+     <string-name>
+      <surname>
+       Park
+      </surname>
+      <given-names>
+       KC
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Paluncic
+      </surname>
+      <given-names>
+       J
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Kovacevic
+      </surname>
+      <given-names>
+       Z
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Pharmacological targeting and the diverse functions of the metastasis suppressor, NDRG1, in cancer
+     </article-title>
+     .
+     <source>
+      Free Radic Biol Med
+     </source>
+     <year>
+      2020
+     </year>
+     ;
+     <volume>
+      157
+     </volume>
+     :
+     <fpage>
+      154
+     </fpage>
+     –
+     <lpage>
+      175
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      31132412
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0011">
+    <label>
+     11
+    </label>
+    <mixed-citation id="cjp212364-cit-0011" publication-type="journal">
+     <string-name>
+      <surname>
+       Fang
+      </surname>
+      <given-names>
+       BA
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Kovačević
+      </surname>
+      <given-names>
+       Ž
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Park
+      </surname>
+      <given-names>
+       KC
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Molecular functions of the iron‐regulated metastasis suppressor, NDRG1, and its potential as a molecular target for cancer therapy
+     </article-title>
+     .
+     <source>
+      Biochim Biophys Acta
+     </source>
+     <year>
+      2014
+     </year>
+     ;
+     <volume>
+      1845
+     </volume>
+     :
+     <fpage>
+      1
+     </fpage>
+     –
+     <lpage>
+      19
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      24269900
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0012">
+    <label>
+     12
+    </label>
+    <mixed-citation id="cjp212364-cit-0012" publication-type="journal">
+     <string-name>
+      <surname>
+       Villodre
+      </surname>
+      <given-names>
+       ES
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Gong
+      </surname>
+      <given-names>
+       Y
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Hu
+      </surname>
+      <given-names>
+       X
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      NDRG1 expression is an independent prognostic factor in inflammatory breast cancer
+     </article-title>
+     .
+     <source>
+      Cancers (Basel)
+     </source>
+     <year>
+      2020
+     </year>
+     ;
+     <volume>
+      12
+     </volume>
+     :
+     <fpage>
+      3711
+     </fpage>
+     .
+     <pub-id pub-id-type="pmid">
+      33321961
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0013">
+    <label>
+     13
+    </label>
+    <mixed-citation id="cjp212364-cit-0013" publication-type="journal">
+     <string-name>
+      <surname>
+       Villodre
+      </surname>
+      <given-names>
+       ES
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Hu
+      </surname>
+      <given-names>
+       X
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Eckhardt
+      </surname>
+      <given-names>
+       BL
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      NDRG1 in aggressive breast cancer progression and brain metastasis
+     </article-title>
+     .
+     <source>
+      J Natl Cancer Inst
+     </source>
+     <year>
+      2022
+     </year>
+     ;
+     <volume>
+      114
+     </volume>
+     :
+     <fpage>
+      579
+     </fpage>
+     –
+     <lpage>
+      591
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      34893874
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0014">
+    <label>
+     14
+    </label>
+    <mixed-citation id="cjp212364-cit-0014" publication-type="journal">
+     <string-name>
+      <surname>
+       Schneider
+      </surname>
+      <given-names>
+       CA
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Rasband
+      </surname>
+      <given-names>
+       WS
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Eliceiri
+      </surname>
+      <given-names>
+       KW
+      </given-names>
+     </string-name>
+     .
+     <article-title>
+      NIH image to ImageJ: 25 years of image analysis
+     </article-title>
+     .
+     <source>
+      Nat Methods
+     </source>
+     <year>
+      2012
+     </year>
+     ;
+     <volume>
+      9
+     </volume>
+     :
+     <fpage>
+      671
+     </fpage>
+     –
+     <lpage>
+      675
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      22930834
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0015">
+    <label>
+     15
+    </label>
+    <mixed-citation id="cjp212364-cit-0015" publication-type="journal">
+     <collab collab-type="authors">
+      The Cancer Genome Atlas Network
+     </collab>
+     .
+     <article-title>
+      Comprehensive molecular portraits of human breast tumours
+     </article-title>
+     .
+     <source>
+      Nature
+     </source>
+     <year>
+      2012
+     </year>
+     ;
+     <volume>
+      490
+     </volume>
+     :
+     <fpage>
+      61
+     </fpage>
+     –
+     <lpage>
+      70
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      23000897
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0016">
+    <label>
+     16
+    </label>
+    <mixed-citation id="cjp212364-cit-0016" publication-type="journal">
+     <string-name>
+      <surname>
+       Wagle
+      </surname>
+      <given-names>
+       N
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Painter
+      </surname>
+      <given-names>
+       C
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Krevalin
+      </surname>
+      <given-names>
+       M
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      The Metastatic Breast Cancer Project: a national direct‐to‐patient initiative to accelerate genomics research
+     </article-title>
+     .
+     <source>
+      J Clin Oncol
+     </source>
+     <year>
+      2016
+     </year>
+     ;
+     <volume>
+      34
+     </volume>
+     :
+     <elocation-id>
+      LBA1519
+     </elocation-id>
+     .
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0017">
+    <label>
+     17
+    </label>
+    <mixed-citation id="cjp212364-cit-0017" publication-type="journal">
+     <string-name>
+      <surname>
+       Cosgrove
+      </surname>
+      <given-names>
+       N
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Varešlija
+      </surname>
+      <given-names>
+       D
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Keelan
+      </surname>
+      <given-names>
+       S
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Mapping molecular subtype specific alterations in breast cancer brain metastases identifies clinically relevant vulnerabilities
+     </article-title>
+     .
+     <source>
+      Nat Commun
+     </source>
+     <year>
+      2022
+     </year>
+     ;
+     <volume>
+      13
+     </volume>
+     :
+     <fpage>
+      514
+     </fpage>
+     .
+     <pub-id pub-id-type="pmid">
+      35082299
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0018">
+    <label>
+     18
+    </label>
+    <mixed-citation id="cjp212364-cit-0018" publication-type="journal">
+     <string-name>
+      <surname>
+       McMullin
+      </surname>
+      <given-names>
+       RP
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Wittner
+      </surname>
+      <given-names>
+       BS
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Yang
+      </surname>
+      <given-names>
+       C
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      A BRCA1 deficient‐like signature is enriched in breast cancer brain metastases and predicts DNA damage‐induced poly (ADP‐ribose) polymerase inhibitor sensitivity
+     </article-title>
+     .
+     <source>
+      Breast Cancer Res
+     </source>
+     <year>
+      2014
+     </year>
+     ;
+     <volume>
+      16
+     </volume>
+     :
+     <fpage>
+      R25
+     </fpage>
+     .
+     <pub-id pub-id-type="pmid">
+      24625110
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0019">
+    <label>
+     19
+    </label>
+    <mixed-citation id="cjp212364-cit-0019" publication-type="journal">
+     <string-name>
+      <surname>
+       Lánczky
+      </surname>
+      <given-names>
+       A
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Győrffy
+      </surname>
+      <given-names>
+       B
+      </given-names>
+     </string-name>
+     .
+     <article-title>
+      Web‐based survival analysis tool tailored for medical research (KMplot): development and implementation
+     </article-title>
+     .
+     <source>
+      J Med Internet Res
+     </source>
+     <year>
+      2021
+     </year>
+     ;
+     <volume>
+      23
+     </volume>
+     :
+     <elocation-id>
+      e27633
+     </elocation-id>
+     .
+     <pub-id pub-id-type="pmid">
+      34309564
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0020">
+    <label>
+     20
+    </label>
+    <mixed-citation id="cjp212364-cit-0020" publication-type="journal">
+     <string-name>
+      <surname>
+       Winter
+      </surname>
+      <given-names>
+       SC
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Buffa
+      </surname>
+      <given-names>
+       FM
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Silva
+      </surname>
+      <given-names>
+       P
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Relation of a hypoxia metagene derived from head and neck cancer to prognosis of multiple cancers
+     </article-title>
+     .
+     <source>
+      Cancer Res
+     </source>
+     <year>
+      2007
+     </year>
+     ;
+     <volume>
+      67
+     </volume>
+     :
+     <fpage>
+      3441
+     </fpage>
+     –
+     <lpage>
+      3449
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      17409455
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0021">
+    <label>
+     21
+    </label>
+    <mixed-citation id="cjp212364-cit-0021" publication-type="journal">
+     <string-name>
+      <surname>
+       Eustace
+      </surname>
+      <given-names>
+       A
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Mani
+      </surname>
+      <given-names>
+       N
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Span
+      </surname>
+      <given-names>
+       PN
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      A 26‐gene hypoxia signature predicts benefit from hypoxia‐modifying therapy in laryngeal cancer but not bladder cancer
+     </article-title>
+     .
+     <source>
+      Clin Cancer Res
+     </source>
+     <year>
+      2013
+     </year>
+     ;
+     <volume>
+      19
+     </volume>
+     :
+     <fpage>
+      4879
+     </fpage>
+     –
+     <lpage>
+      4888
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      23820108
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0022">
+    <label>
+     22
+    </label>
+    <mixed-citation id="cjp212364-cit-0022" publication-type="journal">
+     <string-name>
+      <surname>
+       Sørensen
+      </surname>
+      <given-names>
+       BS
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Toustrup
+      </surname>
+      <given-names>
+       K
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Horsman
+      </surname>
+      <given-names>
+       MR
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Identifying pH independent hypoxia induced genes in human squamous cell carcinomas in vitro
+     </article-title>
+     .
+     <source>
+      Acta Oncol
+     </source>
+     <year>
+      2010
+     </year>
+     ;
+     <volume>
+      49
+     </volume>
+     :
+     <fpage>
+      895
+     </fpage>
+     –
+     <lpage>
+      905
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      20429727
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0023">
+    <label>
+     23
+    </label>
+    <mixed-citation id="cjp212364-cit-0023" publication-type="journal">
+     <string-name>
+      <surname>
+       Seigneuric
+      </surname>
+      <given-names>
+       R
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Starmans
+      </surname>
+      <given-names>
+       MHW
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Fung
+      </surname>
+      <given-names>
+       G
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Impact of supervised gene signatures of early hypoxia on patient survival
+     </article-title>
+     .
+     <source>
+      Radiother Oncol
+     </source>
+     <year>
+      2007
+     </year>
+     ;
+     <volume>
+      83
+     </volume>
+     :
+     <fpage>
+      374
+     </fpage>
+     –
+     <lpage>
+      382
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      17532074
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0024">
+    <label>
+     24
+    </label>
+    <mixed-citation id="cjp212364-cit-0024" publication-type="journal">
+     <string-name>
+      <surname>
+       Ragnum
+      </surname>
+      <given-names>
+       HB
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Vlatkovic
+      </surname>
+      <given-names>
+       L
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Lie
+      </surname>
+      <given-names>
+       AK
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      The tumour hypoxia marker pimonidazole reflects a transcriptional programme associated with aggressive prostate cancer
+     </article-title>
+     .
+     <source>
+      Br J Cancer
+     </source>
+     <year>
+      2015
+     </year>
+     ;
+     <volume>
+      112
+     </volume>
+     :
+     <fpage>
+      382
+     </fpage>
+     –
+     <lpage>
+      390
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      25461803
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0025">
+    <label>
+     25
+    </label>
+    <mixed-citation id="cjp212364-cit-0025" publication-type="journal">
+     <string-name>
+      <surname>
+       Hu
+      </surname>
+      <given-names>
+       Z
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Fan
+      </surname>
+      <given-names>
+       C
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Livasy
+      </surname>
+      <given-names>
+       C
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      A compact VEGF signature associated with distant metastases and poor outcomes
+     </article-title>
+     .
+     <source>
+      BMC Med
+     </source>
+     <year>
+      2009
+     </year>
+     ;
+     <volume>
+      7
+     </volume>
+     :
+     <fpage>
+      9
+     </fpage>
+     .
+     <pub-id pub-id-type="pmid">
+      19291283
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0026">
+    <label>
+     26
+    </label>
+    <mixed-citation id="cjp212364-cit-0026" publication-type="journal">
+     <string-name>
+      <surname>
+       Elvidge
+      </surname>
+      <given-names>
+       GP
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Glenny
+      </surname>
+      <given-names>
+       L
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Appelhoff
+      </surname>
+      <given-names>
+       RJ
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Concordant regulation of gene expression by hypoxia and 2‐oxoglutarate‐dependent dioxygenase inhibition: the role of HIF‐1alpha, HIF‐2alpha, and other pathways
+     </article-title>
+     .
+     <source>
+      J Biol Chem
+     </source>
+     <year>
+      2006
+     </year>
+     ;
+     <volume>
+      281
+     </volume>
+     :
+     <fpage>
+      15215
+     </fpage>
+     –
+     <lpage>
+      15226
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      16565084
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0027">
+    <label>
+     27
+    </label>
+    <mixed-citation id="cjp212364-cit-0027" publication-type="journal">
+     <string-name>
+      <surname>
+       Buffa
+      </surname>
+      <given-names>
+       FM
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Harris
+      </surname>
+      <given-names>
+       AL
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       West
+      </surname>
+      <given-names>
+       CM
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Large meta‐analysis of multiple cancers reveals a common, compact and highly prognostic hypoxia metagene
+     </article-title>
+     .
+     <source>
+      Br J Cancer
+     </source>
+     <year>
+      2010
+     </year>
+     ;
+     <volume>
+      102
+     </volume>
+     :
+     <fpage>
+      428
+     </fpage>
+     –
+     <lpage>
+      435
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      20087356
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0028">
+    <label>
+     28
+    </label>
+    <mixed-citation id="cjp212364-cit-0028" publication-type="journal">
+     <string-name>
+      <surname>
+       Gillespie
+      </surname>
+      <given-names>
+       M
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Jassal
+      </surname>
+      <given-names>
+       B
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Stephan
+      </surname>
+      <given-names>
+       R
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      The reactome pathway knowledgebase 2022
+     </article-title>
+     .
+     <source>
+      Nucleic Acids Res
+     </source>
+     <year>
+      2022
+     </year>
+     ;
+     <volume>
+      50
+     </volume>
+     :
+     <fpage>
+      D687
+     </fpage>
+     –
+     <lpage>
+      D692
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      34788843
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0029">
+    <label>
+     29
+    </label>
+    <mixed-citation id="cjp212364-cit-0029" publication-type="journal">
+     <string-name>
+      <surname>
+       Masiero
+      </surname>
+      <given-names>
+       M
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Simões
+      </surname>
+      <given-names>
+       FC
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Han
+      </surname>
+      <given-names>
+       HD
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      A core human primary tumor angiogenesis signature identifies the endothelial orphan receptor ELTD1 as a key regulator of angiogenesis
+     </article-title>
+     .
+     <source>
+      Cancer Cell
+     </source>
+     <year>
+      2013
+     </year>
+     ;
+     <volume>
+      24
+     </volume>
+     :
+     <fpage>
+      229
+     </fpage>
+     –
+     <lpage>
+      241
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      23871637
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0030">
+    <label>
+     30
+    </label>
+    <mixed-citation id="cjp212364-cit-0030" publication-type="journal">
+     <string-name>
+      <surname>
+       Belinky
+      </surname>
+      <given-names>
+       F
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Nativ
+      </surname>
+      <given-names>
+       N
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Stelzer
+      </surname>
+      <given-names>
+       G
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      PathCards: multi‐source consolidation of human biological pathways
+     </article-title>
+     .
+     <source>
+      Database (Oxford)
+     </source>
+     <year>
+      2015
+     </year>
+     ;
+     <volume>
+      2015
+     </volume>
+     :
+     <elocation-id>
+      bav006
+     </elocation-id>
+     .
+     <pub-id pub-id-type="pmid">
+      25725062
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0031">
+    <label>
+     31
+    </label>
+    <mixed-citation id="cjp212364-cit-0031" publication-type="book">
+     <string-name>
+      <surname>
+       Therneau
+      </surname>
+      <given-names>
+       T
+      </given-names>
+     </string-name>
+     .
+     <source>
+      A Package for Survival Analysis in R (R Package Version 3.5‐0)
+     </source>
+     .
+     <publisher-name>
+      Springer
+     </publisher-name>
+     :
+     <publisher-loc>
+      New York, NY
+     </publisher-loc>
+     ,
+     <year>
+      2023
+     </year>
+     .
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0032">
+    <label>
+     32
+    </label>
+    <mixed-citation id="cjp212364-cit-0032" publication-type="journal">
+     <string-name>
+      <surname>
+       Park
+      </surname>
+      <given-names>
+       KC
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Menezes
+      </surname>
+      <given-names>
+       SV
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Kalinowski
+      </surname>
+      <given-names>
+       DS
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Identification of differential phosphorylation and sub‐cellular localization of the metastasis suppressor, NDRG1
+     </article-title>
+     .
+     <source>
+      Biochim Biophys Acta Mol Basis Dis
+     </source>
+     <year>
+      2018
+     </year>
+     ;
+     <volume>
+      1864
+     </volume>
+     :
+     <fpage>
+      2644
+     </fpage>
+     –
+     <lpage>
+      2663
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      29679718
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0033">
+    <label>
+     33
+    </label>
+    <mixed-citation id="cjp212364-cit-0033" publication-type="journal">
+     <string-name>
+      <surname>
+       Kawahara
+      </surname>
+      <given-names>
+       A
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Akiba
+      </surname>
+      <given-names>
+       J
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Hattori
+      </surname>
+      <given-names>
+       S
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Nuclear expression of N‐myc downstream regulated gene 1/Ca(2+)‐associated protein 43 is closely correlated with tumor angiogenesis and poor survival in patients with gastric cancer
+     </article-title>
+     .
+     <source>
+      Exp Ther Med
+     </source>
+     <year>
+      2011
+     </year>
+     ;
+     <volume>
+      2
+     </volume>
+     :
+     <fpage>
+      471
+     </fpage>
+     –
+     <lpage>
+      479
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      22977527
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0034">
+    <label>
+     34
+    </label>
+    <mixed-citation id="cjp212364-cit-0034" publication-type="journal">
+     <string-name>
+      <surname>
+       Nguyen
+      </surname>
+      <given-names>
+       B
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Fong
+      </surname>
+      <given-names>
+       C
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Luthra
+      </surname>
+      <given-names>
+       A
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Genomic characterization of metastatic patterns from prospective clinical sequencing of 25,000 patients
+     </article-title>
+     .
+     <source>
+      Cell
+     </source>
+     <year>
+      2022
+     </year>
+     ;
+     <volume>
+      185
+     </volume>
+     :
+     <fpage>
+      563
+     </fpage>
+     –
+     <lpage>
+      575.e511
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      35120664
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0035">
+    <label>
+     35
+    </label>
+    <mixed-citation id="cjp212364-cit-0035" publication-type="journal">
+     <string-name>
+      <surname>
+       de Nonneville
+      </surname>
+      <given-names>
+       A
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Finetti
+      </surname>
+      <given-names>
+       P
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Mamessier
+      </surname>
+      <given-names>
+       E
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      RE: NDRG1 in aggressive breast cancer progression and brain metastasis
+     </article-title>
+     .
+     <source>
+      J Natl Cancer Inst
+     </source>
+     <year>
+      2022
+     </year>
+     ;
+     <volume>
+      114
+     </volume>
+     :
+     <fpage>
+      1046
+     </fpage>
+     –
+     <lpage>
+      1047
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      35148398
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0036">
+    <label>
+     36
+    </label>
+    <mixed-citation id="cjp212364-cit-0036" publication-type="journal">
+     <string-name>
+      <surname>
+       Shi
+      </surname>
+      <given-names>
+       X‐H
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Larkin
+      </surname>
+      <given-names>
+       JC
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Chen
+      </surname>
+      <given-names>
+       B
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      The expression and localization of N‐myc downstream‐regulated gene 1 in human trophoblasts
+     </article-title>
+     .
+     <source>
+      PLoS One
+     </source>
+     <year>
+      2013
+     </year>
+     ;
+     <volume>
+      8
+     </volume>
+     :
+     <elocation-id>
+      e75473
+     </elocation-id>
+     .
+     <pub-id pub-id-type="pmid">
+      24066183
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0037">
+    <label>
+     37
+    </label>
+    <mixed-citation id="cjp212364-cit-0037" publication-type="journal">
+     <string-name>
+      <surname>
+       Jin
+      </surname>
+      <given-names>
+       R
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Liu
+      </surname>
+      <given-names>
+       W
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Menezes
+      </surname>
+      <given-names>
+       S
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      The metastasis suppressor NDRG1 modulates the phosphorylation and nuclear translocation of β‐catenin through mechanisms involving FRAT1 and PAK4
+     </article-title>
+     .
+     <source>
+      J Cell Sci
+     </source>
+     <year>
+      2014
+     </year>
+     ;
+     <volume>
+      127
+     </volume>
+     :
+     <fpage>
+      3116
+     </fpage>
+     –
+     <lpage>
+      3130
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      24829151
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0038">
+    <label>
+     38
+    </label>
+    <mixed-citation id="cjp212364-cit-0038" publication-type="journal">
+     <string-name>
+      <surname>
+       Sun
+      </surname>
+      <given-names>
+       J
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Zhang
+      </surname>
+      <given-names>
+       D
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Bae
+      </surname>
+      <given-names>
+       D‐H
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Metastasis suppressor, NDRG1, mediates its activity through signaling pathways and molecular motors
+     </article-title>
+     .
+     <source>
+      Carcinogenesis
+     </source>
+     <year>
+      2013
+     </year>
+     ;
+     <volume>
+      34
+     </volume>
+     :
+     <fpage>
+      1943
+     </fpage>
+     –
+     <lpage>
+      1954
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      23671130
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0039">
+    <label>
+     39
+    </label>
+    <mixed-citation id="cjp212364-cit-0039" publication-type="journal">
+     <string-name>
+      <surname>
+       Cheng
+      </surname>
+      <given-names>
+       J
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Xie
+      </surname>
+      <given-names>
+       H‐Y
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Xu
+      </surname>
+      <given-names>
+       X
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      NDRG1 as a biomarker for metastasis, recurrence and of poor prognosis in hepatocellular carcinoma
+     </article-title>
+     .
+     <source>
+      Cancer Lett
+     </source>
+     <year>
+      2011
+     </year>
+     ;
+     <volume>
+      310
+     </volume>
+     :
+     <fpage>
+      35
+     </fpage>
+     –
+     <lpage>
+      45
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      21763068
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0040">
+    <label>
+     40
+    </label>
+    <mixed-citation id="cjp212364-cit-0040" publication-type="journal">
+     <string-name>
+      <surname>
+       Lage‐Vickers
+      </surname>
+      <given-names>
+       S
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Bizzotto
+      </surname>
+      <given-names>
+       J
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Valacco
+      </surname>
+      <given-names>
+       MP
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      The expression of YWHAZ and NDRG1 predicts aggressive outcome in human prostate cancer
+     </article-title>
+     .
+     <source>
+      Commun Biol
+     </source>
+     <year>
+      2021
+     </year>
+     ;
+     <volume>
+      4
+     </volume>
+     :
+     <fpage>
+      103
+     </fpage>
+     .
+     <pub-id pub-id-type="pmid">
+      33483585
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0041">
+    <label>
+     41
+    </label>
+    <mixed-citation id="cjp212364-cit-0041" publication-type="journal">
+     <string-name>
+      <surname>
+       Bae
+      </surname>
+      <given-names>
+       D‐H
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Jansson
+      </surname>
+      <given-names>
+       PJ
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Huang
+      </surname>
+      <given-names>
+       ML
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      The role of NDRG1 in the pathology and potential treatment of human cancers
+     </article-title>
+     .
+     <source>
+      J Clin Pathol
+     </source>
+     <year>
+      2013
+     </year>
+     ;
+     <volume>
+      66
+     </volume>
+     :
+     <fpage>
+      911
+     </fpage>
+     –
+     <lpage>
+      917
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      23750037
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0042">
+    <label>
+     42
+    </label>
+    <mixed-citation id="cjp212364-cit-0042" publication-type="journal">
+     <string-name>
+      <surname>
+       Berghoff
+      </surname>
+      <given-names>
+       AS
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Liao
+      </surname>
+      <given-names>
+       Y
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Karreman
+      </surname>
+      <given-names>
+       MA
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Identification and characterization of cancer cells that initiate metastases to the brain and other organs
+     </article-title>
+     .
+     <source>
+      Mol Cancer Res
+     </source>
+     <year>
+      2021
+     </year>
+     ;
+     <volume>
+      19
+     </volume>
+     :
+     <fpage>
+      688
+     </fpage>
+     –
+     <lpage>
+      701
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      33443114
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0043">
+    <label>
+     43
+    </label>
+    <mixed-citation id="cjp212364-cit-0043" publication-type="journal">
+     <string-name>
+      <surname>
+       Li
+      </surname>
+      <given-names>
+       S
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Balmain
+      </surname>
+      <given-names>
+       A
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Counter
+      </surname>
+      <given-names>
+       CM
+      </given-names>
+     </string-name>
+     .
+     <article-title>
+      A model for RAS mutation patterns in cancers: finding the sweet spot
+     </article-title>
+     .
+     <source>
+      Nat Rev Cancer
+     </source>
+     <year>
+      2018
+     </year>
+     ;
+     <volume>
+      18
+     </volume>
+     :
+     <fpage>
+      767
+     </fpage>
+     –
+     <lpage>
+      777
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      30420765
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0044">
+    <label>
+     44
+    </label>
+    <mixed-citation id="cjp212364-cit-0044" publication-type="journal">
+     <string-name>
+      <surname>
+       Mackie
+      </surname>
+      <given-names>
+       J
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Ma
+      </surname>
+      <given-names>
+       CS
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Tangye
+      </surname>
+      <given-names>
+       SG
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      The ups and downs of STAT3 function: too much, too little and human immune dysregulation
+     </article-title>
+     .
+     <source>
+      Clin Exp Immunol
+     </source>
+     <year>
+      2023
+     </year>
+     ;
+     <volume>
+      212
+     </volume>
+     :
+     <fpage>
+      107
+     </fpage>
+     –
+     <lpage>
+      116
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      36652220
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0045">
+    <label>
+     45
+    </label>
+    <mixed-citation id="cjp212364-cit-0045" publication-type="miscellaneous">
+     <string-name>
+      <surname>
+       Ott
+      </surname>
+      <given-names>
+       N
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Faletti
+      </surname>
+      <given-names>
+       L
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Heeg
+      </surname>
+      <given-names>
+       M
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      The Goldilocks principle of JAKs and STATs: gain‐of function mutations, loss‐of‐function mutations, and their clinical consequences
+     </article-title>
+     .
+     <italic toggle="yes">
+      Research Square
+     </italic>
+     [Preprint]
+     <year>
+      2022
+     </year>
+     .
+     <pub-id pub-id-type="doi">
+      10.21203/rs.3.rs-1948968/v1
+     </pub-id>
+     .
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0046">
+    <label>
+     46
+    </label>
+    <mixed-citation id="cjp212364-cit-0046" publication-type="journal">
+     <string-name>
+      <surname>
+       Lachat
+      </surname>
+      <given-names>
+       P
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Shaw
+      </surname>
+      <given-names>
+       P
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Gebhard
+      </surname>
+      <given-names>
+       S
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Expression of NDRG1, a differentiation‐related gene, in human tissues
+     </article-title>
+     .
+     <source>
+      Histochem Cell Biol
+     </source>
+     <year>
+      2002
+     </year>
+     ;
+     <volume>
+      118
+     </volume>
+     :
+     <fpage>
+      399
+     </fpage>
+     –
+     <lpage>
+      408
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      12432451
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0047">
+    <label>
+     47
+    </label>
+    <mixed-citation id="cjp212364-cit-0047" publication-type="journal">
+     <string-name>
+      <surname>
+       Kachhap
+      </surname>
+      <given-names>
+       SK
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Faith
+      </surname>
+      <given-names>
+       D
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Qian
+      </surname>
+      <given-names>
+       DZ
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      The N‐Myc down regulated Gene1 (NDRG1) is a Rab4a effector involved in vesicular recycling of E‐cadherin
+     </article-title>
+     .
+     <source>
+      PLoS One
+     </source>
+     <year>
+      2007
+     </year>
+     ;
+     <volume>
+      2
+     </volume>
+     :
+     <elocation-id>
+      e844
+     </elocation-id>
+     .
+     <pub-id pub-id-type="pmid">
+      17786215
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0048">
+    <label>
+     48
+    </label>
+    <mixed-citation id="cjp212364-cit-0048" publication-type="journal">
+     <string-name>
+      <surname>
+       Muz
+      </surname>
+      <given-names>
+       B
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       de la Puente
+      </surname>
+      <given-names>
+       P
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Azab
+      </surname>
+      <given-names>
+       F
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      The role of hypoxia in cancer progression, angiogenesis, metastasis, and resistance to therapy
+     </article-title>
+     .
+     <source>
+      Hypoxia (Auckl)
+     </source>
+     <year>
+      2015
+     </year>
+     ;
+     <volume>
+      3
+     </volume>
+     :
+     <fpage>
+      83
+     </fpage>
+     –
+     <lpage>
+      92
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      27774485
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0049">
+    <label>
+     49
+    </label>
+    <mixed-citation id="cjp212364-cit-0049" publication-type="journal">
+     <string-name>
+      <surname>
+       Cangul
+      </surname>
+      <given-names>
+       H
+      </given-names>
+     </string-name>
+     .
+     <article-title>
+      Hypoxia upregulates the expression of the NDRG1 gene leading to its overexpression in various human cancers
+     </article-title>
+     .
+     <source>
+      BMC Genet
+     </source>
+     <year>
+      2004
+     </year>
+     ;
+     <volume>
+      5
+     </volume>
+     :
+     <fpage>
+      1
+     </fpage>
+     –
+     <lpage>
+      11
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      14715088
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0050">
+    <label>
+     50
+    </label>
+    <mixed-citation id="cjp212364-cit-0050" publication-type="journal">
+     <string-name>
+      <surname>
+       Jung
+      </surname>
+      <given-names>
+       EU
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Yoon
+      </surname>
+      <given-names>
+       J‐H
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Lee
+      </surname>
+      <given-names>
+       Y‐J
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Hypoxia and retinoic acid‐inducible NDRG1 expression is responsible for doxorubicin and retinoic acid resistance in hepatocellular carcinoma cells
+     </article-title>
+     .
+     <source>
+      Cancer Lett
+     </source>
+     <year>
+      2010
+     </year>
+     ;
+     <volume>
+      298
+     </volume>
+     :
+     <fpage>
+      9
+     </fpage>
+     –
+     <lpage>
+      15
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      20573444
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0051">
+    <label>
+     51
+    </label>
+    <mixed-citation id="cjp212364-cit-0051" publication-type="journal">
+     <string-name>
+      <surname>
+       Sibold
+      </surname>
+      <given-names>
+       S
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Roh
+      </surname>
+      <given-names>
+       V
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Keogh
+      </surname>
+      <given-names>
+       A
+      </given-names>
+     </string-name>
+     ,
+     <italic toggle="yes">
+      et al
+     </italic>
+     .
+     <article-title>
+      Hypoxia increases cytoplasmic expression of NDRG1, but is insufficient for its membrane localization in human hepatocellular carcinoma
+     </article-title>
+     .
+     <source>
+      FEBS Lett
+     </source>
+     <year>
+      2007
+     </year>
+     ;
+     <volume>
+      581
+     </volume>
+     :
+     <fpage>
+      989
+     </fpage>
+     –
+     <lpage>
+      994
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      17316623
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0052">
+    <label>
+     52
+    </label>
+    <mixed-citation id="cjp212364-cit-0052" publication-type="journal">
+     <string-name>
+      <surname>
+       Hanahan
+      </surname>
+      <given-names>
+       D
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       Weinberg
+      </surname>
+      <given-names>
+       RA
+      </given-names>
+     </string-name>
+     .
+     <article-title>
+      Hallmarks of cancer: the next generation
+     </article-title>
+     .
+     <source>
+      Cell
+     </source>
+     <year>
+      2011
+     </year>
+     ;
+     <volume>
+      144
+     </volume>
+     :
+     <fpage>
+      646
+     </fpage>
+     –
+     <lpage>
+      674
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      21376230
+     </pub-id>
+    </mixed-citation>
+   </ref>
+   <ref id="cjp212364-bib-0053">
+    <label>
+     53
+    </label>
+    <mixed-citation id="cjp212364-cit-0053" publication-type="journal">
+     <string-name>
+      <surname>
+       Birkbak
+      </surname>
+      <given-names>
+       NJ
+      </given-names>
+     </string-name>
+     ,
+     <string-name>
+      <surname>
+       McGranahan
+      </surname>
+      <given-names>
+       N
+      </given-names>
+     </string-name>
+     .
+     <article-title>
+      Cancer genome evolutionary trajectories in metastasis
+     </article-title>
+     .
+     <source>
+      Cancer Cell
+     </source>
+     <year>
+      2020
+     </year>
+     ;
+     <volume>
+      37
+     </volume>
+     :
+     <fpage>
+      8
+     </fpage>
+     –
+     <lpage>
+      19
+     </lpage>
+     .
+     <pub-id pub-id-type="pmid">
+      31935374
+     </pub-id>
+    </mixed-citation>
+   </ref>
+  </ref-list>
+ </back>
+</article>

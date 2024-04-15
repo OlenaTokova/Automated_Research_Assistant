@@ -1,0 +1,12 @@
+Title: Maximality of bi-intuitionistic propositional logic
+URL: http://arxiv.org/abs/2104.03052v1
+Summary: In the style of Lindstr\"om's theorem for classical first-order logic, this
+article characterizes propositional bi-intuitionistic logic as the maximal
+(with respect to expressive power) abstract logic satisfying a certain form of
+compactness, the Tarski union property and preservation under bi-asimulations.
+Since bi-intuitionistic logic introduces new complexities in the intuitionistic
+setting by adding the analogue of a backwards looking modality, the present
+paper constitutes a non-trivial modification of previous work done by the
+authors for intuitionistic logic in: G. Badia and G. Olkhovikov. A Lindstr\"om
+theorem for intuitionistic propositional logic. Notre Dame Journal of Formal
+Logic, 61 (1): 11-30 (2020).
