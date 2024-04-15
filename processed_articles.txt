@@ -1,0 +1,1462 @@
+Materials Informatics: An Algorithmic Design Rule
+Materials discovery and properties prediction in thermal transport via
+  materials informatics: a mini-review
+Are LLMs Ready for Real-World Materials Discovery?
+Materials data validation and imputation with an artificial neural
+  network
+Leveraging Language Representation for Material Recommendation, Ranking,
+  and Exploration
+A reduced micromorphic model for multiscale materials and its
+  applications in wave propagation
+A hunt for ultrahard materials
+Transient grating spectroscopy: An ultrarapid, nondestructive materials
+  evaluation technique
+A Review of Multi-material and Composite Parts Production by Modified
+  Additive Manufacturing Methods
+Efficient and affordable thermomagnetic materials for harvesting low
+  grade waste heat
+Definition of a scoring parameter to identify low-dimensional materials
+  components
+A method to computationally screen for tunable properties of crystalline
+  alloys
+First principles phonon calculations in materials science
+Descriptors for Machine Learning of Materials Data
+Shifting computational boundaries for complex organic materials
+Emergent reprogrammable mechanical memory in soft rods network via
+  friction tuning
+Spectral Symmetry Breaking of Electro-Acoustic Noise in Ferroelectric
+  Materials
+Machine learning for materials discovery: two-dimensional topological
+  insulators
+Materials development by interpretable machine learning
+Far-Field Radiative Thermal Rectification with Bulk Materials
+Formula graph self-attention network for representation-domain
+  independent materials discovery
+Introducing MAMBO: Materials And Molecules Basic Ontology
+An Extreme Toughening Mechanism for Soft Materials
+Ultra-delayed material failure via shear banding after straining an
+  amorphous material
+Machine Learning in Heterogeneous Porous Materials
+Correlation length and negative phase velocity in isotropic
+  dielectric-magnetic materials
+Induction of nuclear fission by high-voltage application
+Performance Evaluation of Predictive Classifiers For Knowledge Discovery
+  From Engineering Materials Data Sets
+Load-depth sensing of isotropic, linear viscoelastic materials using
+  rigid axisymmetric indenters
+Transverse thermoelectric generation using magnetic materials
+Analyzing Research Trends in Inorganic Materials Literature Using NLP
+Unveiling the complex structure-property correlation of defects in 2D
+  materials based on high throughput datasets
+Committee machine that votes for similarity between materials
+Materials Informatics for Heat Transfer: Recent Progresses and
+  Perspectives
+Do 2D material-based battery electrodes have inherently poor
+  rate-performance?
+Atomistic graph networks for experimental materials property prediction
+Sustainability-Driven Exploration of Topological Material
+New Directions for Thermoelectrics: A Roadmap from High-Throughput
+  Materials Discovery to Advanced Device Manufacturing
+Explicit dispersion relations for elastic waves in extremely deformed
+  soft matter with application to nearly incompressible and auxetic materials
+Voting Data-Driven Regression Learning for Discovery of Functional
+  Materials and Applications to Two-Dimensional Ferroelectric Materials
+Materials genes of heterogeneous catalysis from clean experiments and
+  artificial intelligence
+High-Efficient ab initio Bayesian Active Learning Method and
+  Applications in Prediction of Two-dimensional Functional Materials
+Time-resolved reversible optical switching of the ultralow-loss phase
+  change material Sb2Se3
+High throughput inverse design and Bayesian optimization of
+  functionalities: spin splitting in two-dimensional compounds
+Multi-contrast x-ray identification of inhomogeneous materials and their
+  discrimination through deep learning approaches
+Training physical matter to matter
+Computational screening of cathode materials for Zn-ion rechargeable
+  batteries
+Voltage induced control and magnetoresistance of noncollinear frustrated
+  magnets
+Magnetic illusion: transforming a magnetic object into another object by
+  negative permeability
+More on alleged extraordinariness of graphene as a nonlinear optical
+  material
+Enhanced Instantaneous Elastography in Tissues and Hard Materials Using
+  Bulk Modulus and Density Determined without Externally Applied Material
+  Deformation
+General Theory of Absorption in Porous Materials: The Restricted
+  Multilayer Theory
+On the possible effective elasticity tensors of 2-dimensional and
+  3-dimensional printed materials
+Strongly Correlated Materials
+Inversion of diffraction data for amorphous materials
+An Existence Criterion for Low-Dimensional Materials
+Analytic Materials
+Multistable Kirigami for Tunable Architected Materials
+The materials data ecosystem: materials data science and its role in
+  data-driven materials discovery
+Machine Learning based prediction of noncentrosymmetric crystal
+  materials
+Criteria for realizing room temperature electrical transport
+  applications of topological materials
+Theoretical Prediction of Heterogeneous Integration of Dissimilar
+  Semiconductor with Various Ultra-Thin Oxides and 2D Materials
+Effective Data Sampling Strategies and Boundary Condition Constraints of
+  Physics-Informed Neural Networks for Identifying Material Properties in Solid
+  Mechanics
+Elastic anisotropy in heterogeneous materials
+Computational modelling of complex multiphase behavior of
+  environmentally-friendly materials for sustainable technological solutions
+Exploiting Localized Transition Waves to Tune Sound Propagation in Soft
+  Materials
+History effects in the creep of a disordered brittle material
+Theory of expansion and compression of polymeric materials
+Model for the FC and ZFC Ferrimagnetic Spinel
+Low Losses Left Handed Materials Using Metallic Magnetic Cylinders
+Metal-less Optical Left Handed Material by Low-dimensional Quantum
+  Structure Anisotropy
+Influence of the material substructure on crack propagation: a unified
+  treatment
+A test for the existence of isomorphs in glass-forming materials
+Applications of DFT+DMFT in Materials Science
+Spectral Design of Active Mechanical and Electrical Metamaterials
+Use of the Kolsky Bar Method for Studying High-Rate Deformation
+  Processes in Materials of Various Physical Natures
+Graphyne and Borophene as Nanoscopic Materials for Electronics
+Tunability of Planar Photonic Crystal Nanocavity: A Comparative study
+Micromechanics of liquid-phase exfoliation of a layered 2D material: A
+  hydrodynamic peeling model
+Magnetic domain-walls and the relaxation method
+Antibacterial Melamine Foams Decorated with in Situ Synthesized Silver
+  Nanoparticles
+Stealth acoustic materials
+Predicting the Porosity Formed in Freeze Casting by Artificial Neural
+  Network
+Inverse design of two-dimensional materials with invertible neural
+  networks
+Multi-scale model predicting friction of crystalline materials
+Computer Vision Methods for the Microstructural Analysis of Materials:
+  The State-of-the-art and Future Perspectives
+Waves in space-dependent and time-dependent materials: a systematic
+  comparison
+Novel Mechanocaloric Materials for Solid-State Cooling Applications
+Self-supervised Representations and Node Embedding Graph Neural Networks
+  for Accurate and Multi-scale Analysis of Materials
+Simultaneous Learning of Several Materials Properties from Incomplete
+  Databases with Multi-Task SISSO
+Computational characterization of the wave propagation behaviour of
+  multi-stable periodic cellular materials
+Material-agnostic Shaping of Granular Materials with Optimal Transport
+Memory effect on the formation of drying cracks
+Microstructural investigation of hybrid CAD/CAM restorative dental
+  materials by micro-CT and SEM
+Infeasibility of the nonlocal strain gradient theory for applied Physics
+Self-Assembled Monolayer Piezoelectrics: Electric-Field Driven
+  Conformational Changes
+Ultrahigh flexoelectric effect of 3D interconnected porous polymers:
+  modelling and verification
+Materials Transformers Language Models for Generative Materials Design:
+  a benchmark study
+High-Pressure Synthesized Materials: a Chest of Treasure and Hints
+A generic method for modelling the behavior of anisotropic metallic
+  materials : application to recrystallized zirconium alloys
+Materials discovery and properties prediction in thermal transport via
+  materials informatics: a mini-review
+Materials data validation and imputation with an artificial neural
+  network
+Leveraging Language Representation for Material Recommendation, Ranking,
+  and Exploration
+A reduced micromorphic model for multiscale materials and its
+  applications in wave propagation
+Transient grating spectroscopy: An ultrarapid, nondestructive materials
+  evaluation technique
+A Review of Multi-material and Composite Parts Production by Modified
+  Additive Manufacturing Methods
+Efficient and affordable thermomagnetic materials for harvesting low
+  grade waste heat
+Definition of a scoring parameter to identify low-dimensional materials
+  components
+A method to computationally screen for tunable properties of crystalline
+  alloys
+Emergent reprogrammable mechanical memory in soft rods network via
+  friction tuning
+Spectral Symmetry Breaking of Electro-Acoustic Noise in Ferroelectric
+  Materials
+Machine learning for materials discovery: two-dimensional topological
+  insulators
+Formula graph self-attention network for representation-domain
+  independent materials discovery
+Ultra-delayed material failure via shear banding after straining an
+  amorphous material
+Correlation length and negative phase velocity in isotropic
+  dielectric-magnetic materials
+Performance Evaluation of Predictive Classifiers For Knowledge Discovery
+  From Engineering Materials Data Sets
+Load-depth sensing of isotropic, linear viscoelastic materials using
+  rigid axisymmetric indenters
+Unveiling the complex structure-property correlation of defects in 2D
+  materials based on high throughput datasets
+Materials Informatics for Heat Transfer: Recent Progresses and
+  Perspectives
+Do 2D material-based battery electrodes have inherently poor
+  rate-performance?
+New Directions for Thermoelectrics: A Roadmap from High-Throughput
+  Materials Discovery to Advanced Device Manufacturing
+Explicit dispersion relations for elastic waves in extremely deformed
+  soft matter with application to nearly incompressible and auxetic materials
+Voting Data-Driven Regression Learning for Discovery of Functional
+  Materials and Applications to Two-Dimensional Ferroelectric Materials
+Materials genes of heterogeneous catalysis from clean experiments and
+  artificial intelligence
+High-Efficient ab initio Bayesian Active Learning Method and
+  Applications in Prediction of Two-dimensional Functional Materials
+Time-resolved reversible optical switching of the ultralow-loss phase
+  change material Sb2Se3
+High throughput inverse design and Bayesian optimization of
+  functionalities: spin splitting in two-dimensional compounds
+Multi-contrast x-ray identification of inhomogeneous materials and their
+  discrimination through deep learning approaches
+Computational screening of cathode materials for Zn-ion rechargeable
+  batteries
+Voltage induced control and magnetoresistance of noncollinear frustrated
+  magnets
+Magnetic illusion: transforming a magnetic object into another object by
+  negative permeability
+More on alleged extraordinariness of graphene as a nonlinear optical
+  material
+Enhanced Instantaneous Elastography in Tissues and Hard Materials Using
+  Bulk Modulus and Density Determined without Externally Applied Material
+  Deformation
+General Theory of Absorption in Porous Materials: The Restricted
+  Multilayer Theory
+On the possible effective elasticity tensors of 2-dimensional and
+  3-dimensional printed materials
+The materials data ecosystem: materials data science and its role in
+  data-driven materials discovery
+Machine Learning based prediction of noncentrosymmetric crystal
+  materials
+Criteria for realizing room temperature electrical transport
+  applications of topological materials
+Theoretical Prediction of Heterogeneous Integration of Dissimilar
+  Semiconductor with Various Ultra-Thin Oxides and 2D Materials
+Effective Data Sampling Strategies and Boundary Condition Constraints of
+  Physics-Informed Neural Networks for Identifying Material Properties in Solid
+  Mechanics
+Computational modelling of complex multiphase behavior of
+  environmentally-friendly materials for sustainable technological solutions
+Exploiting Localized Transition Waves to Tune Sound Propagation in Soft
+  Materials
+Metal-less Optical Left Handed Material by Low-dimensional Quantum
+  Structure Anisotropy
+Influence of the material substructure on crack propagation: a unified
+  treatment
+Use of the Kolsky Bar Method for Studying High-Rate Deformation
+  Processes in Materials of Various Physical Natures
+Micromechanics of liquid-phase exfoliation of a layered 2D material: A
+  hydrodynamic peeling model
+Antibacterial Melamine Foams Decorated with in Situ Synthesized Silver
+  Nanoparticles
+Predicting the Porosity Formed in Freeze Casting by Artificial Neural
+  Network
+Inverse design of two-dimensional materials with invertible neural
+  networks
+Computer Vision Methods for the Microstructural Analysis of Materials:
+  The State-of-the-art and Future Perspectives
+Waves in space-dependent and time-dependent materials: a systematic
+  comparison
+Self-supervised Representations and Node Embedding Graph Neural Networks
+  for Accurate and Multi-scale Analysis of Materials
+Simultaneous Learning of Several Materials Properties from Incomplete
+  Databases with Multi-Task SISSO
+Computational characterization of the wave propagation behaviour of
+  multi-stable periodic cellular materials
+Microstructural investigation of hybrid CAD/CAM restorative dental
+  materials by micro-CT and SEM
+Self-Assembled Monolayer Piezoelectrics: Electric-Field Driven
+  Conformational Changes
+Ultrahigh flexoelectric effect of 3D interconnected porous polymers:
+  modelling and verification
+Materials Transformers Language Models for Generative Materials Design:
+  a benchmark study
+A generic method for modelling the behavior of anisotropic metallic
+  materials : application to recrystallized zirconium alloys
+Supporting AI/ML Security Workers through an Adversarial Techniques,
+  Tools, and Common Knowledge (AI/ML ATT&CK) Framework
+Overconfident and Unconfident AI Hinder Human-AI Collaboration
+"Weak AI" is Likely to Never Become "Strong AI", So What is its Greatest
+  Value for us?
+A Bibliometric View of AI Ethics Development
+Towards a Capability Assessment Model for the Comprehension and Adoption
+  of AI in Organisations
+AI-in-the-Loop -- The impact of HMI in AI-based Application
+Putting AI Ethics into Practice: The Hourglass Model of Organizational
+  AI Governance
+Towards Enterprise-Ready AI Deployments Minimizing the Risk of Consuming
+  AI Models in Business Applications
+Understanding Mental Models of AI through Player-AI Interaction
+Ethics in the Age of AI: An Analysis of AI Practitioners' Awareness and
+  Challenges
+Navigating Fairness: Practitioners' Understanding, Challenges, and
+  Strategies in AI/ML Development
+AI Failures: A Review of Underlying Issues
+Enabling human-centered AI: A new junction and shared journey between AI
+  and HCI communities
+Assigning AI: Seven Approaches for Students, with Prompts
+Enabling AI in Future Wireless Networks: A Data Life Cycle Perspective
+AI and Ethics -- Operationalising Responsible AI
+AI and the creative realm: A short review of current and future
+  applications
+Tweeting AI: Perceptions of AI-Tweeters (AIT) vs Expert AI-Tweeters
+  (EAIT)
+Tweeting AI: Perceptions of Lay vs Expert Twitterati
+AI Governance for Businesses
+Player-AI Interaction: What Neural Network Games Reveal About AI as Play
+AI Governance and Ethics Framework for Sustainable AI and Sustainability
+AI Liability Insurance With an Example in AI-Powered E-diagnosis System
+Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered
+  Deliberative AI for AI-Assisted Decision-Making
+Confident AI
+Evaluating Visual Conversational Agents via Cooperative Human-AI Games
+MAILS -- Meta AI Literacy Scale: Development and Testing of an AI
+  Literacy Questionnaire Based on Well-Founded Competency Models and
+  Psychological Change- and Meta-Competencies
+Understanding the Effect of Counterfactual Explanations on Trust and
+  Reliance on AI for Human-AI Collaborative Clinical Decision Making
+AI Hazard Management: A framework for the systematic management of root
+  causes for AI risks
+How do transportation professionals perceive the impacts of AI
+  applications in transportation? A latent class cluster analysis
+Cybertrust: From Explainable to Actionable and Interpretable AI (AI2)
+AI-driven Mobile Apps: an Explorative Study
+Towards Seamless Management of AI Models in High-Performance Computing
+The AI Ghostwriter Effect: When Users Do Not Perceive Ownership of
+  AI-Generated Text But Self-Declare as Authors
+Is AI Changing the Rules of Academic Misconduct? An In-depth Look at
+  Students' Perceptions of 'AI-giarism'
+"I'm Not Confident in Debiasing AI Systems Since I Know Too Little":
+  Teaching AI Creators About Gender Bias Through Hands-on Tutorials
+AI Alignment in the Design of Interactive AI: Specification Alignment,
+  Process Alignment, and Evaluation Support
+Advancing AI Audits for Enhanced AI Governance
+AI Safety: Necessary, but insufficient and possibly problematic
+A Brief Survey of Associations Between Meta-Learning and General AI
+How Mock Model Training Enhances User Perceptions of AI Systems
+From the Ground Truth Up: Doing AI Ethics from Practice to Principles
+AI Product Security: A Primer for Developers
+AI empowering research: 10 ways how science can benefit from AI
+An Alternative to Regulation: The Case for Public AI
+The Sanction of Authority: Promoting Public Trust in AI
+Human-AI Collaboration for UX Evaluation: Effects of Explanation and
+  Synchronization
+Structured access: an emerging paradigm for safe AI deployment
+A Seven-Layer Model for Standardising AI Fairness Assessment
+AI-Mediated Exchange Theory
+AI and Medicine
+Antitrust and Artificial Intelligence (AAI): Antitrust Vigilance
+  Lifecycle and AI Legal Reasoning Autonomy
+Some Critical and Ethical Perspectives on the Empirical Turn of AI
+  Interpretability
+Trustworthy AI: From Principles to Practices
+Stakeholder Participation in AI: Beyond "Add Diverse Stakeholders and
+  Stir"
+On Two XAI Cultures: A Case Study of Non-technical Explanations in
+  Deployed AI System
+Towards a Roadmap on Software Engineering for Responsible AI
+Identifying Ethical Issues in AI Partners in Human-AI Co-Creation
+A Transparency Index Framework for AI in Education
+AI Ethics Issues in Real World: Evidence from AI Incident Database
+Possibilities and Implications of the Multi-AI Competition
+Improving Human-AI Collaboration With Descriptions of AI Behavior
+How Do UX Practitioners Communicate AI as a Design Material? Artifacts,
+  Conceptions, and Propositions
+AI Audit: A Card Game to Reflect on Everyday AI Systems
+Prompt Sapper: LLM-Empowered Software Engineering Infrastructure for
+  AI-Native Services
+AI Deception: A Survey of Examples, Risks, and Potential Solutions
+"AI enhances our performance, I have no doubt this one will do the
+  same": The Placebo effect is robust to negative descriptions of AI
+Synergizing Human-AI Agency: A Guide of 23 Heuristics for Service
+  Co-Creation with LLM-Based Agents
+Towards Democratizing AI: A Comparative Analysis of AI as a Service
+  Platforms and the Open Space for Machine Learning Approach
+Towards an AI-Enhanced Cyber Threat Intelligence Processing Pipeline
+Applying HCAI in developing effective human-AI teaming: A perspective
+  from human-AI joint cognitive systems
+AI in Human-computer Gaming: Techniques, Challenges and Opportunities
+Uncalibrated Models Can Improve Human-AI Collaboration
+Never trust, always verify : a roadmap for Trustworthy AI?
+Responsible AI Pattern Catalogue: A Collection of Best Practices for AI
+  Governance and Engineering
+A Systematic Review of Green AI
+AI Usage Cards: Responsibly Reporting AI-generated Content
+Taking control: Policies to address extinction risks from advanced AI
+Towards a Feminist Metaethics of AI
+POLARIS: A framework to guide the development of Trustworthy AI systems
+Artificial intelligence and the transformation of higher education
+  institutions
+The Interplay of Learning, Analytics, and Artificial Intelligence in
+  Education
+Human Indignity: From Legal AI Personhood to Selfish Memes
+RCModel, a Risk Chain Model for Risk Reduction in AI Services
+The State of AI Ethics Report (October 2020)
+Explainability and the Fourth AI Revolution
+Towards Goldilocks Zone in Child-centered AI
+Strategies to architect AI Safety: Defense to guard AI from Adversaries
+Montreal AI Ethics Institute's (MAIEI) Submission to the World
+  Intellectual Property Organization (WIPO) Conversation on Intellectual
+  Property (IP) and Artificial Intelligence (AI) Second Session
+Neural Network Verification for the Masses (of AI graduates)
+Exploring AI Futures Through Role Play
+Does the Whole Exceed its Parts? The Effect of AI Explanations on
+  Complementary Team Performance
+Measuring Human Adaptation to AI in Decision Making: Application to
+  Evaluate Changes after AlphaGo
+"Brilliant AI Doctor" in Rural China: Tensions and Challenges in
+  AI-Powered CDSS Deployment
+Understanding and Creating Art with AI: Review and Outlook
+Do Humans Trust Advice More if it Comes from AI? An Analysis of Human-AI
+  Interactions
+AI in Finance: Challenges, Techniques and Opportunities
+The AI Triplet: Computational, Conceptual, and Mathematical Knowledge in
+  AI Education
+The Human Factor in AI Safety
+The Value of Measuring Trust in AI - A Socio-Technical System
+  Perspective
+Big Data
+NNSC-Cobordism of Bartnik Data in High Dimensions
+Big Data: Opportunities and Privacy Challenges
+Several Typical Paradigms of Industrial Big Data Application
+Identifying Dwarfs Workloads in Big Data Analytics
+A Taxonomy on Big Data: Survey
+On Big Data Benchmarking
+The Implications of Diverse Applications and Scalable Data Sets in
+  Benchmarking Big Data Systems
+Characterizing and Subsetting Big Data Workloads
+Uniqueness of mild solutions to the Navier-Stokes equations in
+  $\big(C((0,T];L^d(\mathbb{R}^d))\cap
+  L^\infty((0,T);L^d(\mathbb{R}^d))\big)^d$
+A Survey on Blockchain for Big Data: Approaches, Opportunities, and
+  Future Directions
+Big Data Analytics = Machine Learning + Cloud Computing
+The Anatomy of Big Data Computing
+Mapping Big Data into Knowledge Space with Cognitive
+  Cyber-Infrastructure
+Video Big Data Analytics in the Cloud: Research Issues and Challenges
+Big Data Security Issues and Challenges in Healthcare
+Universal Knowledge Discovery from Big Data: Towards a Paradigm Shift
+  from 'Knowledge Discovery' to 'Wisdom Discovery'
+Journey from Data Mining to Web Mining to Big Data
+Storage Solutions for Big Data Systems: A Qualitative Study and
+  Comparison
+BDGS: A Scalable Big Data Generator Suite in Big Data Benchmarking
+BigOP: Generating Comprehensive Big Data Workloads as a Benchmarking
+  Framework
+United Statistical Algorithm, Small and Big Data: Future OF Statistician
+Big Data in Cloud Computing Review and Opportunities
+The Streaming k-Mismatch Problem: Tradeoffs between Space and Total Time
+Geospatial Big Data Handling with High Performance Computing: Current
+  Approaches and Future Directions
+Towards PTAS for Precedence Constrained Scheduling via Combinatorial
+  Algorithms
+A Random Sample Partition Data Model for Big Data Analysis
+The Promise and Prejudice of Big Data in Intelligence Community
+Profit Maximization Auction and Data Management in Big Data Markets
+Contextualization of Big Data Quality: A framework for comparison
+Big Data: Understanding Big Data
+Big Graph Mining: Frameworks and Techniques
+Hiding Information in Big Data based on Deep Learning
+A Survey on Sampling and Profiling over Big Data (Technical Report)
+Leveraging cloud based big data analytics in knowledge management for
+  enhanced decision making in organizations
+Big Data Computing Using Cloud-Based Technologies, Challenges and Future
+  Perspectives
+Sharp Frequency Bounds for Sample-Based Queries
+Video Big Data Analytics in the Cloud: A Reference Architecture, Survey,
+  Opportunities, and Open Research Issues
+Big Data Generated by Connected and Automated Vehicles for Safety
+  Monitoring, Assessment and Improvement, Final Report (Year 3)
+Big Data Systems Meet Machine Learning Challenges: Towards Big Data
+  Science as a Service
+Big Data Model "Entity and Features"
+Big Data Analytics Using Cloud and Crowd
+Greening Big Data Networks: The Impact of Veracity
+Federated Learning for Big Data: A Survey on Opportunities,
+  Applications, and Future Directions
+Data Partitioning View of Mining Big Data
+On Designing a Generic Framework for Cloud-based Big Data Analytics
+Big Data: Overview
+DPASF: A Flink Library for Streaming Data preprocessing
+Privacy by design in big data: An overview of privacy enhancing
+  technologies in the era of big data analytics
+REBD:A Conceptual Framework for Big Data Requirements Engineering
+Characterizing Big Data Management
+Big Data Analytics for Wireless and Wired Network Design: A Survey
+Big Data Testing Techniques: Taxonomy, Challenges and Future Trends
+Gradient estimates for singular $p$-Laplace type equations with measure
+  data
+The Danger of a Big Data Episteme and the Need to Evolve GIS
+Big Data: Challenges, Opportunities and Realities
+Sampling techniques for big data analysis in finite population inference
+Securing Big Data systems, A cybersecurity management discussion
+The Implications from Benchmarking Three Big Data Systems
+A New Projection Pursuit Index for Big Data
+Big Data Dimensional Analysis
+Bridging BAD Islands: Declarative Data Sharing at Scale
+Analysis of Big Data Maturity Stage in Hospitality Industry
+Big Spectrum Data: The New Resource for Cognitive Wireless Networking
+Geospatial Big Data Handling Theory and Methods: A Review and Research
+  Challenges
+Big Data and Business Intelligence: Debunking the Myths
+Industrial Big Data Analytics: Challenges, Methodologies, and
+  Applications
+Quality Assurance Technologies of Big Data Applications: A Systematic
+  Literature Review
+Big Learning
+Comparative Analysis of SpatialHadoop and GeoSpark for Geospatial Big
+  Data Analytics
+Big Data Quality: A systematic literature review and future research
+  directions
+Big Data Analytics and Its Applications
+A Survey of Big Data Machine Learning Applications Optimization in Cloud
+  Data Centers and Networks
+An Approach to Handle Big Data Warehouse Evolution
+Big Data Is not just a New Type, but a New Paradigm
+How to use Big Data technologies to optimize operations in Upstream
+  Petroleum Industry
+Big Data and Analytics Implementation in Tertiary Institutions to
+  Predict Students Performance in Nigeria
+Writing summary for the state-of-the-art methods for big data clustering
+  in distributed environment
+Challenges of Big Data Analysis
+BigDataSDNSim: A Simulator for Analyzing Big Data Applications in
+  Software-Defined Cloud Data Centers
+Big Data Meets Metaverse: A Survey
+Enabling Smart Data: Noise filtering in Big Data classification
+Empirical Big Data Research: A Systematic Literature Mapping
+IOTSim: a Cloud based Simulator for Analysing IoT Applications
+Architecting Time-Critical Big-Data Systems
+Transplantation of Data Mining Algorithms to Cloud Computing Platform
+  when Dealing Big Data
+Data learning from big data
+Big Data Challenges of FAST
+Big Data for Traffic Estimation and Prediction: A Survey of Data and
+  Tools
+Big Data and Education: using big data analytics in language learning
+Integrating Big Data and Survey Data for Efficient Estimation of the
+  Median
+Study of the Impact of the Big Data Era on Accounting and Auditing
+The Principle of Least Sensing: A Privacy-Friendly Sensing Paradigm for
+  Urban Big Data Analytics
+Characterization and Architectural Implications of Big Data Workloads
+idwMapper: An interactive and data-driven web mapping framework for
+  visualizing and sensing high-dimensional geospatial (big) data
+Data Motifs: A Lens Towards Fully Understanding Big Data and AI
+  Workloads
+Big Issues for Big Data: challenges for critical spatial data analytics
+Beyond Batch Processing: Towards Real-Time and Streaming Big Data
+Introduction to Big data Technology
+Generalized formal model of big data
+The Implications of Diverse Applications and Scalable Data Sets in
+  Benchmarking Big Data Systems
+Uniqueness of mild solutions to the Navier-Stokes equations in
+  $\big(C((0,T];L^d(\mathbb{R}^d))\cap
+  L^\infty((0,T);L^d(\mathbb{R}^d))\big)^d$
+A Survey on Blockchain for Big Data: Approaches, Opportunities, and
+  Future Directions
+Mapping Big Data into Knowledge Space with Cognitive
+  Cyber-Infrastructure
+Universal Knowledge Discovery from Big Data: Towards a Paradigm Shift
+  from 'Knowledge Discovery' to 'Wisdom Discovery'
+Storage Solutions for Big Data Systems: A Qualitative Study and
+  Comparison
+BigOP: Generating Comprehensive Big Data Workloads as a Benchmarking
+  Framework
+Geospatial Big Data Handling with High Performance Computing: Current
+  Approaches and Future Directions
+Towards PTAS for Precedence Constrained Scheduling via Combinatorial
+  Algorithms
+Leveraging cloud based big data analytics in knowledge management for
+  enhanced decision making in organizations
+Big Data Computing Using Cloud-Based Technologies, Challenges and Future
+  Perspectives
+Video Big Data Analytics in the Cloud: A Reference Architecture, Survey,
+  Opportunities, and Open Research Issues
+Big Data Generated by Connected and Automated Vehicles for Safety
+  Monitoring, Assessment and Improvement, Final Report (Year 3)
+Big Data Systems Meet Machine Learning Challenges: Towards Big Data
+  Science as a Service
+Federated Learning for Big Data: A Survey on Opportunities,
+  Applications, and Future Directions
+Privacy by design in big data: An overview of privacy enhancing
+  technologies in the era of big data analytics
+Gradient estimates for singular $p$-Laplace type equations with measure
+  data
+Geospatial Big Data Handling Theory and Methods: A Review and Research
+  Challenges
+Industrial Big Data Analytics: Challenges, Methodologies, and
+  Applications
+Quality Assurance Technologies of Big Data Applications: A Systematic
+  Literature Review
+Comparative Analysis of SpatialHadoop and GeoSpark for Geospatial Big
+  Data Analytics
+Big Data Quality: A systematic literature review and future research
+  directions
+A Survey of Big Data Machine Learning Applications Optimization in Cloud
+  Data Centers and Networks
+How to use Big Data technologies to optimize operations in Upstream
+  Petroleum Industry
+Big Data and Analytics Implementation in Tertiary Institutions to
+  Predict Students Performance in Nigeria
+Writing summary for the state-of-the-art methods for big data clustering
+  in distributed environment
+BigDataSDNSim: A Simulator for Analyzing Big Data Applications in
+  Software-Defined Cloud Data Centers
+Transplantation of Data Mining Algorithms to Cloud Computing Platform
+  when Dealing Big Data
+Big Data for Traffic Estimation and Prediction: A Survey of Data and
+  Tools
+Integrating Big Data and Survey Data for Efficient Estimation of the
+  Median
+The Principle of Least Sensing: A Privacy-Friendly Sensing Paradigm for
+  Urban Big Data Analytics
+idwMapper: An interactive and data-driven web mapping framework for
+  visualizing and sensing high-dimensional geospatial (big) data
+Data Motifs: A Lens Towards Fully Understanding Big Data and AI
+  Workloads
+The Hadamard Products for bi-periodic Fibonacci and bi-periodic Lucas
+  Generating matrices
+Bi-interpretation in weak set theories
+BI-REC: Guided Data Analysis for Conversational Business Intelligence
+Auto-BI: Automatically Build BI-Models Leveraging Local Join Prediction
+  and Global Schema Graph
+Probing dark energy using convergence power spectrum and bi-spectrum
+Thermoelectric power of Bi and Bi(1-x)Te(x), x=0.0014,in porous Vycor
+  glass
+Thermoelectric power factor of Bi-Sb-Te and Bi-Te-Se alloys and doping
+  strategy: First-principles study
+Effect of Bi-substitution on Structural Stability and Improved
+  Thermoelectric Performance of p-type Half-Heusler TaSbRu: A First-principles
+  Study
+Maximality of bi-intuitionistic propositional logic
+Development of 2D Bi-SQUID Arrays with High Linearity
+Geometric Data Analysis, From Correspondence Analysis to Structured Data
+  Analysis (book review)
+Evaluating the Success of a Data Analysis
+Elements and Principles for Characterizing Variation between Data
+  Analyses
+Topological Data Analysis
+Ball mapper: a shape summary for topological data analysis
+Mobile big data analysis with machine learning
+Categorical exploratory data analysis on goodness-of-fit issues
+Design Principles for Data Analysis
+Self-organizing maps and symbolic data
+The Role of Data Analysis in the Development of Intelligent Energy
+  Networks
+Evaluating the Alignment of a Data Analysis between Analyst and Audience
+A program for SAXS data processing and analysis
+Empowering Data Mesh with Federated Learning
+A Performance Study of Data Mining Techniques: Multiple Linear
+  Regression vs. Factor Analysis
+Spectral data analysis methods for the two-dimensional imaging
+  diagnostics
+Grain - A Java Analysis Framework for Total Data Readout
+Model-Based Clustering and Classification of Functional Data
+Open Data Portal Germany (OPAL) Projektergebnisse
+Inferactive data analysis
+Near real-time streaming analysis of big fusion data
+A proposed solution for analysis management in high energy physics
+Origins of Modern Data Analysis Linked to the Beginnings and Early
+  Development of Computer Science and Information Engineering
+Ultrametric and Generalized Ultrametric in Computational Logic and in
+  Data Analysis
+Meeting Student Needs for Multivariate Data Analysis: A Case Study in
+  Teaching a Multivariate Data Analysis Course with No Pre-requisites
+Online Set-Based Dynamic Analysis for Sound Predictive Race Detection
+Independent Component Analysis for Compositional Data
+Ordered Sets for Data Analysis
+Scaler mode of the Auger Observatory and Sunspots
+Pulling back symmetric Riemannian geometry for data analysis
+Toward an Android Static Analysis Approach for Data Protection
+Object oriented data analysis: Sets of trees
+ROAn, a ROOT based Analysis Framework
+Analysis of cosmic ray data
+Analysis of factors that affect the students academic performance - Data
+  Mining Approach
+Regression analysis with compositional data containing zero values
+Linked Component Analysis from Matrices to High Order Tensors:
+  Applications to Biomedical Data
+Analytic Provenance Datasets: A Data Repository of Human Analysis
+  Activity and Interaction Logs
+An algebraic geometry perspective on topological data analysis
+Differential Data Analysis for Recommender Systems
+Privacy-Preserving Linkage of Distributed Datasets using the Personal
+  Health Train
+Data Lakes, Clouds and Commons: A Review of Platforms for Analyzing and
+  Sharing Genomic Data
+Duration and Interval Hidden Markov Model for Sequential Data Analysis
+Towards High-Performance Exploratory Data Analysis (EDA) Via Stable
+  Equilibrium Point
+Statdepth: a package for analysis of functional and pointcloud data
+  using statistical depth
+Results from Super-Kamiokande
+Analysis of Least square estimator for simple Linear Regression with a
+  uniform distribution error
+Nonlinear analysis of bivariate data with cross recurrence plots
+Recent data analysis to revisit the spin structure function of nucleon
+  in Laplace space
+Implementation of the recovering corrections into the intermittent data
+  analysis
+Generalised Modal Analysis with the Pad�-Laplace transform
+Quantum Informatics View of Statistical Data Processing
+GFA: Exploratory Analysis of Multiple Data Sources with Group Factor
+  Analysis
+Geometry of Data
+The new object oriented analysis framework for H1
+Why we should respect analysis results as data
+Big Data Scaling through Metric Mapping: Exploiting the Remarkable
+  Simplicity of Very High Dimensional Spaces using Correspondence Analysis
+Topological data analysis and machine learning
+How Good Is Open Bicycle Infrastructure Data? A Countrywide Case Study
+  of Denmark
+Multiscale Entropy Analysis: A New Method to Detect Determinism in a
+  Time Series
+A Case for Data Commons: Towards Data Science as a Service
+Privacy-Preserving Methods for Vertically Partitioned Incomplete Data
+Lightweight Knowledge Representations for Automating Data Analysis
+Data depth functions for non-standard data by use of formal concept
+  analysis
+Data augmentation for low resource sentiment analysis using generative
+  adversarial networks
+On the application of topological data analysis: a Z24 Bridge case study
+Data accounting and error counting
+Intelligent data analysis based on the complex network theory methods: a
+  case study
+Another Use of SMOTE for Interpretable Data Collaboration Analysis
+Mathematical and Algorithmic Analysis of Network and Biological Data
+Relaxed data-consistency for limited bandwidth photoacoustic tomography
+floodlight -- A high-level, data-driven sports analytics framework
+GenoCraft: A Comprehensive, User-Friendly Web-Based Platform for
+  High-Throughput Omics Data Analysis and Visualization
+A Comprehensive Review on Computer Vision Analysis of Aerial Data
+Data Lake Ingestion Management
+FQP 2.0: Industry Trend Analysis via Hierarchical Financial Data
+First performance measurements with the Analysis Grand Challenge
+Leveraging LLVM's ScalarEvolution for Symbolic Data Cache Analysis
+A User-Friendly Environment for Battery Data Science
+Writing summary for the state-of-the-art methods for big data clustering
+  in distributed environment
+Development of application for discovering and binding to published
+  geospatial processes in distributed environments
+A Variability-Aware Design Approach to the Data Analysis Modeling
+  Process
+Data Science: A Comprehensive Overview
+Topological Data Analysis Ball Mapper for Finance
+Search for periodicities in experimental data using an autoregression
+  data model
+Joint analysis of solar neutrino and new KamLAND data in the RSFP
+  framework
+Overview of streaming-data algorithms
+Data objects and documenting scientific processes: An analysis of data
+  events in biodiversity data papers
+Recursive Bayesian Filters for Data Assimilation
+Object Oriented Data Analysis of Cell-Well Structured Data
+Oseba: Optimization for Selective Bulk Analysis in Big Data Processing
+Assessing Fairness in the Presence of Missing Data
+Nonlinear Dimensionality Reduction Methods in Climate Data Analysis
+Virtual Data in CMS Analysis
+Industrial Big Data Analytics: Challenges, Methodologies, and
+  Applications
+Real-time intelligent big data processing: technology, platform, and
+  applications
+AugmentTRAJ: A framework for point-based trajectory data augmentation
+Type-based Dependency Analysis for JavaScript
+A review of univariate and multivariate multifractal analysis
+  illustrated by the analysis of marathon runners physiological data
+The Hadamard Products for bi-periodic Fibonacci and bi-periodic Lucas
+  Generating matrices
+Auto-BI: Automatically Build BI-Models Leveraging Local Join Prediction
+  and Global Schema Graph
+The Hadamard Products for bi-periodic Fibonacci and bi-periodic Lucas
+  Generating matrices
+The Hadamard Products for bi-periodic Fibonacci and bi-periodic Lucas
+  Generating matrices
+Thermoelectric power of Bi and Bi(1-x)Te(x), x=0.0014,in porous Vycor
+  glass
+Thermoelectric power factor of Bi-Sb-Te and Bi-Te-Se alloys and doping
+  strategy: First-principles study
+Effect of Bi-substitution on Structural Stability and Improved
+  Thermoelectric Performance of p-type Half-Heusler TaSbRu: A First-principles
+  Study
+Auto-BI: Automatically Build BI-Models Leveraging Local Join Prediction
+  and Global Schema Graph
+Hamilton-laceable bi-powers of locally finite bipartite graphs
+Thermoelectric power of Bi and Bi(1-x)Te(x), x=0.0014,in porous Vycor
+  glass
+Thermoelectric power of Bi and Bi(1-x)Te(x), x=0.0014,in porous Vycor
+  glass
+Thermoelectric power factor of Bi-Sb-Te and Bi-Te-Se alloys and doping
+  strategy: First-principles study
+Rotatory power reversal induced by magnetic-current in bi-isotropic
+  media
+Thermoelectric power factor of Bi-Sb-Te and Bi-Te-Se alloys and doping
+  strategy: First-principles study
+Navigating the acceptance of implementing business intelligence in
+  organizations: A system dynamics approach
+Effect of Bi-substitution on Structural Stability and Improved
+  Thermoelectric Performance of p-type Half-Heusler TaSbRu: A First-principles
+  Study
+Bi-Directional Cooperative NOMA without Full CSIT
+Effect of Bi-substitution on Structural Stability and Improved
+  Thermoelectric Performance of p-type Half-Heusler TaSbRu: A First-principles
+  Study
+Spatial beam self-cleaning in bi-tapered multimode fibers
+Rotatory power reversal induced by magnetic-current in bi-isotropic
+  media
+Fano resonance in two-dimensional optical waveguide arrays with a
+  bi-modal defect
+Navigating the acceptance of implementing business intelligence in
+  organizations: A system dynamics approach
+Rotatory power reversal induced by magnetic-current in bi-isotropic
+  media
+On Bi-R-Diagonal Pairs of Operators
+Navigating the acceptance of implementing business intelligence in
+  organizations: A system dynamics approach
+Strategy for enhanced thermoelectric performance of Bi2S3 nanorods by Bi
+  nanoinclusions
+Fano resonance in two-dimensional optical waveguide arrays with a
+  bi-modal defect
+Resonant-state expansion for open optical systems: Generalization to
+  magnetic, chiral, and bi-anisotropic materials
+Bipartite bi-Cayley graphs over metacyclic groups of odd prime-power
+  order
+Fano resonance in two-dimensional optical waveguide arrays with a
+  bi-modal defect
+Strategy for enhanced thermoelectric performance of Bi2S3 nanorods by Bi
+  nanoinclusions
+Bismuth-doped Ga2O3 as candidate for p-type transparent conducting
+  material
+Resonant-state expansion for open optical systems: Generalization to
+  magnetic, chiral, and bi-anisotropic materials
+Devices for Thermal Conductivity Measurements of Electroplated Bi for
+  X-ray TES Absorbers
+Strategy for enhanced thermoelectric performance of Bi2S3 nanorods by Bi
+  nanoinclusions
+Bipartite bi-Cayley graphs over metacyclic groups of odd prime-power
+  order
+Resonant-state expansion for open optical systems: Generalization to
+  magnetic, chiral, and bi-anisotropic materials
+Microstructure analysis of bismuth absorbers for transition-edge sensor
+  X-ray microcalorimeters
+Bismuth-doped Ga2O3 as candidate for p-type transparent conducting
+  material
+Reinforcement Learning-Based Cooperative P2P Power Trading between DC
+  Nanogrid Clusters with Wind and PV Energy Resources
+Bipartite bi-Cayley graphs over metacyclic groups of odd prime-power
+  order
+Devices for Thermal Conductivity Measurements of Electroplated Bi for
+  X-ray TES Absorbers
+Bismuth-doped Ga2O3 as candidate for p-type transparent conducting
+  material
+Investigating Phase Transition and Morphology of Bi-Te Thermoelectric
+  System
+Microstructure analysis of bismuth absorbers for transition-edge sensor
+  X-ray microcalorimeters
+Intergrowth and thermoelectric properties in the Bi-Ca-Co-O system
+Devices for Thermal Conductivity Measurements of Electroplated Bi for
+  X-ray TES Absorbers
+Reinforcement Learning-Based Cooperative P2P Power Trading between DC
+  Nanogrid Clusters with Wind and PV Energy Resources
+Effect of damped oscillations in the inflationary potential
+Microstructure analysis of bismuth absorbers for transition-edge sensor
+  X-ray microcalorimeters
+A Focusing Framework for Testing Bi-Directional Causal Effects with GWAS
+  Summary Data
+Reinforcement Learning-Based Cooperative P2P Power Trading between DC
+  Nanogrid Clusters with Wind and PV Energy Resources
+Investigating Phase Transition and Morphology of Bi-Te Thermoelectric
+  System
+Real-Time Bi-directional Electric Vehicle Charging Control with
+  Distribution Grid Implementation
+Investigating Phase Transition and Morphology of Bi-Te Thermoelectric
+  System
+Hamiltonicity of bi-power of bipartite graphs, for finite and infinite
+  cases
+A Focusing Framework for Testing Bi-Directional Causal Effects with GWAS
+  Summary Data
+DC and RF Measurements of Serial Bi-SQUID Arrays
+Real-Time Bi-directional Electric Vehicle Charging Control with
+  Distribution Grid Implementation
+The Hadamard Products for bi-periodic Fibonacci and bi-periodic Lucas
+  Generating matrices
+$V$-universal Hopf algebras (co)acting on $Ω$-algebras
+A Focusing Framework for Testing Bi-Directional Causal Effects with GWAS
+  Summary Data
+Hamiltonicity of bi-power of bipartite graphs, for finite and infinite
+  cases
+Real-Time Bi-directional Electric Vehicle Charging Control with
+  Distribution Grid Implementation
+Ultrafast multi-photon excitation of ScVO$_4$:Bi$^{3+}$ for luminescence
+  thermometry
+Auto-BI: Automatically Build BI-Models Leveraging Local Join Prediction
+  and Global Schema Graph
+Symmetric and antisymmetric constitutive tensors for bi-isotropic and
+  bi-anisotropic media
+$V$-universal Hopf algebras (co)acting on $Ω$-algebras
+Hamiltonicity of bi-power of bipartite graphs, for finite and infinite
+  cases
+Thermoelectric power of Bi and Bi(1-x)Te(x), x=0.0014,in porous Vycor
+  glass
+Ultrafast multi-photon excitation of ScVO$_4$:Bi$^{3+}$ for luminescence
+  thermometry
+$V$-universal Hopf algebras (co)acting on $Ω$-algebras
+Symmetric and antisymmetric constitutive tensors for bi-isotropic and
+  bi-anisotropic media
+Thermoelectric power factor of Bi-Sb-Te and Bi-Te-Se alloys and doping
+  strategy: First-principles study
+Hybrid Optimal Theory and Predictive Control for Power Management in
+  Hybrid Electric Vehicle
+Graph-based Cyber Security Analysis of State Estimation in Smart Power
+  Grid
+The geometry of bi-Perron numbers with real or unimodular Galois
+  conjugates
+Ultrafast multi-photon excitation of ScVO$_4$:Bi$^{3+}$ for luminescence
+  thermometry
+Effect of Bi-substitution on Structural Stability and Improved
+  Thermoelectric Performance of p-type Half-Heusler TaSbRu: A First-principles
+  Study
+A VLBI survey of compact broad absorption line quasars with balnicity
+  index BI>0
+Hybrid Optimal Theory and Predictive Control for Power Management in
+  Hybrid Electric Vehicle
+Symmetric and antisymmetric constitutive tensors for bi-isotropic and
+  bi-anisotropic media
+Importance of spin-orbit coupling in power factor calculations for
+  half-Heusler ANiB (A=Ti, Hf, Sc, Y; B=Sn, Sb, Bi)
+Graph-based Cyber Security Analysis of State Estimation in Smart Power
+  Grid
+Sending a Bi-Variate Gaussian over a Gaussian MAC
+Hybrid Optimal Theory and Predictive Control for Power Management in
+  Hybrid Electric Vehicle
+Rotatory power reversal induced by magnetic-current in bi-isotropic
+  media
+A VLBI survey of compact broad absorption line quasars with balnicity
+  index BI>0
+New Properties of Fourier Series and Riemann Zeta Function
+Navigating the acceptance of implementing business intelligence in
+  organizations: A system dynamics approach
+Importance of spin-orbit coupling in power factor calculations for
+  half-Heusler ANiB (A=Ti, Hf, Sc, Y; B=Sn, Sb, Bi)
+The geometry of bi-Perron numbers with real or unimodular Galois
+  conjugates
+A VLBI survey of compact broad absorption line quasars with balnicity
+  index BI>0
+Least Upper Bounds of the Powers Extracted and Scattered by
+  Bi-anisotropic Particles
+Importance of spin-orbit coupling in power factor calculations for
+  half-Heusler ANiB (A=Ti, Hf, Sc, Y; B=Sn, Sb, Bi)
+Heat Management in Thermoelectric Power Generators
+Least Upper Bounds of the Powers Extracted and Scattered by
+  Bi-anisotropic Particles
+Fano resonance in two-dimensional optical waveguide arrays with a
+  bi-modal defect
+A Sunyaev-Zel'dovich take on cluster radio haloes -- I. Global scaling
+  and bi-modality using Planck data
+Strategy for enhanced thermoelectric performance of Bi2S3 nanorods by Bi
+  nanoinclusions
+A Sunyaev-Zel'dovich take on cluster radio haloes -- I. Global scaling
+  and bi-modality using Planck data
+Least Upper Bounds of the Powers Extracted and Scattered by
+  Bi-anisotropic Particles
+Resonant-state expansion for open optical systems: Generalization to
+  magnetic, chiral, and bi-anisotropic materials
+Compressed Air Energy Storage-Part I: An Accurate Bi-linear Cavern Model
+Bipartite bi-Cayley graphs over metacyclic groups of odd prime-power
+  order
+Spin-orbit coupling and weak antilocalization in thermoelectric material
+  $β$-K$_{2}$Bi$_{8}$Se$_{13}$
+Spin-orbit coupling and weak antilocalization in thermoelectric material
+  $β$-K$_{2}$Bi$_{8}$Se$_{13}$
+A Sunyaev-Zel'dovich take on cluster radio haloes -- I. Global scaling
+  and bi-modality using Planck data
+Bismuth-doped Ga2O3 as candidate for p-type transparent conducting
+  material
+Bi-Objective Nonnegative Matrix Factorization: Linear Versus
+  Kernel-Based Models
+Devices for Thermal Conductivity Measurements of Electroplated Bi for
+  X-ray TES Absorbers
+Bi-Objective Nonnegative Matrix Factorization: Linear Versus
+  Kernel-Based Models
+Surface roughness analysis of the hydrophilic SiO_2/TiO_2 nano bi-layers
+  by Level crossing approach
+Surface roughness analysis of the hydrophilic SiO_2/TiO_2 nano bi-layers
+  by Level crossing approach
+Spin-orbit coupling and weak antilocalization in thermoelectric material
+  $β$-K$_{2}$Bi$_{8}$Se$_{13}$
+Microstructure analysis of bismuth absorbers for transition-edge sensor
+  X-ray microcalorimeters
+Groove-rolling as an alternative process to fabricate Bi-2212 wires for
+  practical applications
+Groove-rolling as an alternative process to fabricate Bi-2212 wires for
+  practical applications
+Development of Ferromagnetic Fluctuations in Heavily Overdoped
+  (Bi,Pb)_2_Sr_2_CuO_6+delta_ Copper Oxides
+Reinforcement Learning-Based Cooperative P2P Power Trading between DC
+  Nanogrid Clusters with Wind and PV Energy Resources
+Bi-Objective Nonnegative Matrix Factorization: Linear Versus
+  Kernel-Based Models
+Development of Ferromagnetic Fluctuations in Heavily Overdoped
+  (Bi,Pb)_2_Sr_2_CuO_6+delta_ Copper Oxides
+Photocurrent in Bismuth Junctions with Graphene
+Surface roughness analysis of the hydrophilic SiO_2/TiO_2 nano bi-layers
+  by Level crossing approach
+Investigating Phase Transition and Morphology of Bi-Te Thermoelectric
+  System
+Bi-Directional Mission Offloading for Agile Space-Air-Ground Integrated
+  Networks
+Groove-rolling as an alternative process to fabricate Bi-2212 wires for
+  practical applications
+Bi-Directional Mission Offloading for Agile Space-Air-Ground Integrated
+  Networks
+Ultra linear magnetic flux-to-voltage conversion in superconducting
+  quantum interference proximity transistors
+Development of Ferromagnetic Fluctuations in Heavily Overdoped
+  (Bi,Pb)_2_Sr_2_CuO_6+delta_ Copper Oxides
+Ultra linear magnetic flux-to-voltage conversion in superconducting
+  quantum interference proximity transistors
+Adversarial Bi-Regressor Network for Domain Adaptive Regression
+Adversarial Bi-Regressor Network for Domain Adaptive Regression
+A Focusing Framework for Testing Bi-Directional Causal Effects with GWAS
+  Summary Data
+Carrollian Born-Infeld Electrodynamics
+Carrollian Born-Infeld Electrodynamics
+Bi-Directional Mission Offloading for Agile Space-Air-Ground Integrated
+  Networks
+Real-Time Bi-directional Electric Vehicle Charging Control with
+  Distribution Grid Implementation
+Power-Aware Virtual Network Function Placement and Routing using an
+  Abstraction Technique
+Power-Aware Virtual Network Function Placement and Routing using an
+  Abstraction Technique
+Hamiltonicity of bi-power of bipartite graphs, for finite and infinite
+  cases
+Ultra linear magnetic flux-to-voltage conversion in superconducting
+  quantum interference proximity transistors
+$V$-universal Hopf algebras (co)acting on $Ω$-algebras
+Classification of COVID-19 anomalous diffusion driven by mean squared
+  displacement
+Classification of COVID-19 anomalous diffusion driven by mean squared
+  displacement
+Ultrafast multi-photon excitation of ScVO$_4$:Bi$^{3+}$ for luminescence
+  thermometry
+Power-Aware Virtual Network Function Placement and Routing using an
+  Abstraction Technique
+Thermoelectric calculations of ring-shaped bands in two-dimensional
+  Bi$_2$Te$_3$, Bi$_2$Se$_3$ and Sb$_2$Te$_3$: a comparison of simple
+  scattering approximations
+Symmetric and antisymmetric constitutive tensors for bi-isotropic and
+  bi-anisotropic media
+Thermoelectric calculations of ring-shaped bands in two-dimensional
+  Bi$_2$Te$_3$, Bi$_2$Se$_3$ and Sb$_2$Te$_3$: a comparison of simple
+  scattering approximations
+Efficiency of a thermodynamic motor at maximum power
+Classification of COVID-19 anomalous diffusion driven by mean squared
+  displacement
+Graph-based Cyber Security Analysis of State Estimation in Smart Power
+  Grid
+Thermoelectric Alchemy: Designing A Chemical Analog to PbTe with
+  Intrinsic High Band Degeneracy and Low Lattice Thermal Conductivity
+On intelligent energy harvesting
+Hybrid Optimal Theory and Predictive Control for Power Management in
+  Hybrid Electric Vehicle
+Thermoelectric Alchemy: Designing A Chemical Analog to PbTe with
+  Intrinsic High Band Degeneracy and Low Lattice Thermal Conductivity
+e
+  scattering approximations
+Comparative analysis of tunneling magnetoresistance in low-$T_c$
+  Nb/AlAlOx/Nb and high-$T_c$ Bi$_{2-y}$Pb$_y$Sr$_2$CaCu$_2$O$_{8+δ}$
+  intrinsic Josephson junctions
+Comparative analysis of tunneling magnetoresistance in low-$T_c$
+  Nb/AlAlOx/Nb and high-$T_c$ Bi$_{2-y}$Pb$_y$Sr$_2$CaCu$_2$O$_{8+δ}$
+  intrinsic Josephson junctions
+The geometry of bi-Perron numbers with real or unimodular Galois
+  conjugates
+Power-Law Decay of Standing Waves on the Surface of Topological
+  Insulators
+Thermoelectric Alchemy: Designing A Chemical Analog to PbTe with
+  Intrinsic High Band Degeneracy and Low Lattice Thermal Conductivity
+A VLBI survey of compact broad absorption line quasars with balnicity
+  index BI>0
+Type Ia Supernovae with Bi-Modal Explosions Are Common -- Possible
+  Smoking Gun for Direct Collisions of White-Dwarfs
+Type Ia Supernovae with Bi-Modal Explosions Are Common -- Possible
+  Smoking Gun for Direct Collisions of White-Dwarfs
+Importance of spin-orbit coupling in power factor calculations for
+  half-Heusler ANiB (A=Ti, Hf, Sc, Y; B=Sn, Sb, Bi)
+The tensor bi-spectrum in a matter bounce
+Comparative analysis of tunneling magnetoresistance in low-$T_c$
+  Nb/AlAlOx/Nb and high-$T_c$ Bi$_{2-y}$Pb$_y$Sr$_2$CaCu$_2$O$_{8+δ}$
+  intrinsic Josephson junctions
+Power-Law Decay of Standing Waves on the Surface of Topological
+  Insulators
+Unusual $^{209}$Bi NMR quadrupole effects in topological insulator
+  Bi$_2$Se$_3$
+Type Ia Supernovae with Bi-Modal Explosions Are Common -- Possible
+  Smoking Gun for Direct Collisions of White-Dwarfs
+Least Upper Bounds of the Powers Extracted and Scattered by
+  Bi-anisotropic Particles
+Influence of Bi substitution with rare-earth elements on the transport
+  properties of BiCuSeO oxyselenides
+Influence of Bi substitution with rare-earth elements on the transport
+  properties of BiCuSeO oxyselenides
+Time-Frequency Mask Aware Bi-directional LSTM: A Deep Learning Approach
+  for Underwater Acoustic Signal Separation
+Time-Frequency Mask Aware Bi-directional LSTM: A Deep Learning Approach
+  for Underwater Acoustic Signal Separation
+Unusual $^{209}$Bi NMR quadrupole effects in topological insulator
+  Bi$_2$Se$_3$
+A Sunyaev-Zel'dovich take on cluster radio haloes -- I. Global scaling
+  and bi-modality using Planck data
+Spin-to-charge conversion by spin pumping in sputtered polycrystalline
+  Bi$_x$Se$_{1-x}$
+Spin-to-charge conversion by spin pumping in sputtered polycrystalline
+  Bi$_x$Se$_{1-x}$
+Influence of Bi substitution with rare-earth elements on the transport
+  properties of BiCuSeO oxyselenides
+Wireless Information and Power Transfer in Full-Duplex Communication
+  Systems
+Wireless Information and Power Transfer in Full-Duplex Communication
+  Systems
+K$_{2}$Bi$_{8}$Se$_{13}$
+Time-Frequency Mask Aware Bi-directional LSTM: A Deep Learning Approach
+  for Underwater Acoustic Signal Separation
+Spin-to-charge conversion by spin pumping in sputtered polycrystalline
+  Bi$_x$Se$_{1-x}$
+Points fattening on P^1 x P^1 and symbolic powers of bi-homogeneous
+  ideals
+Wireless Capacity with Oblivious Power in General Metrics
+Bi-Objective Nonnegative Matrix Factorization: Linear Versus
+  Kernel-Based Models
+Points fattening on P^1 x P^1 and symbolic powers of bi-homogeneous
+  ideals
+Wireless Information and Power Transfer in Full-Duplex Communication
+  Systems
+Surface roughness analysis of the hydrophilic SiO_2/TiO_2 nano bi-layers
+  by Level crossing approach
+Surface Tomonaga-Luttinger liquid state on Bi/InSb(001)
+Bi Event Timer for Physics Lab
+Points fattening on P^1 x P^1 and symbolic powers of bi-homogeneous
+  ideals
+Groove-rolling as an alternative process to fabricate Bi-2212 wires for
+  practical applications
+Decomposition of non-convex optimization via bi-level distributed ALADIN
+Development of Ferromagnetic Fluctuations in Heavily Overdoped
+  (Bi,Pb)_2_Sr_2_CuO_6+delta_ Copper Oxides
+Large-scalable fabrication of improved Bi-Te-based flexible
+  thermoelectric modules using a semiconductor manufacturing process
+Large-scalable fabrication of improved Bi-Te-based flexible
+  thermoelectric modules using a semiconductor manufacturing process
+Bi-Directional Mission Offloading for Agile Space-Air-Ground Integrated
+  Networks
+Graphical Methods for Defense Against False-data Injection Attacks on
+  Power System State Estimation
+Graphical Methods for Defense Against False-data Injection Attacks on
+  Power System State Estimation
+Ultra linear magnetic flux-to-voltage conversion in superconducting
+  quantum interference proximity transistors
+Large-scalable fabrication of improved Bi-Te-based flexible
+  thermoelectric modules using a semiconductor manufacturing process
+Wireless Powered Communication: Opportunities and Challenges
+Wireless Powered Communication: Opportunities and Challenges
+Graphical Methods for Defense Against False-data Injection Attacks on
+  Power System State Estimation
+Wireless Power Charging Control in Multiuser Broadband Networks
+Wireless Power Charging Control in Multiuser Broadband Networks
+Power-Aware Virtual Network Function Placement and Routing using an
+  Abstraction Technique
+Wireless Powered Communication Networks: An Overview
+Wireless Powered Communication Networks: An Overview
+Computation Rate Maximization in Wireless Powered MEC with Spread
+  Spectrum Multiple Access
+Classification of COVID-19 anomalous diffusion driven by mean squared
+  displacement
+Computation Rate Maximization in Wireless Powered MEC with Spread
+  Spectrum Multiple Access
+Compressed Air Energy Storage-Part II: Application to Power System Unit
+  Commitment
+Thermoelectric calculations of ring-shaped bands in two-dimensional
+  Bi$_2$Te$_3$, Bi$_2$Se$_3$ and Sb$_2$Te$_3$: a comparison of simple
+  scattering approximations
+Computation Rate Maximization in Wireless Powered MEC with Spread
+  Spectrum Multiple Access
+Compressed Air Energy Storage-Part II: Application to Power System Unit
+  Commitment
+Sharp inflaton potentials and bi-spectra: Effects of smoothening the
+  discontinuity
+Sharp inflaton potentials and bi-spectra: Effects of smoothening the
+  discontinuity
+Compressed Air Energy Storage-Part II: Application to Power System Unit
+  Commitment
+Thermoelectric Alchemy: Designing A Chemical Analog to PbTe with
+  Intrinsic High Band Degeneracy and Low Lattice Thermal Conductivity
+Superconducting Gap and Pseudogap in Bi-2212
+Sharp inflaton potentials and bi-spectra: Effects of smoothening the
+  discontinuity
+Superconducting Gap and Pseudogap in Bi-2212
+Influence of a low magnetic field on the thermal diffusivity of Bi-2212
+Influence of a low magnetic field on the thermal diffusivity of Bi-2212
+Comparative analysis of tunneling magnetoresistance in low-$T_c$
+  Nb/AlAlOx/Nb and high-$T_c$ Bi$_{2-y}$Pb$_y$Sr$_2$CaCu$_2$O$_{8+δ}$
+  intrinsic Josephson junctions
+Interacting spinor and scalar fields in a Bianchi type-I Universe:
+  Oscillatory solutions
+Power-Law Decay of Standing Waves on the Surface of Topological
+  Insulators
+Interacting spinor and scalar fields in a Bianchi type-I Universe:
+  Oscillatory solutions
+Interacting spinor and scalar fields in a Bianchi type-I Universe:
+  Oscillatory solutions
+Impact and Implication of Bi-Large Neutrino Mixings on GUTs
+Impact and Implication of Bi-Large Neutrino Mixings on GUTs
+Type Ia Supernovae with Bi-Modal Explosions Are Common -- Possible
+  Smoking Gun for Direct Collisions of White-Dwarfs
+Hadamard functions of inverse M-Matrices
+Hadamard functions of inverse M-Matrices
+Hadamard functions of inverse M-Matrices
+Unusual $^{209}$Bi NMR quadrupole effects in topological insulator
+  Bi$_2$Se$_3$
+Crystal bases and combinatorics of infinite rank quantum groups
+Crystal bases and combinatorics of infinite rank quantum groups
+Crystal bases and combinatorics of infinite rank quantum groups
+Influence of Bi substitution with rare-earth elements on the transport
+  properties of BiCuSeO oxyselenides
+Vortex glass scaling in Pb-doped Bi2223 single crystal
+Vortex glass scaling in Pb-doped Bi2223 single crystal
+Vortex glass scaling in Pb-doped Bi2223 single crystal
+Time-Frequency Mask Aware Bi-directional LSTM: A Deep Learning Approach
+  for Underwater Acoustic Signal Separation
+Isotropic Chiral Objects With Zero Backscattering
+Isotropic Chiral Objects With Zero Backscattering
+Isotropic Chiral Objects With Zero Backscattering
+Spin-to-charge conversion by spin pumping in sputtered polycrystalline
+  Bi$_x$Se$_{1-x}$
+Mode conversion in nonlinear waveguides stimulated by the longitudinal
+  bi-harmonic refractive index modulation
+Mode conversion in nonlinear waveguides stimulated by the longitudinal
+  bi-harmonic refractive index modulation
+Mode conversion in nonlinear waveguides stimulated by the longitudinal
+  bi-harmonic refractive index modulation
+Wireless Information and Power Transfer in Full-Duplex Communication
+  Systems
+The Kuramoto model of coupled oscillators with a bi-harmonic coupling
+  function
+The Kuramoto model of coupled oscillators with a bi-harmonic coupling
+  function
+The Kuramoto model of coupled oscillators with a bi-harmonic coupling
+  function
+Bi-Level Online Control without Regret
+Bi-Level Online Control without Regret
+Points fattening on P^1 x P^1 and symbolic powers of bi-homogeneous
+  ideals
+A conditionally integrable Schrödinger potential of a bi-confluent
+  Heun class
+A conditionally integrable Schrödinger potential of a bi-confluent
+  Heun class
+A conditionally integrable Schrödinger potential of a bi-confluent
+  Heun class
+Supersymmetric Bi-Hamiltonian Systems
+Multibit memory operation of metal-oxide bi-layer memristors
+Multibit memory operation of metal-oxide bi-layer memristors
+Controlling the long-term dynamics of Brillouin Fiber Lasers using pump
+  modulation: Bi-stable lasing and Hysteresis
+Large-scalable fabrication of improved Bi-Te-based flexible
+  thermoelectric modules using a semiconductor manufacturing process
+Controlling the long-term dynamics of Brillouin Fiber Lasers using pump
+  modulation: Bi-stable lasing and Hysteresis
+Controlling the long-term dynamics of Brillouin Fiber Lasers using pump
+  modulation: Bi-stable lasing and Hysteresis
+Graphical Methods for Defense Against False-data Injection Attacks on
+  Power System State Estimation
+Music Genre Classification with Paralleling Recurrent Convolutional
+  Neural Network
+Music Genre Classification with Paralleling Recurrent Convolutional
+  Neural Network
+Music Genre Classification with Paralleling Recurrent Convolutional
+  Neural Network
+Modeling electromagnetic resonators using quasinormal modes
+Modeling electromagnetic resonators using quasinormal modes
+Computation Rate Maximization in Wireless Powered MEC with Spread
+  Spectrum Multiple Access
+Compressed Air Energy Storage-Part II: Application to Power System Unit
+  Commitment
+Sharp inflaton potentials and bi-spectra: Effects of smoothening the
+  discontinuity
+Interacting spinor and scalar fields in a Bianchi type-I Universe:
+  Oscillatory solutions
+Mode conversion in nonlinear waveguides stimulated by the longitudinal
+  bi-harmonic refractive index modulation
+The Kuramoto model of coupled oscillators with a bi-harmonic coupling
+  function
+A conditionally integrable Schrödinger potential of a bi-confluent
+  Heun class
+Controlling the long-term dynamics of Brillouin Fiber Lasers using pump
+  modulation: Bi-stable lasing and Hysteresis
+Music Genre Classification with Paralleling Recurrent Convolutional
+  Neural Network
+The Governance of Physical Artificial Intelligence
+Does an artificial intelligence perform market manipulation with its own
+  discretion? -- A genetic algorithm learns in an artificial market simulation
+Impact of Artificial Intelligence on Economic Theory
+The case for psychometric artificial general intelligence
+Proceedings of the Thirteenth Conference on Uncertainty in Artificial
+  Intelligence (1997)
+Proceedings of the Ninth Conference on Uncertainty in Artificial
+  Intelligence (1993)
+Proceedings of the Second Conference on Uncertainty in Artificial
+  Intelligence (1986)
+Artificial Intelligence in Humans
+AAAI FSS-18: Artificial Intelligence in Government and Public Sector
+  Proceedings
+Watershed of Artificial Intelligence: Human Intelligence, Machine
+  Intelligence, and Biological Intelligence
+Perspective: Purposeful Failure in Artificial Life and Artificial
+  Intelligence
+The Artificial Scientist: Logicist, Emergentist, and Universalist
+  Approaches to Artificial General Intelligence
+Comprehensible Artificial Intelligence on Knowledge Graphs: A survey
+Human $\neq$ AGI
+Artificial Intelligence Technology analysis using Artificial
+  Intelligence patent through Deep Learning model and vector space model
+Three IQs of AI Systems and their Testing Methods
+Examining correlation between trust and transparency with explainable
+  artificial intelligence
+Proceedings of the Twenty-Seventh Conference on Uncertainty in
+  Artificial Intelligence (2011)
+Proceedings of the Twenty-Sixth Conference on Uncertainty in Artificial
+  Intelligence (2010)
+Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial
+  Intelligence (2009)
+Proceedings of the Twenty-Fourth Conference on Uncertainty in Artificial
+  Intelligence (2008)
+Proceedings of the Twenty-First Conference on Uncertainty in Artificial
+  Intelligence (2005)
+Proceedings of the Twenty-Second Conference on Uncertainty in Artificial
+  Intelligence (2006)
+Proceedings of the Twentieth Conference on Uncertainty in Artificial
+  Intelligence (2004)
+Proceedings of the Twenty-Eighth Conference on Uncertainty in Artificial
+  Intelligence (2012)
+Proceedings of the Nineteenth Conference on Uncertainty in Artificial
+  Intelligence (2003)
+Proceedings of the Seventeenth Conference on Uncertainty in Artificial
+  Intelligence (2001)
+Proceedings of the Eighteenth Conference on Uncertainty in Artificial
+  Intelligence (2002)
+Proceedings of the Sixteenth Conference on Uncertainty in Artificial
+  Intelligence (2000)
+Proceedings of the Fifteenth Conference on Uncertainty in Artificial
+  Intelligence (1999)
+Proceedings of the Fourteenth Conference on Uncertainty in Artificial
+  Intelligence (1998)
+Proceedings of the Twelfth Conference on Uncertainty in Artificial
+  Intelligence (1996)
+Proceedings of the Eleventh Conference on Uncertainty in Artificial
+  Intelligence (1995)
+Proceedings of the Tenth Conference on Uncertainty in Artificial
+  Intelligence (1994)
+Proceedings of the Eighth Conference on Uncertainty in Artificial
+  Intelligence (1992)
+Proceedings of the Seventh Conference on Uncertainty in Artificial
+  Intelligence (1991)
+Proceedings of the Sixth Conference on Uncertainty in Artificial
+  Intelligence (1990)
+Proceedings of the Fifth Conference on Uncertainty in Artificial
+  Intelligence (1989)
+Proceedings of the Fourth Conference on Uncertainty in Artificial
+  Intelligence (1988)
+Proceedings of the Third Conference on Uncertainty in Artificial
+  Intelligence (1987)
+Proceedings of the First Conference on Uncertainty in Artificial
+  Intelligence (1985)
+AAAI FSS-19: Artificial Intelligence in Government and Public Sector
+  Proceedings
+Proceedings of the Twenty-Ninth Conference on Uncertainty in Artificial
+  Intelligence (2013)
+Philosophy in the Face of Artificial Intelligence
+Advances in Artificial Intelligence Require Progress Across all of
+  Computer Science
+AAAI FSS-20: Artificial Intelligence in Government and Public Sector
+  Proceedings
+AAAI FSS-21: Artificial Intelligence in Government and Public Sector
+  Proceedings
+Intelligence of Astronomical Optical Telescope: Present Status and
+  Future Perspectives
+AAAI-2019 Workshop on Games and Simulations for Artificial Intelligence
+From Statistical Relational to Neuro-Symbolic Artificial Intelligence
+A Study on Artificial Intelligence IQ and Standard Intelligent Model
+Hybrid Systems Knowledge Representation Using Modelling Environment
+  System Techniques Artificial Intelligence
+A Finite-Time Technological Singularity Model With Artificial
+  Intelligence Self-Improvement
+Creativity and Artificial Intelligence: A Digital Art Perspective
+Foundations of Intelligence in Natural and Artificial Systems: A
+  Workshop Report
+The limit of human intelligence
+Is Artificial Intelligence Providing the Second Revolution for Weather
+  Forecasting?
+On a Functional Definition of Intelligence
+Tests of Machine Intelligence
+An Approximation of the Universal Intelligence Measure
+Decision under Uncertainty
+The Book of Why: Review
+Game-based Platforms for Artificial Intelligence Research
+Bridging the Gap between Artificial Intelligence and Artificial General
+  Intelligence: A Ten Commandment Framework for Human-Like Intelligence
+Techniques for Adversarial Examples Threatening the Safety of Artificial
+  Intelligence Based Systems
+Action Selection Properties in a Software Simulated Agent
+Modular Belief Updates and Confusion about Measures of Certainty in
+  Artificial Intelligence Research
+Stovepiping and Malicious Software: A Critical Review of AGI Containment
+A Novel Method for Developing Robotics via Artificial Intelligence and
+  Internet of Things
+Human-Centered Artificial Intelligence and Machine Learning
+Machine Learning in Artificial Intelligence: Towards a Common
+  Understanding
+Deep Learning, Natural Language Processing, and Explainable Artificial
+  Intelligence in the Biomedical Domain
+A Cybersecurity Risk Analysis Framework for Systems with Artificial
+  Intelligence Components
+Quantifying Natural and Artificial Intelligence in Robots and Natural
+  Systems with an Algorithmic Behavioural Test
+Seeding the Singularity for A.I
+Physical Artificial Intelligence: The Concept Expansion of
+  Next-Generation Artificial Intelligence
+Can Artificial Intelligence Do Everything That We Can?
+Hybrid Super Intelligence and Polymetric Analysis
+Artificial Intelligence and Economic Theories
+Use of Artificial Intelligence Techniques / Applications in Cyber
+  Defense
+Human-in-the-loop Artificial Intelligence
+A Formal Measure of Machine Intelligence
+Computational Narrative Intelligence: A Human-Centered Goal for
+  Artificial Intelligence
+Understanding Human Intelligence through Human Limitations
+Intelligence as information processing: brains, swarms, and computers
+Accelerating Entrepreneurial Decision-Making Through Hybrid Intelligence
+What Does Artificial Life Tell Us About Death?
+Integrating Generative Artificial Intelligence in Intelligent Vehicle
+  Systems
+Measuring the intelligence of an idealized mechanical knowing agent
+Intelligent behavior depends on the ecological niche: Scaling up AI to
+  human-like intelligence in socio-cultural environments
+Artificial Intelligence for Interstellar Travel
+Measuring Intelligence and Growth Rate: Variations on Hibbard's
+  Intelligence Measure
+Cognitive Architecture for Co-Evolutionary Hybrid Intelligence
+A Definition of Artificial Intelligence
+Guidelines for Artificial Intelligence Containment
+Physics Enhanced Artificial Intelligence
+GeoAI in Social Science
+LightHouse: A Survey of AGI Hallucination
+Ethical Considerations in Artificial Intelligence Courses
+Explanation in Artificial Intelligence: Insights from the Social
+  Sciences

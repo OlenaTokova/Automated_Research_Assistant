@@ -1,0 +1,23 @@
+from jinja2 import Template
+
+template_string = """
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>arXiv Search Results</title>
+</head>
+<body>
+    <h1>arXiv Article Search Results</h1>
+    {% if results %}
+        <p>Found {{ results|length }} articles for "{{ query }}".</p>
+        {% for result in results %}
+            <div class="article">
+                <h2><a href="{{ result.url }}">{{ result.title }}</a></h2>
+                <p>{{ result.summary }}</p>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>No results found for "{{ query }}". Please try different keywords.</p>
+    {% endif %}
+</body>
+</html>
+"""

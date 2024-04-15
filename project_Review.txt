@@ -1,0 +1,63 @@
+Project Review Process - Instructions:
+
+15-minute Review of Your Current Project and Status:
+Introduction 
+Project Overview: 
+"We're developing an AI-powered research assistant designed to streamline the academic research process. By inputting a research question or topic, users can quickly access summaries of relevant papers, discover studies, and identify research gaps."
+
+Team and Role: 
+"Our team consists of software developers, data scientists, and subject matter experts in machine learning and natural language processing (NLP). I'm leading the project, focusing on integrating AI technologies to optimize our tool's effectiveness."
+
+Background and Objectives 
+
+Need for the Project: 
+"Researchers spend a considerable amount of time sifting through academic papers to find relevant information. Our tool aims to reduce this time by automating the search and summary process, allowing researchers to focus more on analysis and less on manual information retrieval."
+
+Project Goals: 
+"The main goal is to create an intuitive, efficient, and accurate tool that can assist researchers across various disciplines in navigating the vast amount of academic literature available."
+
+Brief Overview:
+
+The script is designed to search for scientific articles through the Europe PMC RESTful web service, retrieve the full text of these articles in XML format, and save them locally. It leverages several Python libraries to perform HTTP requests, parse XML, and interact with the OpenAI API
+
+Title and Description of your Project and "Product":
+
+Title: Automated Research Assistant
+Create a tool that helps researchers gather information, summarize papers, and find relevant studies based on their research topics.
+How It Works: Users input their research question or topic, 
+and the tool uses language models to query academic databases, 
+summarize findings, and 
+I want to extract titles and paragraphs of journal articles downloaded from  Arxiv.org and other research sites in XML formats.  Then I want to create summaries from these extracts. 
+
+	https://www.arxiv.org 
+
+
+High-Level Requirements:
+	Version 0.NN - proof of concept(s)
+	Version 1.0 - "minimum viable product"
+	Version 1.NN.nn - near future release
+	Version x.NN.nn - future releases
+	
+Identifying the Real-world Objects:
+	Objects (Nouns) and Functions (Verbs, Actions, Behavior)
+
+Low-Level Requirements:
+
+Application Logic (workflow, dataflow, flowchart):
+
+Package(s) Required:
+
+Functions, Classes, Objects Required for Your Workflow:
+
+Environment and Tools Setup (instructions for someone else):
+
+Current Status of Coding and Testing:
+
+Current Status of Documentation in Code:
+
+Github Account Setup:
+
+Github Commits Done:
+
+Remaining Tasks before "final product release"
+	Extensions to V1.0

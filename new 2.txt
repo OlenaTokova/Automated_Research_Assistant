@@ -1,0 +1,7 @@
+Objective: Create a tool that helps researchers gather information, summarize papers, 
+and find relevant studies based on their research topics.
+
+How It Works: Users input their research question or topic, 
+and the tool uses language models to query academic databases, 
+summarize findings, and even suggest potential research gaps.
+
